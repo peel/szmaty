@@ -9,4 +9,4 @@ Dane geograficzne © OpenStreetMap contributors, ODbL: https://www.openstreetmap
 Stan danych OSM: 2026-10-01T17:37:51Z.
 
 Publikacja: GitHub Pages, gałąź `main`, katalog główny. Domena: `szmaty.peelosophy.com`.
-Repozytorium pozostaje prywatne; opublikowana mapa i jej dane są publiczne.
+Repozytorium, opublikowana mapa i jej dane są publiczne.

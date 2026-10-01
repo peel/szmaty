@@ -1,0 +1,6950 @@
+{
+  "version": "gdansk-227-pdf-20261001-v2",
+  "osmDate": "2026-10-01T17:37:51Z",
+  "matchedAt": "2026-10-01T17:41:23.722Z",
+  "coordinates": {
+    "219": {
+      "status": "approx",
+      "lat": 54.4173506,
+      "lon": 18.4842147,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/182563199"
+    },
+    "220": {
+      "status": "address",
+      "lat": 54.4188045,
+      "lon": 18.477229,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Junony 88",
+      "osm_url": "https://www.openstreetmap.org/way/954914520"
+    },
+    "221": {
+      "status": "address",
+      "lat": 54.4219071,
+      "lon": 18.4806785,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Orfeusza 6",
+      "osm_url": "https://www.openstreetmap.org/way/107417355"
+    },
+    "222": {
+      "status": "address",
+      "lat": 54.377907,
+      "lon": 18.5050453,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Podchorążych 10",
+      "osm_url": "https://www.openstreetmap.org/way/110323589"
+    },
+    "223": {
+      "status": "approx",
+      "lat": 54.3797585,
+      "lon": 18.5054111,
+      "detail": "PDF podaje tylko nazwę ulicy, bez numeru. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3786387,
+            18.5066409
+          ],
+          [
+            54.3787047,
+            18.5066472
+          ],
+          [
+            54.3794101,
+            18.5066683
+          ],
+          [
+            54.3794356,
+            18.5066694
+          ],
+          [
+            54.3796256,
+            18.5066774
+          ],
+          [
+            54.379652,
+            18.5066785
+          ],
+          [
+            54.3796976,
+            18.5066563
+          ],
+          [
+            54.3797174,
+            18.5066308
+          ],
+          [
+            54.3797422,
+            18.5065559
+          ],
+          [
+            54.3797521,
+            18.5064503
+          ],
+          [
+            54.3797575,
+            18.5055718
+          ],
+          [
+            54.3797585,
+            18.5054111
+          ],
+          [
+            54.3797589,
+            18.5053765
+          ],
+          [
+            54.3797637,
+            18.5050101
+          ],
+          [
+            54.3797714,
+            18.5043301
+          ],
+          [
+            54.3797547,
+            18.5042475
+          ],
+          [
+            54.3797268,
+            18.5042007
+          ],
+          [
+            54.3796832,
+            18.5041768
+          ],
+          [
+            54.3796197,
+            18.5041692
+          ],
+          [
+            54.3794367,
+            18.5041518
+          ],
+          [
+            54.379041,
+            18.5041338
+          ],
+          [
+            54.3788505,
+            18.5041252
+          ],
+          [
+            54.3788016,
+            18.5041011
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/298790444"
+    },
+    "224": {
+      "status": "approx",
+      "lat": 54.3767994,
+      "lon": 18.524019,
+      "detail": "PDF podaje tylko nazwę ulicy, bez numeru. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3765425,
+            18.5226224
+          ],
+          [
+            54.3766019,
+            18.5226215
+          ]
+        ],
+        [
+          [
+            54.3768263,
+            18.5226182
+          ],
+          [
+            54.3766166,
+            18.5223024
+          ],
+          [
+            54.3765478,
+            18.5221989
+          ]
+        ],
+        [
+          [
+            54.3772269,
+            18.5255268
+          ],
+          [
+            54.3772119,
+            18.5264501
+          ]
+        ],
+        [
+          [
+            54.3785857,
+            18.5265204
+          ],
+          [
+            54.3785241,
+            18.5256279
+          ],
+          [
+            54.3785055,
+            18.5255756
+          ],
+          [
+            54.3784722,
+            18.5255506
+          ],
+          [
+            54.3782712,
+            18.5255292
+          ]
+        ],
+        [
+          [
+            54.3786684,
+            18.522717
+          ],
+          [
+            54.3785899,
+            18.5232699
+          ],
+          [
+            54.3785207,
+            18.5237611
+          ],
+          [
+            54.3783989,
+            18.5246344
+          ],
+          [
+            54.3782712,
+            18.5255292
+          ],
+          [
+            54.3781386,
+            18.5264188
+          ],
+          [
+            54.3772119,
+            18.5264501
+          ],
+          [
+            54.3770287,
+            18.5264545
+          ],
+          [
+            54.3769235,
+            18.5255096
+          ]
+        ],
+        [
+          [
+            54.3768184,
+            18.5229441
+          ],
+          [
+            54.3768161,
+            18.5230772
+          ],
+          [
+            54.3768141,
+            18.5231891
+          ],
+          [
+            54.3768087,
+            18.5234936
+          ]
+        ],
+        [
+          [
+            54.3766019,
+            18.5226215
+          ],
+          [
+            54.3768263,
+            18.5226182
+          ]
+        ],
+        [
+          [
+            54.3789254,
+            18.5227308
+          ],
+          [
+            54.3786684,
+            18.522717
+          ],
+          [
+            54.3778228,
+            18.5226716
+          ],
+          [
+            54.3771128,
+            18.5226336
+          ],
+          [
+            54.3768263,
+            18.5226182
+          ]
+        ],
+        [
+          [
+            54.3767781,
+            18.5252216
+          ],
+          [
+            54.3767735,
+            18.5254969
+          ]
+        ],
+        [
+          [
+            54.3767994,
+            18.524019
+          ],
+          [
+            54.3767908,
+            18.5245061
+          ],
+          [
+            54.3767891,
+            18.5245999
+          ],
+          [
+            54.3767781,
+            18.5252216
+          ]
+        ],
+        [
+          [
+            54.3768263,
+            18.5226182
+          ],
+          [
+            54.3768217,
+            18.5228081
+          ],
+          [
+            54.3768184,
+            18.5229441
+          ]
+        ],
+        [
+          [
+            54.3768087,
+            18.5234936
+          ],
+          [
+            54.3768049,
+            18.5237106
+          ],
+          [
+            54.3767994,
+            18.524019
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/27477745"
+    },
+    "225": {
+      "status": "address",
+      "lat": 54.3776181,
+      "lon": 18.5261881,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Harfowa 17",
+      "osm_url": "https://www.openstreetmap.org/way/107394545"
+    },
+    "226": {
+      "status": "address",
+      "lat": 54.3894675,
+      "lon": 18.4794255,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Radiowa 12",
+      "osm_url": "https://www.openstreetmap.org/way/336139820"
+    },
+    "227": {
+      "status": "approx",
+      "lat": 54.3785899,
+      "lon": 18.5232699,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/173794353"
+    },
+    "228": {
+      "status": "address",
+      "lat": 54.3249244,
+      "lon": 18.5484672,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Jabłoniowa 48",
+      "osm_url": "https://www.openstreetmap.org/way/111605373"
+    },
+    "229": {
+      "status": "unresolved",
+      "lat": null,
+      "lon": null,
+      "detail": "Nie rozpoznano jednoznacznie skrzyżowania tych ulic w danych mapowych."
+    },
+    "230": {
+      "status": "address",
+      "lat": 54.4043514,
+      "lon": 18.5615317,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Artura Grottgera 30A",
+      "osm_url": "https://www.openstreetmap.org/way/103762577"
+    },
+    "231": {
+      "status": "address",
+      "lat": 54.419268,
+      "lon": 18.5663875,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Aleja Grunwaldzka 577",
+      "osm_url": "https://www.openstreetmap.org/way/435789355"
+    },
+    "232": {
+      "status": "address",
+      "lat": 54.420352,
+      "lon": 18.565797,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Aleja Grunwaldzka 591",
+      "osm_url": "https://www.openstreetmap.org/way/100721370"
+    },
+    "233": {
+      "status": "address",
+      "lat": 54.3863365,
+      "lon": 18.5738489,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Piotra Michałowskiego 29",
+      "osm_url": "https://www.openstreetmap.org/way/103325009"
+    },
+    "234": {
+      "status": "address",
+      "lat": 54.3889811,
+      "lon": 18.5688139,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Piotra Norblina 27",
+      "osm_url": "https://www.openstreetmap.org/way/103462483"
+    },
+    "235": {
+      "status": "address",
+      "lat": 54.392843,
+      "lon": 18.5703895,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Doktora Władysława Paneckiego 19",
+      "osm_url": "https://www.openstreetmap.org/way/103322596"
+    },
+    "236": {
+      "status": "address",
+      "lat": 54.3863597,
+      "lon": 18.5696885,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Henryka Rodakowskiego 1",
+      "osm_url": "https://www.openstreetmap.org/way/103449314"
+    },
+    "237": {
+      "status": "address",
+      "lat": 54.41307,
+      "lon": 18.5564632,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Tatrzańska 3",
+      "osm_url": "https://www.openstreetmap.org/way/103806763"
+    },
+    "238": {
+      "status": "address",
+      "lat": 54.3974829,
+      "lon": 18.572011,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Wita Stwosza 55",
+      "osm_url": "https://www.openstreetmap.org/node/5530418796"
+    },
+    "239": {
+      "status": "address",
+      "lat": 54.3958523,
+      "lon": 18.6061219,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Zbigniewa Burzyńskiego 6A",
+      "osm_url": "https://www.openstreetmap.org/way/95627148"
+    },
+    "240": {
+      "status": "address",
+      "lat": 54.3954428,
+      "lon": 18.60447,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Zbigniewa Burzyńskiego 6G",
+      "osm_url": "https://www.openstreetmap.org/way/95627154"
+    },
+    "241": {
+      "status": "address",
+      "lat": 54.3949047,
+      "lon": 18.6080494,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Zbigniewa Burzyńskiego 8A",
+      "osm_url": "https://www.openstreetmap.org/way/95627157"
+    },
+    "242": {
+      "status": "address",
+      "lat": 54.3973644,
+      "lon": 18.6067771,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Zbigniewa Burzyńskiego 12G",
+      "osm_url": "https://www.openstreetmap.org/way/95621068"
+    },
+    "243": {
+      "status": "approx",
+      "lat": 54.3915494,
+      "lon": 18.6144067,
+      "detail": "Nie znaleziono całego zapisu numeru. Pokazano jeden z adresów należących do podanego zakresu; sprawdź opis z PDF.",
+      "matched_address": "Konstantego Ciołkowskiego 3",
+      "osm_url": "https://www.openstreetmap.org/node/11753834130"
+    },
+    "244": {
+      "status": "address",
+      "lat": 54.3922794,
+      "lon": 18.6121667,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Konstantego Ciołkowskiego 7",
+      "osm_url": "https://www.openstreetmap.org/node/11754016037"
+    },
+    "245": {
+      "status": "address",
+      "lat": 54.3898997,
+      "lon": 18.6029787,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Dywizjonu 303 25",
+      "osm_url": "https://www.openstreetmap.org/way/89667493"
+    },
+    "246": {
+      "status": "address",
+      "lat": 54.3922605,
+      "lon": 18.6014311,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Dywizjonu 303 33C",
+      "osm_url": "https://www.openstreetmap.org/node/10167716058"
+    },
+    "247": {
+      "status": "approx",
+      "lat": 54.3958227,
+      "lon": 18.6108035,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Kombatantów 1A",
+      "osm_url": "https://www.openstreetmap.org/way/89667668"
+    },
+    "248": {
+      "status": "approx",
+      "lat": 54.4016947,
+      "lon": 18.6073477,
+      "detail": "Nie znaleziono całego zapisu numeru. Pokazano jeden z adresów należących do podanego zakresu; sprawdź opis z PDF.",
+      "matched_address": "Janusza Meissnera 12",
+      "osm_url": "https://www.openstreetmap.org/way/101380366"
+    },
+    "249": {
+      "status": "address",
+      "lat": 54.4022698,
+      "lon": 18.6063779,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Janusza Meissnera 13",
+      "osm_url": "https://www.openstreetmap.org/way/90722547"
+    },
+    "250": {
+      "status": "address",
+      "lat": 54.4033771,
+      "lon": 18.6085769,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Janusza Meissnera 16A",
+      "osm_url": "https://www.openstreetmap.org/node/8406104239"
+    },
+    "251": {
+      "status": "address",
+      "lat": 54.4031832,
+      "lon": 18.6095087,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Janusza Meissnera 18A",
+      "osm_url": "https://www.openstreetmap.org/node/13031363533"
+    },
+    "252": {
+      "status": "address",
+      "lat": 54.4010472,
+      "lon": 18.6054332,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Janusza Meissnera 6",
+      "osm_url": "https://www.openstreetmap.org/way/101380318"
+    },
+    "253": {
+      "status": "address",
+      "lat": 54.3922079,
+      "lon": 18.6030972,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Jana Nagórskiego 5A",
+      "osm_url": "https://www.openstreetmap.org/node/10167716053"
+    },
+    "254": {
+      "status": "address",
+      "lat": 54.3916979,
+      "lon": 18.6043248,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Jana Nagórskiego 7A",
+      "osm_url": "https://www.openstreetmap.org/node/10167716048"
+    },
+    "255": {
+      "status": "address",
+      "lat": 54.3966468,
+      "lon": 18.5894964,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Pilotów 23",
+      "osm_url": "https://www.openstreetmap.org/way/238121148"
+    },
+    "256": {
+      "status": "address",
+      "lat": 54.391445,
+      "lon": 18.593737,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Pilotów 8",
+      "osm_url": "https://www.openstreetmap.org/way/95657985"
+    },
+    "257": {
+      "status": "address",
+      "lat": 54.3955008,
+      "lon": 18.5933589,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Startowa 17",
+      "osm_url": "https://www.openstreetmap.org/way/100748685"
+    },
+    "258": {
+      "status": "address",
+      "lat": 54.3960729,
+      "lon": 18.592366,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Startowa 19",
+      "osm_url": "https://www.openstreetmap.org/way/439679853"
+    },
+    "259": {
+      "status": "address",
+      "lat": 54.3930345,
+      "lon": 18.6079861,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Żwirki i Wigury 14A",
+      "osm_url": "https://www.openstreetmap.org/way/95588088"
+    },
+    "260": {
+      "status": "address",
+      "lat": 54.3937662,
+      "lon": 18.608271,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Żwirki i Wigury 14F",
+      "osm_url": "https://www.openstreetmap.org/way/95588097"
+    },
+    "261": {
+      "status": "address",
+      "lat": 54.3924746,
+      "lon": 18.6087053,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Żwirki i Wigury 3",
+      "osm_url": "https://www.openstreetmap.org/node/11754016040"
+    },
+    "262": {
+      "status": "approx",
+      "lat": 54.3883175,
+      "lon": 18.6278935,
+      "detail": "Nie znaleziono całego zapisu numeru. Pokazano jeden z adresów należących do podanego zakresu; sprawdź opis z PDF.",
+      "matched_address": "Franciszka Bohomolca 3A",
+      "osm_url": "https://www.openstreetmap.org/node/11847371875"
+    },
+    "263": {
+      "status": "approx",
+      "lat": 54.3761957,
+      "lon": 18.5637389,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Góralska 15D",
+      "osm_url": "https://www.openstreetmap.org/node/9438430489"
+    },
+    "264": {
+      "status": "address",
+      "lat": 54.3791639,
+      "lon": 18.5665324,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Góralska 18B",
+      "osm_url": "https://www.openstreetmap.org/node/9443537553"
+    },
+    "265": {
+      "status": "approx",
+      "lat": 54.3795877,
+      "lon": 18.5589522,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Góralska 51A",
+      "osm_url": "https://www.openstreetmap.org/node/5126323758"
+    },
+    "266": {
+      "status": "address",
+      "lat": 54.3780828,
+      "lon": 18.5591524,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Góralska 57",
+      "osm_url": "https://www.openstreetmap.org/way/106810903"
+    },
+    "267": {
+      "status": "address",
+      "lat": 54.3785595,
+      "lon": 18.5586201,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Góralska 61",
+      "osm_url": "https://www.openstreetmap.org/way/106810918"
+    },
+    "268": {
+      "status": "address",
+      "lat": 54.3802991,
+      "lon": 18.5579099,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Góralska 69",
+      "osm_url": "https://www.openstreetmap.org/way/106811002"
+    },
+    "269": {
+      "status": "approx",
+      "lat": 54.3749411,
+      "lon": 18.5641323,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Góralska 9B",
+      "osm_url": "https://www.openstreetmap.org/way/106811095"
+    },
+    "270": {
+      "status": "address",
+      "lat": 54.3611385,
+      "lon": 18.5567625,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Gustawa Herlinga-Grudzińskiego 6",
+      "osm_url": "https://www.openstreetmap.org/way/107235874"
+    },
+    "271": {
+      "status": "address",
+      "lat": 54.3876235,
+      "lon": 18.6235145,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Tadeusza Kościuszki 109",
+      "osm_url": "https://www.openstreetmap.org/way/88474979"
+    },
+    "272": {
+      "status": "address",
+      "lat": 54.3734309,
+      "lon": 18.5631216,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Leśna Góra 29",
+      "osm_url": "https://www.openstreetmap.org/way/106811137"
+    },
+    "273": {
+      "status": "approx",
+      "lat": 54.3751888,
+      "lon": 18.5660349,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Mazowiecka 5A",
+      "osm_url": "https://www.openstreetmap.org/node/9443521137"
+    },
+    "274": {
+      "status": "approx",
+      "lat": 54.378499,
+      "lon": 18.5819315,
+      "detail": "Nie znaleziono całego zapisu numeru. Pokazano jeden z adresów należących do podanego zakresu; sprawdź opis z PDF.",
+      "matched_address": "Partyzantów 109",
+      "osm_url": "https://www.openstreetmap.org/way/103307180"
+    },
+    "275": {
+      "status": "approx",
+      "lat": 54.3787114,
+      "lon": 18.5988057,
+      "detail": "Nie znaleziono numeru 91-91. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3778714,
+            18.6046809
+          ],
+          [
+            54.3779412,
+            18.6042041
+          ],
+          [
+            54.378018,
+            18.6036859
+          ],
+          [
+            54.3780282,
+            18.603617
+          ],
+          [
+            54.3780747,
+            18.6033065
+          ],
+          [
+            54.3781096,
+            18.6030732
+          ],
+          [
+            54.3781789,
+            18.6026094
+          ],
+          [
+            54.3782395,
+            18.6022048
+          ]
+        ],
+        [
+          [
+            54.3795149,
+            18.5895157
+          ],
+          [
+            54.3796184,
+            18.589242
+          ],
+          [
+            54.3796682,
+            18.5889954
+          ]
+        ],
+        [
+          [
+            54.3792798,
+            18.5910704
+          ],
+          [
+            54.379265,
+            18.5914537
+          ],
+          [
+            54.379255,
+            18.5917114
+          ]
+        ],
+        [
+          [
+            54.3794745,
+            18.5886051
+          ],
+          [
+            54.3793985,
+            18.5888447
+          ],
+          [
+            54.3793801,
+            18.5889126
+          ],
+          [
+            54.3793232,
+            18.5891224
+          ]
+        ],
+        [
+          [
+            54.3779342,
+            18.6069383
+          ],
+          [
+            54.377813,
+            18.6068022
+          ],
+          [
+            54.3776125,
+            18.6065689
+          ]
+        ],
+        [
+          [
+            54.379255,
+            18.5917114
+          ],
+          [
+            54.379253,
+            18.5925781
+          ],
+          [
+            54.3792555,
+            18.593161
+          ],
+          [
+            54.3792551,
+            18.5933556
+          ]
+        ],
+        [
+          [
+            54.3793232,
+            18.5891224
+          ],
+          [
+            54.3792871,
+            18.589268
+          ],
+          [
+            54.3792715,
+            18.5895785
+          ],
+          [
+            54.3792804,
+            18.5898558
+          ]
+        ],
+        [
+          [
+            54.3792798,
+            18.5910704
+          ],
+          [
+            54.3793222,
+            18.5908062
+          ],
+          [
+            54.3793476,
+            18.5903212
+          ],
+          [
+            54.379362,
+            18.590103
+          ],
+          [
+            54.3793847,
+            18.5899324
+          ],
+          [
+            54.3794173,
+            18.5897854
+          ],
+          [
+            54.379456,
+            18.5896724
+          ],
+          [
+            54.3795149,
+            18.5895157
+          ]
+        ],
+        [
+          [
+            54.3772044,
+            18.6061329
+          ],
+          [
+            54.3771109,
+            18.6062753
+          ],
+          [
+            54.3770033,
+            18.6064908
+          ],
+          [
+            54.3769356,
+            18.6066442
+          ],
+          [
+            54.376886,
+            18.6067736
+          ],
+          [
+            54.3767607,
+            18.6070951
+          ],
+          [
+            54.3767129,
+            18.6072123
+          ],
+          [
+            54.3766524,
+            18.607373
+          ],
+          [
+            54.3766374,
+            18.6074183
+          ]
+        ],
+        [
+          [
+            54.3776125,
+            18.6065689
+          ],
+          [
+            54.3773178,
+            18.6062539
+          ],
+          [
+            54.3772044,
+            18.6061329
+          ]
+        ],
+        [
+          [
+            54.378777,
+            18.5982763
+          ],
+          [
+            54.3787858,
+            18.5982056
+          ],
+          [
+            54.3788769,
+            18.5974099
+          ],
+          [
+            54.3789107,
+            18.5970989
+          ],
+          [
+            54.3789365,
+            18.5968436
+          ],
+          [
+            54.3789719,
+            18.5965224
+          ],
+          [
+            54.379084,
+            18.595432
+          ],
+          [
+            54.3790942,
+            18.595329
+          ]
+        ],
+        [
+          [
+            54.378287,
+            18.6016179
+          ],
+          [
+            54.3783261,
+            18.6015089
+          ],
+          [
+            54.3783479,
+            18.6014192
+          ],
+          [
+            54.3783565,
+            18.6013841
+          ],
+          [
+            54.3783832,
+            18.6012296
+          ],
+          [
+            54.3784246,
+            18.6009425
+          ]
+        ],
+        [
+          [
+            54.3766374,
+            18.6074183
+          ],
+          [
+            54.3766499,
+            18.6075313
+          ],
+          [
+            54.3766703,
+            18.6077154
+          ]
+        ],
+        [
+          [
+            54.378227,
+            18.5841388
+          ],
+          [
+            54.3783538,
+            18.5850186
+          ],
+          [
+            54.3784049,
+            18.5853729
+          ],
+          [
+            54.3785183,
+            18.5861592
+          ],
+          [
+            54.3785516,
+            18.5863895
+          ],
+          [
+            54.3786302,
+            18.586934
+          ],
+          [
+            54.37865,
+            18.5870594
+          ]
+        ],
+        [
+          [
+            54.3766374,
+            18.6074183
+          ],
+          [
+            54.3765797,
+            18.6074345
+          ],
+          [
+            54.3764589,
+            18.6074684
+          ]
+        ],
+        [
+          [
+            54.3776737,
+            18.6053199
+          ],
+          [
+            54.3777736,
+            18.6050562
+          ]
+        ],
+        [
+          [
+            54.3774996,
+            18.6056661
+          ],
+          [
+            54.3775949,
+            18.6054997
+          ],
+          [
+            54.3776737,
+            18.6053199
+          ]
+        ],
+        [
+          [
+            54.3772044,
+            18.6061329
+          ],
+          [
+            54.3772199,
+            18.6061081
+          ],
+          [
+            54.3772655,
+            18.606035
+          ],
+          [
+            54.3773311,
+            18.6059359
+          ],
+          [
+            54.3774996,
+            18.6056661
+          ]
+        ],
+        [
+          [
+            54.3792804,
+            18.5898558
+          ],
+          [
+            54.3792737,
+            18.590461
+          ],
+          [
+            54.3792609,
+            18.5907967
+          ],
+          [
+            54.3792798,
+            18.5910704
+          ]
+        ],
+        [
+          [
+            54.3784246,
+            18.6009425
+          ],
+          [
+            54.378487,
+            18.6004951
+          ],
+          [
+            54.3785171,
+            18.600276
+          ],
+          [
+            54.3785437,
+            18.6000963
+          ],
+          [
+            54.3785632,
+            18.5999661
+          ],
+          [
+            54.3785905,
+            18.5997801
+          ],
+          [
+            54.3786043,
+            18.5996726
+          ],
+          [
+            54.3786541,
+            18.599286
+          ]
+        ],
+        [
+          [
+            54.3786541,
+            18.599286
+          ],
+          [
+            54.3787114,
+            18.5988057
+          ],
+          [
+            54.378777,
+            18.5982763
+          ]
+        ],
+        [
+          [
+            54.3791132,
+            18.5951363
+          ],
+          [
+            54.37914,
+            18.5948654
+          ],
+          [
+            54.3791882,
+            18.5943904
+          ],
+          [
+            54.3792306,
+            18.5939716
+          ],
+          [
+            54.3792468,
+            18.59378
+          ],
+          [
+            54.3792546,
+            18.5936249
+          ]
+        ],
+        [
+          [
+            54.3792546,
+            18.5936249
+          ],
+          [
+            54.3792548,
+            18.5935032
+          ],
+          [
+            54.3792551,
+            18.5933556
+          ]
+        ],
+        [
+          [
+            54.3790942,
+            18.595329
+          ],
+          [
+            54.3791132,
+            18.5951363
+          ]
+        ],
+        [
+          [
+            54.3780239,
+            18.6070367
+          ],
+          [
+            54.3779342,
+            18.6069383
+          ]
+        ],
+        [
+          [
+            54.3777736,
+            18.6050562
+          ],
+          [
+            54.3778069,
+            18.6049547
+          ],
+          [
+            54.3778356,
+            18.6048493
+          ],
+          [
+            54.3778555,
+            18.6047612
+          ],
+          [
+            54.3778714,
+            18.6046809
+          ]
+        ],
+        [
+          [
+            54.3782395,
+            18.6022048
+          ],
+          [
+            54.3782551,
+            18.6020994
+          ],
+          [
+            54.3782739,
+            18.6019537
+          ],
+          [
+            54.3782842,
+            18.6018223
+          ],
+          [
+            54.3782879,
+            18.6017386
+          ],
+          [
+            54.378287,
+            18.6016179
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/25706154"
+    },
+    "276": {
+      "status": "approx",
+      "lat": 54.3773014,
+      "lon": 18.5845433,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/27475771"
+    },
+    "277": {
+      "status": "address",
+      "lat": 54.3772543,
+      "lon": 18.5825239,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Róży Ostrowskiej 4",
+      "osm_url": "https://www.openstreetmap.org/way/90753008"
+    },
+    "278": {
+      "status": "address",
+      "lat": 54.380113,
+      "lon": 18.5915837,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Juliusza Słowackiego 10",
+      "osm_url": "https://www.openstreetmap.org/node/2228754008"
+    },
+    "279": {
+      "status": "address",
+      "lat": 54.3795142,
+      "lon": 18.5870905,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Juliusza Słowackiego 36A",
+      "osm_url": "https://www.openstreetmap.org/way/90752983"
+    },
+    "280": {
+      "status": "approx",
+      "lat": 54.3797728,
+      "lon": 18.5835416,
+      "detail": "Nie znaleziono całego zapisu numeru. Pokazano jeden z adresów należących do podanego zakresu; sprawdź opis z PDF.",
+      "matched_address": "Juliusza Słowackiego 51",
+      "osm_url": "https://www.openstreetmap.org/node/9455438855"
+    },
+    "282": {
+      "status": "address",
+      "lat": 54.379754,
+      "lon": 18.581484,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Juliusza Słowackiego 57A",
+      "osm_url": "https://www.openstreetmap.org/way/103304855"
+    },
+    "283": {
+      "status": "address",
+      "lat": 54.3628355,
+      "lon": 18.6116665,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Jana Sobieskiego 72",
+      "osm_url": "https://www.openstreetmap.org/way/103914306"
+    },
+    "285": {
+      "status": "address",
+      "lat": 54.3789549,
+      "lon": 18.5739863,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Trawki 11",
+      "osm_url": "https://www.openstreetmap.org/node/13326630067"
+    },
+    "286": {
+      "status": "address",
+      "lat": 54.3811853,
+      "lon": 18.6155973,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Stanisława Wyspiańskiego 30A",
+      "osm_url": "https://www.openstreetmap.org/way/218041578"
+    },
+    "287": {
+      "status": "approx",
+      "lat": 54.376652,
+      "lon": 18.583357,
+      "detail": "Nie znaleziono numeru 23. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3773014,
+            18.5845433
+          ],
+          [
+            54.3772936,
+            18.5844451
+          ],
+          [
+            54.376652,
+            18.583357
+          ],
+          [
+            54.3764485,
+            18.5830118
+          ],
+          [
+            54.3764194,
+            18.5829625
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/235062527"
+    },
+    "288": {
+      "status": "address",
+      "lat": 54.3604682,
+      "lon": 18.5785185,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Roalda Amundsena 5C",
+      "osm_url": "https://www.openstreetmap.org/node/12304900688"
+    },
+    "289": {
+      "status": "address",
+      "lat": 54.3602624,
+      "lon": 18.5856639,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Henryka Arctowskiego 12B",
+      "osm_url": "https://www.openstreetmap.org/node/11810128441"
+    },
+    "290": {
+      "status": "approx",
+      "lat": 54.3554633,
+      "lon": 18.5791403,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Bulońska 14A",
+      "osm_url": "https://www.openstreetmap.org/node/12303182464"
+    },
+    "291": {
+      "status": "address",
+      "lat": 54.3524195,
+      "lon": 18.5766758,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Bulońska 46",
+      "osm_url": "https://www.openstreetmap.org/way/105757567"
+    },
+    "292": {
+      "status": "address",
+      "lat": 54.36066,
+      "lon": 18.572777,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Bronisława Czecha 11",
+      "osm_url": "https://www.openstreetmap.org/way/105760239"
+    },
+    "293": {
+      "status": "address",
+      "lat": 54.3614435,
+      "lon": 18.5742415,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Bronisława Czecha 2",
+      "osm_url": "https://www.openstreetmap.org/way/105762985"
+    },
+    "294": {
+      "status": "address",
+      "lat": 54.3603915,
+      "lon": 18.5735575,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Bronisława Czecha 5",
+      "osm_url": "https://www.openstreetmap.org/way/105760238"
+    },
+    "295": {
+      "status": "approx",
+      "lat": 54.36032,
+      "lon": 18.5869195,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Antoniego Dobrowolskiego 3A",
+      "osm_url": "https://www.openstreetmap.org/node/11810128423"
+    },
+    "296": {
+      "status": "address",
+      "lat": 54.3592227,
+      "lon": 18.591482,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Poli Gojawiczyńskiej 3C",
+      "osm_url": "https://www.openstreetmap.org/node/7679852494"
+    },
+    "297": {
+      "status": "address",
+      "lat": 54.3542855,
+      "lon": 18.573724,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Związku Jaszczurczego 9",
+      "osm_url": "https://www.openstreetmap.org/way/105760224"
+    },
+    "298": {
+      "status": "address",
+      "lat": 54.3666363,
+      "lon": 18.5893868,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Jaśkowa Dolina 81",
+      "osm_url": "https://www.openstreetmap.org/way/103834005"
+    },
+    "299": {
+      "status": "approx",
+      "lat": 54.3608842,
+      "lon": 18.5779733,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Krzysztofa Kolumba 2B",
+      "osm_url": "https://www.openstreetmap.org/node/12304900689"
+    },
+    "300": {
+      "status": "approx",
+      "lat": 54.3603575,
+      "lon": 18.5832013,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Ignacego Matuszewskiego 15A",
+      "osm_url": "https://www.openstreetmap.org/node/12304900685"
+    },
+    "301": {
+      "status": "approx",
+      "lat": 54.3609671,
+      "lon": 18.5827896,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Ignacego Matuszewskiego 17A",
+      "osm_url": "https://www.openstreetmap.org/node/12304900691"
+    },
+    "302": {
+      "status": "address",
+      "lat": 54.357044,
+      "lon": 18.575598,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Heleny Marusarzówny 11",
+      "osm_url": "https://www.openstreetmap.org/way/105760201"
+    },
+    "303": {
+      "status": "address",
+      "lat": 54.3574845,
+      "lon": 18.576827,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Heleny Marusarzówny 5",
+      "osm_url": "https://www.openstreetmap.org/way/105760210"
+    },
+    "304": {
+      "status": "approx",
+      "lat": 54.3632781,
+      "lon": 18.5984965,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Profesora Stefana Myczkowskiego 8",
+      "osm_url": "https://www.openstreetmap.org/way/103834506"
+    },
+    "305": {
+      "status": "address",
+      "lat": 54.3628734,
+      "lon": 18.5973581,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Profesora Stefana Myczkowskiego 4",
+      "osm_url": "https://www.openstreetmap.org/way/103834497"
+    },
+    "306": {
+      "status": "address",
+      "lat": 54.3635188,
+      "lon": 18.5971311,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Profesora Stefana Myczkowskiego 5",
+      "osm_url": "https://www.openstreetmap.org/way/103834492"
+    },
+    "307": {
+      "status": "approx",
+      "lat": 54.3592017,
+      "lon": 18.5897298,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Piecewska 20A",
+      "osm_url": "https://www.openstreetmap.org/node/7676068612"
+    },
+    "308": {
+      "status": "approx",
+      "lat": 54.3600319,
+      "lon": 18.5830425,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Piecewska 28A",
+      "osm_url": "https://www.openstreetmap.org/node/12304900705"
+    },
+    "309": {
+      "status": "approx",
+      "lat": 54.3524659,
+      "lon": 18.5719246,
+      "detail": "PDF podaje tylko nazwę ulicy, bez numeru. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3518942,
+            18.5713331
+          ],
+          [
+            54.3519992,
+            18.571315
+          ],
+          [
+            54.3522316,
+            18.5712873
+          ],
+          [
+            54.3522442,
+            18.5713504
+          ],
+          [
+            54.3522572,
+            18.5714122
+          ],
+          [
+            54.3524659,
+            18.5719246
+          ],
+          [
+            54.3525006,
+            18.5719797
+          ],
+          [
+            54.3529069,
+            18.5722784
+          ],
+          [
+            54.3529511,
+            18.5722493
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/174058463"
+    },
+    "310": {
+      "status": "address",
+      "lat": 54.3545189,
+      "lon": 18.5762592,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Powstania Listopadowego 3",
+      "osm_url": "https://www.openstreetmap.org/way/105765858"
+    },
+    "311": {
+      "status": "approx",
+      "lat": 54.354686,
+      "lon": 18.5762453,
+      "detail": "Opis „przed pawilonami” nie pozwolił jednoznacznie wskazać miejsca. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3553358,
+            18.5779583
+          ],
+          [
+            54.3553807,
+            18.5777827
+          ],
+          [
+            54.3553906,
+            18.5777265
+          ],
+          [
+            54.3554027,
+            18.5776072
+          ],
+          [
+            54.3554452,
+            18.5771582
+          ],
+          [
+            54.3554569,
+            18.5770467
+          ],
+          [
+            54.3555116,
+            18.5765249
+          ],
+          [
+            54.3555148,
+            18.5764946
+          ],
+          [
+            54.3555494,
+            18.576141
+          ],
+          [
+            54.3555549,
+            18.5760864
+          ],
+          [
+            54.3555621,
+            18.5760165
+          ],
+          [
+            54.3555952,
+            18.5756784
+          ],
+          [
+            54.3556115,
+            18.5755113
+          ],
+          [
+            54.3556739,
+            18.5748044
+          ],
+          [
+            54.3556754,
+            18.5747822
+          ],
+          [
+            54.3556787,
+            18.5747312
+          ],
+          [
+            54.3556869,
+            18.5746064
+          ],
+          [
+            54.3557019,
+            18.5744283
+          ],
+          [
+            54.3557057,
+            18.5743283
+          ],
+          [
+            54.3557091,
+            18.5742177
+          ],
+          [
+            54.3557057,
+            18.5740784
+          ],
+          [
+            54.3556947,
+            18.5739465
+          ],
+          [
+            54.3556719,
+            18.5737403
+          ],
+          [
+            54.3555542,
+            18.5728764
+          ],
+          [
+            54.3555349,
+            18.5727482
+          ]
+        ],
+        [
+          [
+            54.3545171,
+            18.5769006
+          ],
+          [
+            54.3548533,
+            18.5771689
+          ],
+          [
+            54.3549955,
+            18.5772823
+          ],
+          [
+            54.3551796,
+            18.5774292
+          ],
+          [
+            54.3552733,
+            18.577504
+          ],
+          [
+            54.3554027,
+            18.5776072
+          ]
+        ],
+        [
+          [
+            54.352391,
+            18.5734465
+          ],
+          [
+            54.3524227,
+            18.573446
+          ],
+          [
+            54.3524558,
+            18.5734387
+          ],
+          [
+            54.3524853,
+            18.5734203
+          ],
+          [
+            54.3525193,
+            18.5733832
+          ],
+          [
+            54.3526198,
+            18.5732263
+          ],
+          [
+            54.3527117,
+            18.5731105
+          ],
+          [
+            54.3527588,
+            18.5730653
+          ],
+          [
+            54.3528051,
+            18.5730427
+          ],
+          [
+            54.3528417,
+            18.5730415
+          ],
+          [
+            54.3528952,
+            18.5730583
+          ],
+          [
+            54.3531311,
+            18.5731679
+          ],
+          [
+            54.3532401,
+            18.5732106
+          ],
+          [
+            54.3534237,
+            18.5732671
+          ],
+          [
+            54.3534679,
+            18.5732724
+          ],
+          [
+            54.3534848,
+            18.5732713
+          ],
+          [
+            54.3534973,
+            18.5732706
+          ],
+          [
+            54.3540144,
+            18.5730573
+          ],
+          [
+            54.3542806,
+            18.5729355
+          ],
+          [
+            54.3543926,
+            18.5728972
+          ],
+          [
+            54.3544442,
+            18.5728846
+          ],
+          [
+            54.354489,
+            18.5728768
+          ],
+          [
+            54.3545563,
+            18.5728725
+          ],
+          [
+            54.3546267,
+            18.5728779
+          ],
+          [
+            54.3547446,
+            18.5728948
+          ],
+          [
+            54.3550703,
+            18.5729318
+          ],
+          [
+            54.3551315,
+            18.5729302
+          ],
+          [
+            54.3551845,
+            18.5729252
+          ],
+          [
+            54.3552452,
+            18.5729078
+          ],
+          [
+            54.3554793,
+            18.5727686
+          ],
+          [
+            54.3555349,
+            18.5727482
+          ]
+        ],
+        [
+          [
+            54.3545171,
+            18.5769006
+          ],
+          [
+            54.354686,
+            18.5762453
+          ]
+        ],
+        [
+          [
+            54.3537688,
+            18.5763214
+          ],
+          [
+            54.3539542,
+            18.5764658
+          ]
+        ],
+        [
+          [
+            54.3539542,
+            18.5764658
+          ],
+          [
+            54.3539951,
+            18.5765567
+          ],
+          [
+            54.3542705,
+            18.5767848
+          ],
+          [
+            54.3545171,
+            18.5769006
+          ]
+        ],
+        [
+          [
+            54.355495,
+            18.5725275
+          ],
+          [
+            54.3555138,
+            18.5726319
+          ],
+          [
+            54.3555349,
+            18.5727482
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/27476371"
+    },
+    "312": {
+      "status": "address",
+      "lat": 54.3539727,
+      "lon": 18.5719862,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Powstania Styczniowego 5",
+      "osm_url": "https://www.openstreetmap.org/way/105760234"
+    },
+    "313": {
+      "status": "unresolved",
+      "lat": null,
+      "lon": null,
+      "detail": "Brak danych pozwalających rozpoznać tę ulicę w Gdańsku."
+    },
+    "314": {
+      "status": "approx",
+      "lat": 54.3562694,
+      "lon": 18.5833337,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Warneńska 7C",
+      "osm_url": "https://www.openstreetmap.org/node/2228774629"
+    },
+    "315": {
+      "status": "approx",
+      "lat": 54.3612816,
+      "lon": 18.5927858,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Wileńska 57A",
+      "osm_url": "https://www.openstreetmap.org/node/12306018166"
+    },
+    "316": {
+      "status": "address",
+      "lat": 54.3608985,
+      "lon": 18.5919023,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Wileńska 59C",
+      "osm_url": "https://www.openstreetmap.org/node/12306018189"
+    },
+    "317": {
+      "status": "address",
+      "lat": 54.3602624,
+      "lon": 18.5755788,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Romana Wyrobka 2",
+      "osm_url": "https://www.openstreetmap.org/way/105760169"
+    },
+    "318": {
+      "status": "address",
+      "lat": 54.359004,
+      "lon": 18.5739465,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Romana Wyrobka 9",
+      "osm_url": "https://www.openstreetmap.org/way/105760182"
+    },
+    "319": {
+      "status": "approx",
+      "lat": 54.3609852,
+      "lon": 18.595958,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Franciszka Zabłockiego 3C",
+      "osm_url": "https://www.openstreetmap.org/node/12306018169"
+    },
+    "320": {
+      "status": "approx",
+      "lat": 54.3558938,
+      "lon": 18.6171619,
+      "detail": "Dopasowano pobliski obiekt, nie sam pojemnik. Opis z PDF: Biedronka. Obiekt lub jego nazwa mogły się zmienić.",
+      "matched_address": "Ludwika Beethovena 11A",
+      "osm_url": "https://www.openstreetmap.org/way/435055903"
+    },
+    "321": {
+      "status": "approx",
+      "lat": 54.3556921,
+      "lon": 18.6157318,
+      "detail": "Dopasowano pobliski obiekt, nie sam pojemnik. Opis z PDF: stacja paliw (w PDF Lotos). Obiekt lub jego nazwa mogły się zmienić.",
+      "matched_address": "Ludwika Beethovena 11",
+      "osm_url": "https://www.openstreetmap.org/way/104217099"
+    },
+    "322": {
+      "status": "address",
+      "lat": 54.3582202,
+      "lon": 18.6166762,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Cygańska Góra 20",
+      "osm_url": "https://www.openstreetmap.org/way/104217355"
+    },
+    "323": {
+      "status": "address",
+      "lat": 54.358978,
+      "lon": 18.6159775,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Cygańska Góra 26",
+      "osm_url": "https://www.openstreetmap.org/way/363366230"
+    },
+    "324": {
+      "status": "address",
+      "lat": 54.356342,
+      "lon": 18.6172766,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Cygańska Góra 7B",
+      "osm_url": "https://www.openstreetmap.org/way/363256707"
+    },
+    "325": {
+      "status": "address",
+      "lat": 54.3534035,
+      "lon": 18.6032165,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Piotra Czajkowskiego 1",
+      "osm_url": "https://www.openstreetmap.org/way/104051416"
+    },
+    "326": {
+      "status": "address",
+      "lat": 54.3598746,
+      "lon": 18.6271658,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Marszałka Ferdynanda Focha 6",
+      "osm_url": "https://www.openstreetmap.org/way/104353752"
+    },
+    "327": {
+      "status": "approx",
+      "lat": 54.3528006,
+      "lon": 18.6131076,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Seweryna Goszczyńskiego 24",
+      "osm_url": "https://www.openstreetmap.org/way/263005121"
+    },
+    "328": {
+      "status": "address",
+      "lat": 54.3549433,
+      "lon": 18.6132797,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Macieja Kamieńskiego 1",
+      "osm_url": "https://www.openstreetmap.org/way/104051804"
+    },
+    "329": {
+      "status": "address",
+      "lat": 54.3515785,
+      "lon": 18.599764,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Karola Kurpińskiego 14",
+      "osm_url": "https://www.openstreetmap.org/way/104051338"
+    },
+    "330": {
+      "status": "address",
+      "lat": 54.3516045,
+      "lon": 18.601165,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Karola Kurpińskiego 15",
+      "osm_url": "https://www.openstreetmap.org/way/104051400"
+    },
+    "331": {
+      "status": "address",
+      "lat": 54.3520225,
+      "lon": 18.60669,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Franciszka Liszta 2",
+      "osm_url": "https://www.openstreetmap.org/way/104051481"
+    },
+    "332": {
+      "status": "address",
+      "lat": 54.3533217,
+      "lon": 18.6111774,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Zygmunta Noskowskiego 15",
+      "osm_url": "https://www.openstreetmap.org/node/9757621652"
+    },
+    "333": {
+      "status": "approx",
+      "lat": 54.354413,
+      "lon": 18.6136065,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Zygmunta Noskowskiego 5",
+      "osm_url": "https://www.openstreetmap.org/way/104051875"
+    },
+    "334": {
+      "status": "address",
+      "lat": 54.353874,
+      "lon": 18.612681,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Zygmunta Noskowskiego 7",
+      "osm_url": "https://www.openstreetmap.org/way/104051862"
+    },
+    "335": {
+      "status": "address",
+      "lat": 54.351621,
+      "lon": 18.6091245,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Ignacego Paderewskiego 2",
+      "osm_url": "https://www.openstreetmap.org/way/104051493"
+    },
+    "336": {
+      "status": "approx",
+      "lat": 54.3521563,
+      "lon": 18.6086839,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Ignacego Paderewskiego 4",
+      "osm_url": "https://www.openstreetmap.org/node/11331094021"
+    },
+    "337": {
+      "status": "address",
+      "lat": 54.35463,
+      "lon": 18.608871,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Niccola Paganiniego 13",
+      "osm_url": "https://www.openstreetmap.org/way/104051840"
+    },
+    "338": {
+      "status": "address",
+      "lat": 54.3551509,
+      "lon": 18.6100276,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Niccola Paganiniego 9",
+      "osm_url": "https://www.openstreetmap.org/node/12147590955"
+    },
+    "339": {
+      "status": "address",
+      "lat": 54.3572153,
+      "lon": 18.6301287,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Księcia Józefa Poniatowskiego 15",
+      "osm_url": "https://www.openstreetmap.org/way/97294355"
+    },
+    "340": {
+      "status": "address",
+      "lat": 54.353528,
+      "lon": 18.613066,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Powstańców Warszawskich 70",
+      "osm_url": "https://www.openstreetmap.org/way/104051869"
+    },
+    "342": {
+      "status": "address",
+      "lat": 54.3497404,
+      "lon": 18.6110695,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Lecha Bądkowskiego 1",
+      "osm_url": "https://www.openstreetmap.org/way/104471687"
+    },
+    "343": {
+      "status": "approx",
+      "lat": 54.3510205,
+      "lon": 18.612301,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/27476012"
+    },
+    "344": {
+      "status": "address",
+      "lat": 54.351545,
+      "lon": 18.6634875,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Jana Dziewanowskiego 5",
+      "osm_url": "https://www.openstreetmap.org/way/97407318"
+    },
+    "345": {
+      "status": "approx",
+      "lat": 54.3427925,
+      "lon": 18.6602136,
+      "detail": "Nie znaleziono numeru 6. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.341554,
+            18.6576208
+          ],
+          [
+            54.3416251,
+            18.6577645
+          ],
+          [
+            54.3417254,
+            18.6579745
+          ],
+          [
+            54.341954,
+            18.658453
+          ],
+          [
+            54.3422937,
+            18.659164
+          ],
+          [
+            54.3427925,
+            18.6602136
+          ],
+          [
+            54.3429372,
+            18.6605198
+          ],
+          [
+            54.3430614,
+            18.6607829
+          ],
+          [
+            54.3430768,
+            18.6608156
+          ],
+          [
+            54.3431737,
+            18.6610206
+          ],
+          [
+            54.343205,
+            18.6610723
+          ],
+          [
+            54.3432933,
+            18.6611441
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/177165734"
+    },
+    "346": {
+      "status": "approx",
+      "lat": 54.3531741,
+      "lon": 18.6394938,
+      "detail": "Nie znaleziono numeru 2. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3533604,
+            18.64228
+          ],
+          [
+            54.3533484,
+            18.6421001
+          ],
+          [
+            54.3533191,
+            18.6416624
+          ]
+        ],
+        [
+          [
+            54.3530913,
+            18.6382244
+          ],
+          [
+            54.3530821,
+            18.6377679
+          ],
+          [
+            54.3530788,
+            18.63764
+          ],
+          [
+            54.3530781,
+            18.6376062
+          ]
+        ],
+        [
+          [
+            54.3533056,
+            18.6414596
+          ],
+          [
+            54.3533024,
+            18.641412
+          ],
+          [
+            54.3532971,
+            18.6413332
+          ],
+          [
+            54.3532733,
+            18.6409769
+          ],
+          [
+            54.3532632,
+            18.6408267
+          ],
+          [
+            54.3531741,
+            18.6394938
+          ],
+          [
+            54.3531554,
+            18.6392142
+          ],
+          [
+            54.3531361,
+            18.6389256
+          ],
+          [
+            54.353118,
+            18.6386533
+          ]
+        ],
+        [
+          [
+            54.353118,
+            18.6386533
+          ],
+          [
+            54.3530913,
+            18.6382244
+          ]
+        ],
+        [
+          [
+            54.3533191,
+            18.6416624
+          ],
+          [
+            54.3533056,
+            18.6414596
+          ]
+        ],
+        [
+          [
+            54.3530781,
+            18.6376062
+          ],
+          [
+            54.3530758,
+            18.6374987
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/184295033"
+    },
+    "348": {
+      "status": "approx",
+      "lat": 54.341401,
+      "lon": 18.6488888,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/177208307"
+    },
+    "349": {
+      "status": "approx",
+      "lat": 54.3560362,
+      "lon": 18.6561008,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/174697816"
+    },
+    "350": {
+      "status": "address",
+      "lat": 54.340794,
+      "lon": 18.6209605,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Tytusa Chałubińskiego 19",
+      "osm_url": "https://www.openstreetmap.org/way/105001979"
+    },
+    "351": {
+      "status": "approx",
+      "lat": 54.3413203,
+      "lon": 18.6203423,
+      "detail": "Nie znaleziono numeru 28. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3419628,
+            18.6263129
+          ],
+          [
+            54.3420023,
+            18.6261564
+          ],
+          [
+            54.3420165,
+            18.6260525
+          ],
+          [
+            54.3420208,
+            18.6259642
+          ],
+          [
+            54.3420136,
+            18.6258169
+          ],
+          [
+            54.3420079,
+            18.6257023
+          ],
+          [
+            54.3420025,
+            18.6255924
+          ],
+          [
+            54.3419892,
+            18.6254072
+          ],
+          [
+            54.3419616,
+            18.625013
+          ],
+          [
+            54.3419503,
+            18.6248344
+          ],
+          [
+            54.3419341,
+            18.6245783
+          ],
+          [
+            54.3419229,
+            18.6242446
+          ],
+          [
+            54.3419145,
+            18.624058
+          ],
+          [
+            54.3419169,
+            18.622914
+          ],
+          [
+            54.3419101,
+            18.622725
+          ],
+          [
+            54.3418938,
+            18.6225357
+          ],
+          [
+            54.3418385,
+            18.6221713
+          ],
+          [
+            54.3418006,
+            18.6219865
+          ],
+          [
+            54.3417843,
+            18.6219175
+          ],
+          [
+            54.3417208,
+            18.6216487
+          ],
+          [
+            54.3415239,
+            18.6210194
+          ],
+          [
+            54.341479,
+            18.620884
+          ],
+          [
+            54.3413531,
+            18.6204908
+          ],
+          [
+            54.3413203,
+            18.6203423
+          ],
+          [
+            54.3412805,
+            18.6200953
+          ],
+          [
+            54.3412577,
+            18.6198657
+          ],
+          [
+            54.3412514,
+            18.6197671
+          ],
+          [
+            54.34125,
+            18.619671
+          ],
+          [
+            54.3412699,
+            18.6190613
+          ],
+          [
+            54.3412708,
+            18.6190162
+          ],
+          [
+            54.3412722,
+            18.6189414
+          ],
+          [
+            54.341274,
+            18.6188749
+          ],
+          [
+            54.3412824,
+            18.6185639
+          ]
+        ],
+        [
+          [
+            54.3411377,
+            18.6185804
+          ],
+          [
+            54.3411064,
+            18.6185833
+          ],
+          [
+            54.3408985,
+            18.6186154
+          ],
+          [
+            54.3406525,
+            18.6186533
+          ],
+          [
+            54.340585,
+            18.6186637
+          ],
+          [
+            54.3403608,
+            18.6186983
+          ],
+          [
+            54.340058,
+            18.6187454
+          ],
+          [
+            54.340039,
+            18.6187547
+          ]
+        ],
+        [
+          [
+            54.3392675,
+            18.6192814
+          ],
+          [
+            54.3393911,
+            18.6194017
+          ],
+          [
+            54.3394882,
+            18.6194884
+          ],
+          [
+            54.3395966,
+            18.6195254
+          ],
+          [
+            54.3396639,
+            18.6195544
+          ],
+          [
+            54.3397523,
+            18.6196041
+          ],
+          [
+            54.3398776,
+            18.6196231
+          ],
+          [
+            54.3398853,
+            18.6196243
+          ],
+          [
+            54.3399137,
+            18.6196286
+          ]
+        ],
+        [
+          [
+            54.3418385,
+            18.6221713
+          ],
+          [
+            54.3417518,
+            18.6222041
+          ],
+          [
+            54.3415492,
+            18.6222243
+          ],
+          [
+            54.3415057,
+            18.6222265
+          ],
+          [
+            54.3413022,
+            18.6222255
+          ],
+          [
+            54.3410816,
+            18.6222152
+          ],
+          [
+            54.3410171,
+            18.622213
+          ],
+          [
+            54.3409182,
+            18.6221977
+          ],
+          [
+            54.340711,
+            18.6221887
+          ],
+          [
+            54.3405448,
+            18.6221783
+          ]
+        ],
+        [
+          [
+            54.3412798,
+            18.6183958
+          ],
+          [
+            54.3412866,
+            18.6183299
+          ],
+          [
+            54.3412947,
+            18.6182462
+          ],
+          [
+            54.3413174,
+            18.6180305
+          ]
+        ],
+        [
+          [
+            54.3394966,
+            18.6204355
+          ],
+          [
+            54.3394392,
+            18.6203999
+          ],
+          [
+            54.3393502,
+            18.6202844
+          ],
+          [
+            54.3393094,
+            18.6202545
+          ],
+          [
+            54.339261,
+            18.6202461
+          ],
+          [
+            54.3390489,
+            18.6202311
+          ],
+          [
+            54.3388517,
+            18.6202116
+          ],
+          [
+            54.3387854,
+            18.6198394
+          ],
+          [
+            54.3387419,
+            18.6195854
+          ]
+        ],
+        [
+          [
+            54.3412178,
+            18.6180546
+          ],
+          [
+            54.3412402,
+            18.6181821
+          ],
+          [
+            54.3412527,
+            18.6182536
+          ],
+          [
+            54.3412798,
+            18.6183958
+          ]
+        ],
+        [
+          [
+            54.3398605,
+            18.6204475
+          ],
+          [
+            54.3395961,
+            18.6204466
+          ],
+          [
+            54.3394966,
+            18.6204355
+          ]
+        ],
+        [
+          [
+            54.3399625,
+            18.6194602
+          ],
+          [
+            54.3399445,
+            18.6195688
+          ],
+          [
+            54.3399137,
+            18.6196286
+          ]
+        ],
+        [
+          [
+            54.3399137,
+            18.6196286
+          ],
+          [
+            54.3398981,
+            18.6199947
+          ],
+          [
+            54.339882,
+            18.6204184
+          ],
+          [
+            54.3398605,
+            18.6204475
+          ]
+        ],
+        [
+          [
+            54.340039,
+            18.6187547
+          ],
+          [
+            54.340009,
+            18.6187934
+          ],
+          [
+            54.3399916,
+            18.6188367
+          ],
+          [
+            54.3399825,
+            18.618873
+          ],
+          [
+            54.3399781,
+            18.6189346
+          ],
+          [
+            54.3399663,
+            18.6193327
+          ],
+          [
+            54.3399632,
+            18.6194393
+          ],
+          [
+            54.3399625,
+            18.6194602
+          ]
+        ],
+        [
+          [
+            54.3412824,
+            18.6185639
+          ],
+          [
+            54.3412798,
+            18.6183958
+          ]
+        ],
+        [
+          [
+            54.3412824,
+            18.6185639
+          ],
+          [
+            54.341169,
+            18.6185775
+          ],
+          [
+            54.3411377,
+            18.6185804
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/27476453"
+    },
+    "352": {
+      "status": "address",
+      "lat": 54.3371845,
+      "lon": 18.6086055,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Władysława Cieszyńskiego 20",
+      "osm_url": "https://www.openstreetmap.org/way/105344225"
+    },
+    "353": {
+      "status": "approx",
+      "lat": 54.3378085,
+      "lon": 18.6053345,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Władysława Cieszyńskiego 4",
+      "osm_url": "https://www.openstreetmap.org/way/105589250"
+    },
+    "354": {
+      "status": "approx",
+      "lat": 54.3352724,
+      "lon": 18.6148742,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Władysława Cieszyńskiego 56",
+      "osm_url": "https://www.openstreetmap.org/way/105344285"
+    },
+    "355": {
+      "status": "address",
+      "lat": 54.3406595,
+      "lon": 18.616709,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Marcina Dragana 17",
+      "osm_url": "https://www.openstreetmap.org/way/105344069"
+    },
+    "356": {
+      "status": "address",
+      "lat": 54.3329825,
+      "lon": 18.6273775,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Stanisława Hebanowskiego 72",
+      "osm_url": "https://www.openstreetmap.org/way/1326381083"
+    },
+    "357": {
+      "status": "approx",
+      "lat": 54.3360926,
+      "lon": 18.6249843,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Henryka Hubertusa Jabłońskiego 6",
+      "osm_url": "https://www.openstreetmap.org/way/105002022"
+    },
+    "358": {
+      "status": "address",
+      "lat": 54.3424772,
+      "lon": 18.6270589,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Odrzańska 21",
+      "osm_url": "https://www.openstreetmap.org/way/105212713"
+    },
+    "359": {
+      "status": "unresolved",
+      "lat": null,
+      "lon": null,
+      "detail": "Niejednoznaczny zapis „Stoczniowa/Smarkowa” w PDF. Nie wstawiono zgadywanego punktu."
+    },
+    "360": {
+      "status": "approx",
+      "lat": 54.3386885,
+      "lon": 18.611397,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Wincentego Witosa 9",
+      "osm_url": "https://www.openstreetmap.org/way/105344142"
+    },
+    "361": {
+      "status": "address",
+      "lat": 54.3235411,
+      "lon": 18.5916436,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "11 Listopada 55",
+      "osm_url": "https://www.openstreetmap.org/way/106607239"
+    },
+    "362": {
+      "status": "approx",
+      "lat": 54.3236761,
+      "lon": 18.6129963,
+      "detail": "Nie znaleziono numeru 6. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3243585,
+            18.6126283
+          ],
+          [
+            54.3243221,
+            18.6127063
+          ],
+          [
+            54.3242759,
+            18.6128052
+          ],
+          [
+            54.3241644,
+            18.6129195
+          ],
+          [
+            54.3239915,
+            18.6133148
+          ],
+          [
+            54.3239675,
+            18.6133698
+          ]
+        ],
+        [
+          [
+            54.3239675,
+            18.6133698
+          ],
+          [
+            54.3237587,
+            18.6131022
+          ],
+          [
+            54.3236761,
+            18.6129963
+          ],
+          [
+            54.3236053,
+            18.612904
+          ],
+          [
+            54.3235128,
+            18.6127573
+          ],
+          [
+            54.3234426,
+            18.6126187
+          ],
+          [
+            54.3234001,
+            18.6125289
+          ],
+          [
+            54.3233551,
+            18.6124295
+          ],
+          [
+            54.3233059,
+            18.6123044
+          ],
+          [
+            54.3232632,
+            18.6121893
+          ],
+          [
+            54.3230091,
+            18.6115059
+          ],
+          [
+            54.3228429,
+            18.6110422
+          ],
+          [
+            54.3228082,
+            18.6109452
+          ]
+        ],
+        [
+          [
+            54.3244581,
+            18.6116892
+          ],
+          [
+            54.3242448,
+            18.6119135
+          ],
+          [
+            54.3239796,
+            18.6121923
+          ]
+        ],
+        [
+          [
+            54.3239675,
+            18.6133698
+          ],
+          [
+            54.3241961,
+            18.6136456
+          ],
+          [
+            54.3243076,
+            18.6137802
+          ],
+          [
+            54.324392,
+            18.613882
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/105665415"
+    },
+    "363": {
+      "status": "address",
+      "lat": 54.3174543,
+      "lon": 18.5841237,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Konstantego Bergiela 4B",
+      "osm_url": "https://www.openstreetmap.org/node/4344422003"
+    },
+    "364": {
+      "status": "unresolved",
+      "lat": null,
+      "lon": null,
+      "detail": "Nie rozpoznano jednoznacznie skrzyżowania tych ulic w danych mapowych."
+    },
+    "365": {
+      "status": "approx",
+      "lat": 54.3162191,
+      "lon": 18.5827921,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/185715946"
+    },
+    "366": {
+      "status": "approx",
+      "lat": 54.3358873,
+      "lon": 18.635791,
+      "detail": "Nie znaleziono numeru 5. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3388567,
+            18.6380996
+          ],
+          [
+            54.3392046,
+            18.6384954
+          ],
+          [
+            54.3394878,
+            18.6387785
+          ]
+        ],
+        [
+          [
+            54.3384855,
+            18.6372088
+          ],
+          [
+            54.3384687,
+            18.6372607
+          ],
+          [
+            54.3384623,
+            18.6372803
+          ],
+          [
+            54.3384354,
+            18.6373697
+          ],
+          [
+            54.3383612,
+            18.6375096
+          ],
+          [
+            54.3382775,
+            18.6375876
+          ]
+        ],
+        [
+          [
+            54.3378383,
+            18.6372606
+          ],
+          [
+            54.33785,
+            18.637212
+          ],
+          [
+            54.3378727,
+            18.637118
+          ],
+          [
+            54.3380019,
+            18.6370949
+          ],
+          [
+            54.3380563,
+            18.6370543
+          ],
+          [
+            54.338225,
+            18.6370605
+          ]
+        ],
+        [
+          [
+            54.332135,
+            18.6335327
+          ],
+          [
+            54.3322162,
+            18.6335935
+          ],
+          [
+            54.3323935,
+            18.6337732
+          ],
+          [
+            54.3324988,
+            18.6338914
+          ],
+          [
+            54.3328511,
+            18.6342863
+          ],
+          [
+            54.3329545,
+            18.6343859
+          ],
+          [
+            54.3332157,
+            18.6345649
+          ],
+          [
+            54.3334819,
+            18.6347107
+          ],
+          [
+            54.3337424,
+            18.634806
+          ],
+          [
+            54.3338765,
+            18.6348529
+          ],
+          [
+            54.3339796,
+            18.6348849
+          ],
+          [
+            54.3340343,
+            18.634895
+          ]
+        ],
+        [
+          [
+            54.3394878,
+            18.6387785
+          ],
+          [
+            54.3396622,
+            18.6389624
+          ],
+          [
+            54.3397894,
+            18.6390943
+          ],
+          [
+            54.3400146,
+            18.6393249
+          ],
+          [
+            54.3401489,
+            18.6394634
+          ]
+        ],
+        [
+          [
+            54.3380765,
+            18.6374476
+          ],
+          [
+            54.338089,
+            18.6374574
+          ],
+          [
+            54.3382011,
+            18.6375361
+          ],
+          [
+            54.3382775,
+            18.6375876
+          ],
+          [
+            54.3386245,
+            18.6378841
+          ],
+          [
+            54.3386459,
+            18.6379025
+          ]
+        ],
+        [
+          [
+            54.3386459,
+            18.6379025
+          ],
+          [
+            54.3387236,
+            18.6379752
+          ],
+          [
+            54.3388567,
+            18.6380996
+          ]
+        ],
+        [
+          [
+            54.3372651,
+            18.6368288
+          ],
+          [
+            54.3373686,
+            18.6369079
+          ],
+          [
+            54.3378383,
+            18.6372606
+          ],
+          [
+            54.3380765,
+            18.6374476
+          ]
+        ],
+        [
+          [
+            54.3368872,
+            18.6365798
+          ],
+          [
+            54.3369149,
+            18.6365957
+          ],
+          [
+            54.3369197,
+            18.6365984
+          ],
+          [
+            54.3372651,
+            18.6368288
+          ]
+        ],
+        [
+          [
+            54.335917,
+            18.6358173
+          ],
+          [
+            54.3362928,
+            18.6361504
+          ],
+          [
+            54.3365921,
+            18.636384
+          ],
+          [
+            54.3367872,
+            18.6365223
+          ],
+          [
+            54.3368844,
+            18.6365782
+          ],
+          [
+            54.3368872,
+            18.6365798
+          ]
+        ],
+        [
+          [
+            54.335739,
+            18.6356838
+          ],
+          [
+            54.3358873,
+            18.635791
+          ],
+          [
+            54.335917,
+            18.6358173
+          ]
+        ],
+        [
+          [
+            54.3348194,
+            18.6351937
+          ],
+          [
+            54.3349101,
+            18.6352352
+          ],
+          [
+            54.33516,
+            18.6353422
+          ],
+          [
+            54.3352723,
+            18.6353949
+          ],
+          [
+            54.3354953,
+            18.6355114
+          ],
+          [
+            54.3356355,
+            18.635609
+          ],
+          [
+            54.335739,
+            18.6356838
+          ]
+        ],
+        [
+          [
+            54.3340343,
+            18.634895
+          ],
+          [
+            54.3342491,
+            18.6349581
+          ],
+          [
+            54.3344542,
+            18.6350356
+          ],
+          [
+            54.3346218,
+            18.6351174
+          ],
+          [
+            54.3347372,
+            18.6351561
+          ],
+          [
+            54.3348194,
+            18.6351937
+          ]
+        ],
+        [
+          [
+            54.3309348,
+            18.6332378
+          ],
+          [
+            54.3309446,
+            18.6332382
+          ],
+          [
+            54.3310571,
+            18.6332432
+          ],
+          [
+            54.3313811,
+            18.6332662
+          ],
+          [
+            54.3315015,
+            18.6332881
+          ],
+          [
+            54.3318525,
+            18.6333921
+          ],
+          [
+            54.3319608,
+            18.6334334
+          ],
+          [
+            54.332135,
+            18.6335327
+          ]
+        ],
+        [
+          [
+            54.3307595,
+            18.6332493
+          ],
+          [
+            54.3308077,
+            18.6332331
+          ],
+          [
+            54.3308732,
+            18.6332351
+          ],
+          [
+            54.3309348,
+            18.6332378
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/234532646"
+    },
+    "367": {
+      "status": "approx",
+      "lat": 54.3307595,
+      "lon": 18.6332493,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/234532646"
+    },
+    "368": {
+      "status": "unresolved",
+      "lat": null,
+      "lon": null,
+      "detail": "Brak danych pozwalających rozpoznać tę ulicę w Gdańsku."
+    },
+    "369": {
+      "status": "approx",
+      "lat": 54.3200066,
+      "lon": 18.5887748,
+      "detail": "Dopasowano pobliski obiekt, nie sam pojemnik. Opis z PDF: przedszkole. Obiekt lub jego nazwa mogły się zmienić.",
+      "matched_address": "Przedszkole nr 83",
+      "osm_url": "https://www.openstreetmap.org/way/589677697"
+    },
+    "370": {
+      "status": "approx",
+      "lat": 54.327594,
+      "lon": 18.6216435,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Biskupa Konstantyna Dominika 7B",
+      "osm_url": "https://www.openstreetmap.org/way/105697384"
+    },
+    "371": {
+      "status": "approx",
+      "lat": 54.3231215,
+      "lon": 18.5942367,
+      "detail": "Nie znaleziono numeru 69. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.322474,
+            18.5956413
+          ],
+          [
+            54.3225056,
+            18.5956209
+          ],
+          [
+            54.3225989,
+            18.5956205
+          ],
+          [
+            54.322726,
+            18.5955661
+          ],
+          [
+            54.3228331,
+            18.5955028
+          ],
+          [
+            54.3228669,
+            18.5954653
+          ],
+          [
+            54.322889,
+            18.5954297
+          ],
+          [
+            54.3229344,
+            18.5953452
+          ],
+          [
+            54.3229567,
+            18.5952505
+          ],
+          [
+            54.3232026,
+            18.5942988
+          ]
+        ],
+        [
+          [
+            54.3232026,
+            18.5942988
+          ],
+          [
+            54.3232693,
+            18.5943116
+          ],
+          [
+            54.3234074,
+            18.5943069
+          ],
+          [
+            54.3236695,
+            18.5944871
+          ],
+          [
+            54.3237863,
+            18.5945674
+          ],
+          [
+            54.3238711,
+            18.5944432
+          ]
+        ],
+        [
+          [
+            54.3223731,
+            18.5936498
+          ],
+          [
+            54.3224197,
+            18.5936857
+          ],
+          [
+            54.3227311,
+            18.5939255
+          ],
+          [
+            54.3228261,
+            18.5939987
+          ],
+          [
+            54.3229654,
+            18.594111
+          ],
+          [
+            54.3230967,
+            18.5942167
+          ],
+          [
+            54.3231215,
+            18.5942367
+          ],
+          [
+            54.3232026,
+            18.5942988
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/106668825"
+    },
+    "373": {
+      "status": "approx",
+      "lat": 54.3225917,
+      "lon": 18.6152733,
+      "detail": "Nie znaleziono numeru 11. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3246551,
+            18.6184828
+          ],
+          [
+            54.3245333,
+            18.6184968
+          ],
+          [
+            54.3244954,
+            18.6185295
+          ],
+          [
+            54.3241744,
+            18.6187318
+          ],
+          [
+            54.3240907,
+            18.6187752
+          ],
+          [
+            54.323897,
+            18.6187801
+          ],
+          [
+            54.323839,
+            18.6187807
+          ],
+          [
+            54.3237757,
+            18.6187814
+          ],
+          [
+            54.3233372,
+            18.6187597
+          ],
+          [
+            54.3232487,
+            18.6187343
+          ],
+          [
+            54.3231592,
+            18.6186913
+          ],
+          [
+            54.323054,
+            18.6185988
+          ],
+          [
+            54.3229661,
+            18.6184577
+          ],
+          [
+            54.3229194,
+            18.6183139
+          ],
+          [
+            54.3228855,
+            18.6181527
+          ],
+          [
+            54.3228715,
+            18.6180206
+          ],
+          [
+            54.3228831,
+            18.617339
+          ],
+          [
+            54.3228839,
+            18.6172357
+          ],
+          [
+            54.3228873,
+            18.6168091
+          ],
+          [
+            54.3228891,
+            18.6165777
+          ],
+          [
+            54.322889,
+            18.6165431
+          ],
+          [
+            54.3228876,
+            18.6162298
+          ],
+          [
+            54.3228837,
+            18.6161743
+          ],
+          [
+            54.3228709,
+            18.6160516
+          ],
+          [
+            54.3228318,
+            18.6158547
+          ],
+          [
+            54.3227785,
+            18.6156513
+          ],
+          [
+            54.3227174,
+            18.6154755
+          ],
+          [
+            54.322657,
+            18.6153723
+          ],
+          [
+            54.3225917,
+            18.6152733
+          ],
+          [
+            54.3221285,
+            18.6144503
+          ],
+          [
+            54.3220642,
+            18.61434
+          ],
+          [
+            54.3216913,
+            18.6136752
+          ],
+          [
+            54.3216547,
+            18.6135848
+          ],
+          [
+            54.3216099,
+            18.6133862
+          ],
+          [
+            54.3215603,
+            18.6130645
+          ],
+          [
+            54.321419,
+            18.6121561
+          ],
+          [
+            54.3213934,
+            18.6120445
+          ],
+          [
+            54.3213409,
+            18.6118949
+          ],
+          [
+            54.3212912,
+            18.6118106
+          ],
+          [
+            54.3212337,
+            18.6117344
+          ],
+          [
+            54.3211378,
+            18.6116354
+          ],
+          [
+            54.320841,
+            18.6113309
+          ],
+          [
+            54.3207851,
+            18.611268
+          ],
+          [
+            54.3207478,
+            18.6112244
+          ],
+          [
+            54.3206948,
+            18.6111655
+          ],
+          [
+            54.3206529,
+            18.6111555
+          ],
+          [
+            54.3205895,
+            18.611154
+          ],
+          [
+            54.3205089,
+            18.6111522
+          ],
+          [
+            54.3200541,
+            18.6111831
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/183959969"
+    },
+    "374": {
+      "status": "address",
+      "lat": 54.3234506,
+      "lon": 18.6183467,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Dywizji Wołyńskiej 8",
+      "osm_url": "https://www.openstreetmap.org/node/9672980860"
+    },
+    "376": {
+      "status": "address",
+      "lat": 54.3234345,
+      "lon": 18.6326895,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Gościnna 13",
+      "osm_url": "https://www.openstreetmap.org/way/111807572"
+    },
+    "377": {
+      "status": "approx",
+      "lat": 54.3205222,
+      "lon": 18.6355384,
+      "detail": "PDF podaje tylko nazwę ulicy, bez numeru. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3204764,
+            18.6335709
+          ],
+          [
+            54.3204801,
+            18.6337323
+          ],
+          [
+            54.3204829,
+            18.6338546
+          ],
+          [
+            54.3204889,
+            18.6341132
+          ],
+          [
+            54.3205016,
+            18.6346633
+          ],
+          [
+            54.3205039,
+            18.6347598
+          ],
+          [
+            54.3205222,
+            18.6355384
+          ],
+          [
+            54.3205339,
+            18.6360406
+          ]
+        ],
+        [
+          [
+            54.320711,
+            18.6361008
+          ],
+          [
+            54.3207139,
+            18.6361883
+          ],
+          [
+            54.3207872,
+            18.638412
+          ],
+          [
+            54.3207888,
+            18.6384608
+          ]
+        ],
+        [
+          [
+            54.3204881,
+            18.633511
+          ],
+          [
+            54.3204764,
+            18.6335709
+          ]
+        ],
+        [
+          [
+            54.3205339,
+            18.6360406
+          ],
+          [
+            54.3205341,
+            18.6360467
+          ],
+          [
+            54.3205356,
+            18.636112
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/111809865"
+    },
+    "378": {
+      "status": "address",
+      "lat": 54.3145689,
+      "lon": 18.5700888,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Konrada Guderskiego 2A",
+      "osm_url": "https://www.openstreetmap.org/way/111609918"
+    },
+    "381": {
+      "status": "approx",
+      "lat": 54.3102843,
+      "lon": 18.5878447,
+      "detail": "Dopasowano pobliski obiekt, nie sam pojemnik. Opis z PDF: Biedronka. Obiekt lub jego nazwa mogły się zmienić.",
+      "matched_address": "Wielkopolska 62",
+      "osm_url": "https://www.openstreetmap.org/way/147405467"
+    },
+    "383": {
+      "status": "approx",
+      "lat": 54.30943769999999,
+      "lon": 18.5932442,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/150955877"
+    },
+    "384": {
+      "status": "approx",
+      "lat": 54.4122208,
+      "lon": 18.5959399,
+      "detail": "Nie znaleziono numeru 15. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.4121076,
+            18.5984273
+          ],
+          [
+            54.4121174,
+            18.5985539
+          ],
+          [
+            54.4121355,
+            18.598795
+          ],
+          [
+            54.4121493,
+            18.5989545
+          ],
+          [
+            54.4122036,
+            18.5993384
+          ],
+          [
+            54.412296,
+            18.5999708
+          ]
+        ],
+        [
+          [
+            54.4123042,
+            18.5880735
+          ],
+          [
+            54.4122664,
+            18.587904
+          ],
+          [
+            54.4122532,
+            18.5878449
+          ],
+          [
+            54.4122077,
+            18.5876409
+          ]
+        ],
+        [
+          [
+            54.4128763,
+            18.5986754
+          ],
+          [
+            54.4128547,
+            18.5985671
+          ],
+          [
+            54.4127803,
+            18.5981879
+          ],
+          [
+            54.4127678,
+            18.59812
+          ]
+        ],
+        [
+          [
+            54.4137356,
+            18.5963126
+          ],
+          [
+            54.4134652,
+            18.5947755
+          ],
+          [
+            54.4134083,
+            18.5944421
+          ],
+          [
+            54.4133818,
+            18.5942895
+          ],
+          [
+            54.4133574,
+            18.5941487
+          ],
+          [
+            54.413224,
+            18.5933785
+          ],
+          [
+            54.4131999,
+            18.5932439
+          ],
+          [
+            54.4130686,
+            18.5924951
+          ],
+          [
+            54.4130511,
+            18.5923958
+          ],
+          [
+            54.4130351,
+            18.5923037
+          ],
+          [
+            54.4130088,
+            18.5921517
+          ],
+          [
+            54.4129127,
+            18.5915972
+          ],
+          [
+            54.4128682,
+            18.5913421
+          ],
+          [
+            54.412718,
+            18.5905055
+          ],
+          [
+            54.4126969,
+            18.5903795
+          ],
+          [
+            54.4124945,
+            18.5892167
+          ],
+          [
+            54.4124784,
+            18.5891258
+          ]
+        ],
+        [
+          [
+            54.4121496,
+            18.5954936
+          ],
+          [
+            54.4121644,
+            18.5954442
+          ],
+          [
+            54.4121779,
+            18.595401
+          ],
+          [
+            54.4121879,
+            18.5953697
+          ],
+          [
+            54.4121942,
+            18.5953484
+          ],
+          [
+            54.4121992,
+            18.5953258
+          ],
+          [
+            54.4122007,
+            18.5953069
+          ],
+          [
+            54.412199,
+            18.5952863
+          ],
+          [
+            54.4121941,
+            18.5952689
+          ],
+          [
+            54.4121873,
+            18.5952562
+          ],
+          [
+            54.4121774,
+            18.5952474
+          ],
+          [
+            54.4121669,
+            18.5952445
+          ],
+          [
+            54.4121558,
+            18.5952465
+          ],
+          [
+            54.4121456,
+            18.5952529
+          ],
+          [
+            54.4121371,
+            18.5952635
+          ],
+          [
+            54.4121303,
+            18.5952795
+          ],
+          [
+            54.4121264,
+            18.5953002
+          ],
+          [
+            54.4121249,
+            18.5953226
+          ],
+          [
+            54.412127,
+            18.5953455
+          ],
+          [
+            54.41213,
+            18.5953697
+          ],
+          [
+            54.4121496,
+            18.5954936
+          ]
+        ],
+        [
+          [
+            54.4125191,
+            18.5974485
+          ],
+          [
+            54.4126338,
+            18.5980491
+          ],
+          [
+            54.4126555,
+            18.598174
+          ]
+        ],
+        [
+          [
+            54.413211,
+            18.5979445
+          ],
+          [
+            54.4131813,
+            18.5977528
+          ],
+          [
+            54.4130855,
+            18.5972376
+          ],
+          [
+            54.4130599,
+            18.5971998
+          ],
+          [
+            54.4130281,
+            18.5971898
+          ],
+          [
+            54.4128744,
+            18.5972568
+          ]
+        ],
+        [
+          [
+            54.4117901,
+            18.5957265
+          ],
+          [
+            54.4118238,
+            18.5955859
+          ],
+          [
+            54.4118282,
+            18.5955672
+          ],
+          [
+            54.4118319,
+            18.5955469
+          ],
+          [
+            54.4118336,
+            18.5955293
+          ],
+          [
+            54.411834,
+            18.5955109
+          ],
+          [
+            54.4118327,
+            18.5954935
+          ],
+          [
+            54.4118299,
+            18.5954779
+          ],
+          [
+            54.411825,
+            18.5954644
+          ],
+          [
+            54.4118185,
+            18.5954539
+          ],
+          [
+            54.4118097,
+            18.5954462
+          ],
+          [
+            54.4118014,
+            18.5954436
+          ],
+          [
+            54.4117927,
+            18.5954446
+          ],
+          [
+            54.4117843,
+            18.5954492
+          ],
+          [
+            54.4117758,
+            18.5954579
+          ],
+          [
+            54.4117696,
+            18.5954682
+          ],
+          [
+            54.4117661,
+            18.5954816
+          ],
+          [
+            54.4117646,
+            18.5954972
+          ],
+          [
+            54.4117646,
+            18.5955142
+          ],
+          [
+            54.4117661,
+            18.5955352
+          ],
+          [
+            54.4117901,
+            18.5957265
+          ]
+        ],
+        [
+          [
+            54.4113751,
+            18.5954521
+          ],
+          [
+            54.4113868,
+            18.5955674
+          ],
+          [
+            54.4115735,
+            18.5973175
+          ],
+          [
+            54.4115823,
+            18.597401
+          ],
+          [
+            54.4116082,
+            18.5976452
+          ],
+          [
+            54.4116476,
+            18.5980169
+          ],
+          [
+            54.4116518,
+            18.5980536
+          ],
+          [
+            54.4116556,
+            18.5980846
+          ],
+          [
+            54.41166,
+            18.5981129
+          ],
+          [
+            54.4116654,
+            18.5981419
+          ],
+          [
+            54.4116726,
+            18.5981701
+          ],
+          [
+            54.4116819,
+            18.5982013
+          ],
+          [
+            54.4116938,
+            18.5982368
+          ],
+          [
+            54.411711,
+            18.5982826
+          ],
+          [
+            54.4117267,
+            18.5983236
+          ],
+          [
+            54.4117442,
+            18.5983674
+          ],
+          [
+            54.4117656,
+            18.5984207
+          ],
+          [
+            54.4117818,
+            18.5984615
+          ],
+          [
+            54.4117942,
+            18.5984946
+          ],
+          [
+            54.4118053,
+            18.5985263
+          ],
+          [
+            54.4118157,
+            18.598559
+          ]
+        ],
+        [
+          [
+            54.4128744,
+            18.5972568
+          ],
+          [
+            54.4125191,
+            18.5974485
+          ]
+        ],
+        [
+          [
+            54.4125284,
+            18.5982341
+          ],
+          [
+            54.4125387,
+            18.5983886
+          ],
+          [
+            54.4125367,
+            18.5986446
+          ],
+          [
+            54.4125442,
+            18.5989978
+          ],
+          [
+            54.4127911,
+            18.6004559
+          ],
+          [
+            54.4128028,
+            18.6005246
+          ]
+        ],
+        [
+          [
+            54.4123586,
+            18.5884009
+          ],
+          [
+            54.4123042,
+            18.5880735
+          ]
+        ],
+        [
+          [
+            54.4124784,
+            18.5891258
+          ],
+          [
+            54.4124559,
+            18.5889917
+          ],
+          [
+            54.412392,
+            18.5886098
+          ],
+          [
+            54.4123641,
+            18.5884352
+          ],
+          [
+            54.4123586,
+            18.5884009
+          ]
+        ],
+        [
+          [
+            54.4125191,
+            18.5974485
+          ],
+          [
+            54.4124986,
+            18.5974155
+          ],
+          [
+            54.4124828,
+            18.5973884
+          ],
+          [
+            54.4124534,
+            18.5973254
+          ],
+          [
+            54.4124246,
+            18.5972171
+          ],
+          [
+            54.4122208,
+            18.5959399
+          ],
+          [
+            54.4121496,
+            18.5954936
+          ]
+        ],
+        [
+          [
+            54.4128744,
+            18.5972568
+          ],
+          [
+            54.4128477,
+            18.5971141
+          ],
+          [
+            54.4127379,
+            18.5965375
+          ],
+          [
+            54.4126941,
+            18.5963056
+          ],
+          [
+            54.4124654,
+            18.5950949
+          ],
+          [
+            54.4124172,
+            18.5948434
+          ],
+          [
+            54.4123947,
+            18.5947239
+          ],
+          [
+            54.4123314,
+            18.5943877
+          ],
+          [
+            54.4123254,
+            18.5943593
+          ],
+          [
+            54.4123191,
+            18.5943386
+          ],
+          [
+            54.4123135,
+            18.5943261
+          ],
+          [
+            54.4123077,
+            18.5943173
+          ],
+          [
+            54.4122995,
+            18.5943094
+          ],
+          [
+            54.4122908,
+            18.5943076
+          ],
+          [
+            54.4122825,
+            18.5943086
+          ],
+          [
+            54.4122716,
+            18.5943122
+          ],
+          [
+            54.4122606,
+            18.5943169
+          ],
+          [
+            54.4120297,
+            18.5944422
+          ],
+          [
+            54.4120073,
+            18.5944539
+          ]
+        ],
+        [
+          [
+            54.411802,
+            18.5958293
+          ],
+          [
+            54.4118958,
+            18.5965355
+          ],
+          [
+            54.4120226,
+            18.5974911
+          ],
+          [
+            54.4120284,
+            18.5975308
+          ],
+          [
+            54.4120344,
+            18.5975695
+          ],
+          [
+            54.412041,
+            18.5976015
+          ],
+          [
+            54.4120498,
+            18.5976372
+          ],
+          [
+            54.41206,
+            18.5976752
+          ],
+          [
+            54.4120696,
+            18.597708
+          ],
+          [
+            54.4120794,
+            18.5977389
+          ],
+          [
+            54.4120917,
+            18.5977749
+          ],
+          [
+            54.4121233,
+            18.597865
+          ],
+          [
+            54.4121691,
+            18.5979988
+          ],
+          [
+            54.4122401,
+            18.5982025
+          ],
+          [
+            54.4122885,
+            18.5983444
+          ]
+        ],
+        [
+          [
+            54.413889,
+            18.5977115
+          ],
+          [
+            54.4138153,
+            18.5977364
+          ],
+          [
+            54.4137139,
+            18.5977706
+          ],
+          [
+            54.4135324,
+            18.5978318
+          ]
+        ],
+        [
+          [
+            54.4135324,
+            18.5978318
+          ],
+          [
+            54.413211,
+            18.5979445
+          ],
+          [
+            54.4130246,
+            18.5980089
+          ],
+          [
+            54.4129847,
+            18.598024
+          ],
+          [
+            54.4129455,
+            18.5980402
+          ],
+          [
+            54.4129059,
+            18.5980569
+          ],
+          [
+            54.4127678,
+            18.59812
+          ],
+          [
+            54.4126555,
+            18.598174
+          ],
+          [
+            54.4125284,
+            18.5982341
+          ],
+          [
+            54.4122885,
+            18.5983444
+          ],
+          [
+            54.4121076,
+            18.5984273
+          ],
+          [
+            54.4118157,
+            18.598559
+          ],
+          [
+            54.4116794,
+            18.5986197
+          ]
+        ],
+        [
+          [
+            54.4117901,
+            18.5957265
+          ],
+          [
+            54.4117994,
+            18.5958072
+          ],
+          [
+            54.411802,
+            18.5958293
+          ]
+        ],
+        [
+          [
+            54.4128028,
+            18.6005246
+          ],
+          [
+            54.4129229,
+            18.601236
+          ],
+          [
+            54.4129568,
+            18.6014366
+          ],
+          [
+            54.4130009,
+            18.601695
+          ]
+        ],
+        [
+          [
+            54.4137356,
+            18.5963126
+          ],
+          [
+            54.4137759,
+            18.5965376
+          ],
+          [
+            54.4138018,
+            18.5966822
+          ],
+          [
+            54.4138842,
+            18.5971427
+          ],
+          [
+            54.4139334,
+            18.5974176
+          ],
+          [
+            54.4139535,
+            18.59753
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/27477506"
+    },
+    "385": {
+      "status": "address",
+      "lat": 54.4127847,
+      "lon": 18.5892155,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Jagiellońska 5",
+      "osm_url": "https://www.openstreetmap.org/node/11331094022"
+    },
+    "386": {
+      "status": "approx",
+      "lat": 54.4122208,
+      "lon": 18.5959399,
+      "detail": "Nie znaleziono numeru 22. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.4121076,
+            18.5984273
+          ],
+          [
+            54.4121174,
+            18.5985539
+          ],
+          [
+            54.4121355,
+            18.598795
+          ],
+          [
+            54.4121493,
+            18.5989545
+          ],
+          [
+            54.4122036,
+            18.5993384
+          ],
+          [
+            54.412296,
+            18.5999708
+          ]
+        ],
+        [
+          [
+            54.4123042,
+            18.5880735
+          ],
+          [
+            54.4122664,
+            18.587904
+          ],
+          [
+            54.4122532,
+            18.5878449
+          ],
+          [
+            54.4122077,
+            18.5876409
+          ]
+        ],
+        [
+          [
+            54.4128763,
+            18.5986754
+          ],
+          [
+            54.4128547,
+            18.5985671
+          ],
+          [
+            54.4127803,
+            18.5981879
+          ],
+          [
+            54.4127678,
+            18.59812
+          ]
+        ],
+        [
+          [
+            54.4137356,
+            18.5963126
+          ],
+          [
+            54.4134652,
+            18.5947755
+          ],
+          [
+            54.4134083,
+            18.5944421
+          ],
+          [
+            54.4133818,
+            18.5942895
+          ],
+          [
+            54.4133574,
+            18.5941487
+          ],
+          [
+            54.413224,
+            18.5933785
+          ],
+          [
+            54.4131999,
+            18.5932439
+          ],
+          [
+            54.4130686,
+            18.5924951
+          ],
+          [
+            54.4130511,
+            18.5923958
+          ],
+          [
+            54.4130351,
+            18.5923037
+          ],
+          [
+            54.4130088,
+            18.5921517
+          ],
+          [
+            54.4129127,
+            18.5915972
+          ],
+          [
+            54.4128682,
+            18.5913421
+          ],
+          [
+            54.412718,
+            18.5905055
+          ],
+          [
+            54.4126969,
+            18.5903795
+          ],
+          [
+            54.4124945,
+            18.5892167
+          ],
+          [
+            54.4124784,
+            18.5891258
+          ]
+        ],
+        [
+          [
+            54.4121496,
+            18.5954936
+          ],
+          [
+            54.4121644,
+            18.5954442
+          ],
+          [
+            54.4121779,
+            18.595401
+          ],
+          [
+            54.4121879,
+            18.5953697
+          ],
+          [
+            54.4121942,
+            18.5953484
+          ],
+          [
+            54.4121992,
+            18.5953258
+          ],
+          [
+            54.4122007,
+            18.5953069
+          ],
+          [
+            54.412199,
+            18.5952863
+          ],
+          [
+            54.4121941,
+            18.5952689
+          ],
+          [
+            54.4121873,
+            18.5952562
+          ],
+          [
+            54.4121774,
+            18.5952474
+          ],
+          [
+            54.4121669,
+            18.5952445
+          ],
+          [
+            54.4121558,
+            18.5952465
+          ],
+          [
+            54.4121456,
+            18.5952529
+          ],
+          [
+            54.4121371,
+            18.5952635
+          ],
+          [
+            54.4121303,
+            18.5952795
+          ],
+          [
+            54.4121264,
+            18.5953002
+          ],
+          [
+            54.4121249,
+            18.5953226
+          ],
+          [
+            54.412127,
+            18.5953455
+          ],
+          [
+            54.41213,
+            18.5953697
+          ],
+          [
+            54.4121496,
+            18.5954936
+          ]
+        ],
+        [
+          [
+            54.4125191,
+            18.5974485
+          ],
+          [
+            54.4126338,
+            18.5980491
+          ],
+          [
+            54.4126555,
+            18.598174
+          ]
+        ],
+        [
+          [
+            54.413211,
+            18.5979445
+          ],
+          [
+            54.4131813,
+            18.5977528
+          ],
+          [
+            54.4130855,
+            18.5972376
+          ],
+          [
+            54.4130599,
+            18.5971998
+          ],
+          [
+            54.4130281,
+            18.5971898
+          ],
+          [
+            54.4128744,
+            18.5972568
+          ]
+        ],
+        [
+          [
+            54.4117901,
+            18.5957265
+          ],
+          [
+            54.4118238,
+            18.5955859
+          ],
+          [
+            54.4118282,
+            18.5955672
+          ],
+          [
+            54.4118319,
+            18.5955469
+          ],
+          [
+            54.4118336,
+            18.5955293
+          ],
+          [
+            54.411834,
+            18.5955109
+          ],
+          [
+            54.4118327,
+            18.5954935
+          ],
+          [
+            54.4118299,
+            18.5954779
+          ],
+          [
+            54.411825,
+            18.5954644
+          ],
+          [
+            54.4118185,
+            18.5954539
+          ],
+          [
+            54.4118097,
+            18.5954462
+          ],
+          [
+            54.4118014,
+            18.5954436
+          ],
+          [
+            54.4117927,
+            18.5954446
+          ],
+          [
+            54.4117843,
+            18.5954492
+          ],
+          [
+            54.4117758,
+            18.5954579
+          ],
+          [
+            54.4117696,
+            18.5954682
+          ],
+          [
+            54.4117661,
+            18.5954816
+          ],
+          [
+            54.4117646,
+            18.5954972
+          ],
+          [
+            54.4117646,
+            18.5955142
+          ],
+          [
+            54.4117661,
+            18.5955352
+          ],
+          [
+            54.4117901,
+            18.5957265
+          ]
+        ],
+        [
+          [
+            54.4113751,
+            18.5954521
+          ],
+          [
+            54.4113868,
+            18.5955674
+          ],
+          [
+            54.4115735,
+            18.5973175
+          ],
+          [
+            54.4115823,
+            18.597401
+          ],
+          [
+            54.4116082,
+            18.5976452
+          ],
+          [
+            54.4116476,
+            18.5980169
+          ],
+          [
+            54.4116518,
+            18.5980536
+          ],
+          [
+            54.4116556,
+            18.5980846
+          ],
+          [
+            54.41166,
+            18.5981129
+          ],
+          [
+            54.4116654,
+            18.5981419
+          ],
+          [
+            54.4116726,
+            18.5981701
+          ],
+          [
+            54.4116819,
+            18.5982013
+          ],
+          [
+            54.4116938,
+            18.5982368
+          ],
+          [
+            54.411711,
+            18.5982826
+          ],
+          [
+            54.4117267,
+            18.5983236
+          ],
+          [
+            54.4117442,
+            18.5983674
+          ],
+          [
+            54.4117656,
+            18.5984207
+          ],
+          [
+            54.4117818,
+            18.5984615
+          ],
+          [
+            54.4117942,
+            18.5984946
+          ],
+          [
+            54.4118053,
+            18.5985263
+          ],
+          [
+            54.4118157,
+            18.598559
+          ]
+        ],
+        [
+          [
+            54.4128744,
+            18.5972568
+          ],
+          [
+            54.4125191,
+            18.5974485
+          ]
+        ],
+        [
+          [
+            54.4125284,
+            18.5982341
+          ],
+          [
+            54.4125387,
+            18.5983886
+          ],
+          [
+            54.4125367,
+            18.5986446
+          ],
+          [
+            54.4125442,
+            18.5989978
+          ],
+          [
+            54.4127911,
+            18.6004559
+          ],
+          [
+            54.4128028,
+            18.6005246
+          ]
+        ],
+        [
+          [
+            54.4123586,
+            18.5884009
+          ],
+          [
+            54.4123042,
+            18.5880735
+          ]
+        ],
+        [
+          [
+            54.4124784,
+            18.5891258
+          ],
+          [
+            54.4124559,
+            18.5889917
+          ],
+          [
+            54.412392,
+            18.5886098
+          ],
+          [
+            54.4123641,
+            18.5884352
+          ],
+          [
+            54.4123586,
+            18.5884009
+          ]
+        ],
+        [
+          [
+            54.4125191,
+            18.5974485
+          ],
+          [
+            54.4124986,
+            18.5974155
+          ],
+          [
+            54.4124828,
+            18.5973884
+          ],
+          [
+            54.4124534,
+            18.5973254
+          ],
+          [
+            54.4124246,
+            18.5972171
+          ],
+          [
+            54.4122208,
+            18.5959399
+          ],
+          [
+            54.4121496,
+            18.5954936
+          ]
+        ],
+        [
+          [
+            54.4128744,
+            18.5972568
+          ],
+          [
+            54.4128477,
+            18.5971141
+          ],
+          [
+            54.4127379,
+            18.5965375
+          ],
+          [
+            54.4126941,
+            18.5963056
+          ],
+          [
+            54.4124654,
+            18.5950949
+          ],
+          [
+            54.4124172,
+            18.5948434
+          ],
+          [
+            54.4123947,
+            18.5947239
+          ],
+          [
+            54.4123314,
+            18.5943877
+          ],
+          [
+            54.4123254,
+            18.5943593
+          ],
+          [
+            54.4123191,
+            18.5943386
+          ],
+          [
+            54.4123135,
+            18.5943261
+          ],
+          [
+            54.4123077,
+            18.5943173
+          ],
+          [
+            54.4122995,
+            18.5943094
+          ],
+          [
+            54.4122908,
+            18.5943076
+          ],
+          [
+            54.4122825,
+            18.5943086
+          ],
+          [
+            54.4122716,
+            18.5943122
+          ],
+          [
+            54.4122606,
+            18.5943169
+          ],
+          [
+            54.4120297,
+            18.5944422
+          ],
+          [
+            54.4120073,
+            18.5944539
+          ]
+        ],
+        [
+          [
+            54.411802,
+            18.5958293
+          ],
+          [
+            54.4118958,
+            18.5965355
+          ],
+          [
+            54.4120226,
+            18.5974911
+          ],
+          [
+            54.4120284,
+            18.5975308
+          ],
+          [
+            54.4120344,
+            18.5975695
+          ],
+          [
+            54.412041,
+            18.5976015
+          ],
+          [
+            54.4120498,
+            18.5976372
+          ],
+          [
+            54.41206,
+            18.5976752
+          ],
+          [
+            54.4120696,
+            18.597708
+          ],
+          [
+            54.4120794,
+            18.5977389
+          ],
+          [
+            54.4120917,
+            18.5977749
+          ],
+          [
+            54.4121233,
+            18.597865
+          ],
+          [
+            54.4121691,
+            18.5979988
+          ],
+          [
+            54.4122401,
+            18.5982025
+          ],
+          [
+            54.4122885,
+            18.5983444
+          ]
+        ],
+        [
+          [
+            54.413889,
+            18.5977115
+          ],
+          [
+            54.4138153,
+            18.5977364
+          ],
+          [
+            54.4137139,
+            18.5977706
+          ],
+          [
+            54.4135324,
+            18.5978318
+          ]
+        ],
+        [
+          [
+            54.4135324,
+            18.5978318
+          ],
+          [
+            54.413211,
+            18.5979445
+          ],
+          [
+            54.4130246,
+            18.5980089
+          ],
+          [
+            54.4129847,
+            18.598024
+          ],
+          [
+            54.4129455,
+            18.5980402
+          ],
+          [
+            54.4129059,
+            18.5980569
+          ],
+          [
+            54.4127678,
+            18.59812
+          ],
+          [
+            54.4126555,
+            18.598174
+          ],
+          [
+            54.4125284,
+            18.5982341
+          ],
+          [
+            54.4122885,
+            18.5983444
+          ],
+          [
+            54.4121076,
+            18.5984273
+          ],
+          [
+            54.4118157,
+            18.598559
+          ],
+          [
+            54.4116794,
+            18.5986197
+          ]
+        ],
+        [
+          [
+            54.4117901,
+            18.5957265
+          ],
+          [
+            54.4117994,
+            18.5958072
+          ],
+          [
+            54.411802,
+            18.5958293
+          ]
+        ],
+        [
+          [
+            54.4128028,
+            18.6005246
+          ],
+          [
+            54.4129229,
+            18.601236
+          ],
+          [
+            54.4129568,
+            18.6014366
+          ],
+          [
+            54.4130009,
+            18.601695
+          ]
+        ],
+        [
+          [
+            54.4137356,
+            18.5963126
+          ],
+          [
+            54.4137759,
+            18.5965376
+          ],
+          [
+            54.4138018,
+            18.5966822
+          ],
+          [
+            54.4138842,
+            18.5971427
+          ],
+          [
+            54.4139334,
+            18.5974176
+          ],
+          [
+            54.4139535,
+            18.59753
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/27477506"
+    },
+    "387": {
+      "status": "address",
+      "lat": 54.3271659,
+      "lon": 18.5823516,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Jeleniogórska 37",
+      "osm_url": "https://www.openstreetmap.org/way/106524117"
+    },
+    "388": {
+      "status": "address",
+      "lat": 54.315238,
+      "lon": 18.6063405,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Knyszyńska 12",
+      "osm_url": "https://www.openstreetmap.org/way/111621600"
+    },
+    "389": {
+      "status": "address",
+      "lat": 54.315674,
+      "lon": 18.605603,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Knyszyńska 4",
+      "osm_url": "https://www.openstreetmap.org/way/111621592"
+    },
+    "390": {
+      "status": "address",
+      "lat": 54.3142573,
+      "lon": 18.6024667,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Kolorowa 6",
+      "osm_url": "https://www.openstreetmap.org/node/6295619246"
+    },
+    "391": {
+      "status": "address",
+      "lat": 54.3124773,
+      "lon": 18.6031442,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Kolorowa 9",
+      "osm_url": "https://www.openstreetmap.org/way/111621581"
+    },
+    "392": {
+      "status": "address",
+      "lat": 54.3136158,
+      "lon": 18.5981219,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Kryształowa 1",
+      "osm_url": "https://www.openstreetmap.org/way/111621608"
+    },
+    "393": {
+      "status": "address",
+      "lat": 54.3074503,
+      "lon": 18.5906539,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Łucznicza 16",
+      "osm_url": "https://www.openstreetmap.org/way/840886646"
+    },
+    "394": {
+      "status": "approx",
+      "lat": 54.308827650000005,
+      "lon": 18.5872027,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/111726194"
+    },
+    "395": {
+      "status": "address",
+      "lat": 54.3316447,
+      "lon": 18.6127703,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Antoniego Madalińskiego 3",
+      "osm_url": "https://www.openstreetmap.org/way/515204206"
+    },
+    "396": {
+      "status": "approx",
+      "lat": 54.301237199999996,
+      "lon": 18.6071412,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/23612452"
+    },
+    "398": {
+      "status": "approx",
+      "lat": 54.3271572,
+      "lon": 18.5803428,
+      "detail": "Opis „parking” nie pozwolił jednoznacznie wskazać miejsca. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3271077,
+            18.5797792
+          ],
+          [
+            54.3271083,
+            18.5799699
+          ],
+          [
+            54.3271114,
+            18.5801447
+          ],
+          [
+            54.3271257,
+            18.5802304
+          ],
+          [
+            54.3271572,
+            18.5803428
+          ],
+          [
+            54.3271617,
+            18.5803587
+          ],
+          [
+            54.3272318,
+            18.5805553
+          ]
+        ],
+        [
+          [
+            54.3283581,
+            18.5798794
+          ],
+          [
+            54.3282659,
+            18.5798763
+          ],
+          [
+            54.328178,
+            18.5798736
+          ],
+          [
+            54.3281122,
+            18.579871
+          ],
+          [
+            54.3279053,
+            18.5798056
+          ],
+          [
+            54.3278624,
+            18.5797921
+          ],
+          [
+            54.3273105,
+            18.5797827
+          ],
+          [
+            54.3271077,
+            18.5797792
+          ],
+          [
+            54.3270599,
+            18.579777
+          ],
+          [
+            54.3269232,
+            18.5797714
+          ],
+          [
+            54.3268855,
+            18.5797702
+          ],
+          [
+            54.3265093,
+            18.5797573
+          ],
+          [
+            54.3264832,
+            18.5797561
+          ]
+        ],
+        [
+          [
+            54.3271041,
+            18.580847
+          ],
+          [
+            54.3270786,
+            18.5808466
+          ],
+          [
+            54.3269669,
+            18.5808447
+          ],
+          [
+            54.3267287,
+            18.5808326
+          ]
+        ],
+        [
+          [
+            54.3272318,
+            18.5805553
+          ],
+          [
+            54.3272109,
+            18.5806428
+          ],
+          [
+            54.3271805,
+            18.5806984
+          ],
+          [
+            54.3271573,
+            18.5807435
+          ],
+          [
+            54.3271041,
+            18.580847
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/27476342"
+    },
+    "399": {
+      "status": "approx",
+      "lat": 54.3052037,
+      "lon": 18.5810105,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/64259892"
+    },
+    "401": {
+      "status": "address",
+      "lat": 54.3088381,
+      "lon": 18.5902136,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Olimpijska 56",
+      "osm_url": "https://www.openstreetmap.org/way/150443443"
+    },
+    "402": {
+      "status": "approx",
+      "lat": 54.3283581,
+      "lon": 18.5798794,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/64238134"
+    },
+    "403": {
+      "status": "approx",
+      "lat": 54.3258582,
+      "lon": 18.6245353,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Platynowa 21C",
+      "osm_url": "https://www.openstreetmap.org/way/105697404"
+    },
+    "404": {
+      "status": "address",
+      "lat": 54.3163035,
+      "lon": 18.591908,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Przebiśniegowa 5",
+      "osm_url": "https://www.openstreetmap.org/way/111659239"
+    },
+    "405": {
+      "status": "approx",
+      "lat": 54.3221786,
+      "lon": 18.6371216,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/177037330"
+    },
+    "406": {
+      "status": "approx",
+      "lat": 54.3255958,
+      "lon": 18.6215742,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Biskupa Hieronima Rozrażewskiego 4B",
+      "osm_url": "https://www.openstreetmap.org/way/105697381"
+    },
+    "408": {
+      "status": "address",
+      "lat": 54.3257463,
+      "lon": 18.6402308,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Równa 46",
+      "osm_url": "https://www.openstreetmap.org/node/13205144123"
+    },
+    "409": {
+      "status": "approx",
+      "lat": 54.3292629,
+      "lon": 18.6376095,
+      "detail": "Orientacyjna lokalizacja skrzyżowania. Nie określa strony ulicy ani dokładnego miejsca pojemnika.",
+      "osm_url": "https://www.openstreetmap.org/way/177084594"
+    },
+    "410": {
+      "status": "address",
+      "lat": 54.317873,
+      "lon": 18.635239,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Smoleńska 20",
+      "osm_url": "https://www.openstreetmap.org/way/291090366"
+    },
+    "411": {
+      "status": "address",
+      "lat": 54.3157477,
+      "lon": 18.6016084,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Srebrna 28",
+      "osm_url": "https://www.openstreetmap.org/way/111621568"
+    },
+    "412": {
+      "status": "address",
+      "lat": 54.3156605,
+      "lon": 18.62984,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Trakt Świętego Wojciecha 213",
+      "osm_url": "https://www.openstreetmap.org/way/111751746"
+    },
+    "413": {
+      "status": "address",
+      "lat": 54.327822,
+      "lon": 18.6369113,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Ubocze 24B",
+      "osm_url": "https://www.openstreetmap.org/node/2228759240"
+    },
+    "414": {
+      "status": "address",
+      "lat": 54.3115279,
+      "lon": 18.6324244,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Ukośna 7",
+      "osm_url": "https://www.openstreetmap.org/way/111751720"
+    },
+    "415": {
+      "status": "approx",
+      "lat": 54.3268795,
+      "lon": 18.6198621,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Uranowa 5A",
+      "osm_url": "https://www.openstreetmap.org/way/105617540"
+    },
+    "416": {
+      "status": "address",
+      "lat": 54.3324525,
+      "lon": 18.5861989,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Warszawska 55",
+      "osm_url": "https://www.openstreetmap.org/way/106391275"
+    },
+    "417": {
+      "status": "address",
+      "lat": 54.332023,
+      "lon": 18.5839995,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Warszawska 59",
+      "osm_url": "https://www.openstreetmap.org/way/160584915"
+    },
+    "418": {
+      "status": "address",
+      "lat": 54.3285945,
+      "lon": 18.6125076,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Wawelska 4A",
+      "osm_url": "https://www.openstreetmap.org/way/151592709"
+    },
+    "419": {
+      "status": "approx",
+      "lat": 54.3125591,
+      "lon": 18.590251,
+      "detail": "PDF podaje tylko nazwę ulicy, bez numeru. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3159687,
+            18.5908625
+          ],
+          [
+            54.3157518,
+            18.5909482
+          ],
+          [
+            54.3154703,
+            18.5910581
+          ],
+          [
+            54.3153966,
+            18.5910885
+          ],
+          [
+            54.3152398,
+            18.5911515
+          ],
+          [
+            54.3151177,
+            18.5912049
+          ],
+          [
+            54.3149954,
+            18.5912337
+          ],
+          [
+            54.314875,
+            18.5912336
+          ],
+          [
+            54.3147499,
+            18.5912226
+          ],
+          [
+            54.3145517,
+            18.5911814
+          ],
+          [
+            54.3143912,
+            18.5911159
+          ]
+        ],
+        [
+          [
+            54.3184953,
+            18.5916213
+          ],
+          [
+            54.3184169,
+            18.5916571
+          ],
+          [
+            54.3182321,
+            18.5916821
+          ],
+          [
+            54.3181414,
+            18.5916771
+          ],
+          [
+            54.317781,
+            18.5916539
+          ],
+          [
+            54.3176838,
+            18.5916219
+          ],
+          [
+            54.3175896,
+            18.5915669
+          ],
+          [
+            54.3174048,
+            18.5913651
+          ],
+          [
+            54.3172486,
+            18.5910998
+          ],
+          [
+            54.3172138,
+            18.5910346
+          ],
+          [
+            54.3171537,
+            18.590914
+          ],
+          [
+            54.3170808,
+            18.5907024
+          ],
+          [
+            54.3170095,
+            18.5905097
+          ],
+          [
+            54.316946,
+            18.5904182
+          ],
+          [
+            54.3168821,
+            18.5903601
+          ],
+          [
+            54.3166525,
+            18.5902714
+          ],
+          [
+            54.3165096,
+            18.5902351
+          ],
+          [
+            54.3163602,
+            18.5901926
+          ],
+          [
+            54.3163038,
+            18.5901995
+          ],
+          [
+            54.3162473,
+            18.5902435
+          ],
+          [
+            54.3160508,
+            18.5906852
+          ],
+          [
+            54.3159687,
+            18.5908625
+          ]
+        ],
+        [
+          [
+            54.3092424,
+            18.5875015
+          ],
+          [
+            54.3091249,
+            18.5873699
+          ],
+          [
+            54.309037,
+            18.5872813
+          ]
+        ],
+        [
+          [
+            54.3088032,
+            18.5870516
+          ],
+          [
+            54.3087153,
+            18.5869662
+          ],
+          [
+            54.3085426,
+            18.586802
+          ]
+        ],
+        [
+          [
+            54.3143912,
+            18.5911159
+          ],
+          [
+            54.3143052,
+            18.5910552
+          ],
+          [
+            54.3142225,
+            18.5909894
+          ],
+          [
+            54.3141334,
+            18.5909073
+          ],
+          [
+            54.3138694,
+            18.5906164
+          ],
+          [
+            54.3137265,
+            18.5904957
+          ],
+          [
+            54.3136841,
+            18.5904699
+          ],
+          [
+            54.3135984,
+            18.590442
+          ],
+          [
+            54.3133495,
+            18.590433
+          ],
+          [
+            54.3132275,
+            18.590426
+          ],
+          [
+            54.3129847,
+            18.5904164
+          ],
+          [
+            54.3128168,
+            18.5903766
+          ],
+          [
+            54.3127204,
+            18.5903397
+          ],
+          [
+            54.3125591,
+            18.590251
+          ],
+          [
+            54.312477,
+            18.5901978
+          ],
+          [
+            54.3123798,
+            18.5901298
+          ],
+          [
+            54.3123306,
+            18.5900987
+          ],
+          [
+            54.3122719,
+            18.5900617
+          ],
+          [
+            54.3121714,
+            18.5899956
+          ]
+        ],
+        [
+          [
+            54.3085426,
+            18.586802
+          ],
+          [
+            54.3084611,
+            18.5867207
+          ],
+          [
+            54.3083903,
+            18.5866449
+          ],
+          [
+            54.3082116,
+            18.5864303
+          ],
+          [
+            54.3078076,
+            18.5858955
+          ],
+          [
+            54.3075609,
+            18.5855701
+          ],
+          [
+            54.3073309,
+            18.5851999
+          ],
+          [
+            54.3070553,
+            18.5845322
+          ],
+          [
+            54.3067229,
+            18.5837649
+          ],
+          [
+            54.3065831,
+            18.5834072
+          ],
+          [
+            54.3065626,
+            18.5833037
+          ],
+          [
+            54.3065609,
+            18.5831877
+          ],
+          [
+            54.3065732,
+            18.5830995
+          ],
+          [
+            54.3066738,
+            18.5826525
+          ],
+          [
+            54.3067833,
+            18.5821785
+          ],
+          [
+            54.306818,
+            18.5820181
+          ]
+        ],
+        [
+          [
+            54.3097217,
+            18.5880125
+          ],
+          [
+            54.309666,
+            18.5879527
+          ],
+          [
+            54.3092424,
+            18.5875015
+          ]
+        ],
+        [
+          [
+            54.3101216,
+            18.5884896
+          ],
+          [
+            54.3098238,
+            18.5881343
+          ],
+          [
+            54.3097217,
+            18.5880125
+          ]
+        ],
+        [
+          [
+            54.3115166,
+            18.5896485
+          ],
+          [
+            54.3114699,
+            18.589631
+          ],
+          [
+            54.3113061,
+            18.58957
+          ],
+          [
+            54.3112371,
+            18.589535
+          ],
+          [
+            54.3111363,
+            18.589484
+          ],
+          [
+            54.3109928,
+            18.5893972
+          ],
+          [
+            54.3109185,
+            18.5893391
+          ],
+          [
+            54.3108361,
+            18.5892715
+          ],
+          [
+            54.3107284,
+            18.5891635
+          ],
+          [
+            54.3106057,
+            18.5890232
+          ],
+          [
+            54.310479,
+            18.5888842
+          ],
+          [
+            54.3102625,
+            18.5886513
+          ],
+          [
+            54.3101216,
+            18.5884896
+          ]
+        ],
+        [
+          [
+            54.3121714,
+            18.5899956
+          ],
+          [
+            54.3115166,
+            18.5896485
+          ]
+        ],
+        [
+          [
+            54.3191268,
+            18.5912905
+          ],
+          [
+            54.3190255,
+            18.5913406
+          ],
+          [
+            54.318762,
+            18.5914749
+          ],
+          [
+            54.3186484,
+            18.5915362
+          ],
+          [
+            54.3184953,
+            18.5916213
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/64260065"
+    },
+    "420": {
+      "status": "approx",
+      "lat": 54.3231119,
+      "lon": 18.6368612,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Żuławska 4A",
+      "osm_url": "https://www.openstreetmap.org/node/7197531433"
+    },
+    "421": {
+      "status": "approx",
+      "lat": 54.3368101,
+      "lon": 18.6680821,
+      "detail": "PDF podaje tylko nazwę ulicy, bez numeru. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3360903,
+            18.6689221
+          ],
+          [
+            54.3361361,
+            18.6688687
+          ],
+          [
+            54.3366667,
+            18.6682495
+          ],
+          [
+            54.3368101,
+            18.6680821
+          ],
+          [
+            54.3371781,
+            18.6676533
+          ],
+          [
+            54.3374171,
+            18.6673739
+          ],
+          [
+            54.3376586,
+            18.667092
+          ],
+          [
+            54.3380471,
+            18.6666387
+          ],
+          [
+            54.3384573,
+            18.66616
+          ],
+          [
+            54.3387219,
+            18.6658513
+          ]
+        ],
+        [
+          [
+            54.3344552,
+            18.6708221
+          ],
+          [
+            54.3345037,
+            18.6707655
+          ],
+          [
+            54.3347339,
+            18.6704967
+          ],
+          [
+            54.3350267,
+            18.6701593
+          ],
+          [
+            54.3355522,
+            18.6695397
+          ],
+          [
+            54.3355994,
+            18.6694859
+          ],
+          [
+            54.3360903,
+            18.6689221
+          ]
+        ],
+        [
+          [
+            54.3387219,
+            18.6658513
+          ],
+          [
+            54.3387679,
+            18.6657751
+          ],
+          [
+            54.3387769,
+            18.6656786
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/27477848"
+    },
+    "422": {
+      "status": "address",
+      "lat": 54.3602722,
+      "lon": 18.7215209,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Jodłowa 6",
+      "osm_url": "https://www.openstreetmap.org/way/98361621"
+    },
+    "423": {
+      "status": "approx",
+      "lat": 54.3407322,
+      "lon": 18.658801,
+      "detail": "PDF podaje tylko nazwę ulicy, bez numeru. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3410112,
+            18.6583979
+          ],
+          [
+            54.3409912,
+            18.6584278
+          ],
+          [
+            54.3409531,
+            18.6584847
+          ],
+          [
+            54.3408984,
+            18.6585687
+          ]
+        ],
+        [
+          [
+            54.3408984,
+            18.6585687
+          ],
+          [
+            54.3408658,
+            18.6586154
+          ],
+          [
+            54.3407322,
+            18.658801
+          ],
+          [
+            54.3402688,
+            18.6594449
+          ],
+          [
+            54.3400246,
+            18.6597847
+          ],
+          [
+            54.3399311,
+            18.6599242
+          ],
+          [
+            54.3399228,
+            18.6599366
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/177165738"
+    },
+    "424": {
+      "status": "approx",
+      "lat": 54.3573809,
+      "lon": 18.686927,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Teofila Lenartowicza 10C",
+      "osm_url": "https://www.openstreetmap.org/way/97443571"
+    },
+    "425": {
+      "status": "address",
+      "lat": 54.3623495,
+      "lon": 18.7081186,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Niska 2C",
+      "osm_url": "https://www.openstreetmap.org/way/97443883"
+    },
+    "426": {
+      "status": "address",
+      "lat": 54.3587622,
+      "lon": 18.7075632,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Jeremiasza Falck Polonusa 11",
+      "osm_url": "https://www.openstreetmap.org/way/97741903"
+    },
+    "427": {
+      "status": "address",
+      "lat": 54.3559625,
+      "lon": 18.6799225,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Siennicka 10",
+      "osm_url": "https://www.openstreetmap.org/way/97671180"
+    },
+    "428": {
+      "status": "address",
+      "lat": 54.3585855,
+      "lon": 18.7042899,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Tamka 1",
+      "osm_url": "https://www.openstreetmap.org/node/2619757492"
+    },
+    "429": {
+      "status": "approx",
+      "lat": 54.3595427,
+      "lon": 18.7160371,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Tamka 29D",
+      "osm_url": "https://www.openstreetmap.org/way/98005260"
+    },
+    "430": {
+      "status": "address",
+      "lat": 54.3594427,
+      "lon": 18.7186375,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Tamka 43",
+      "osm_url": "https://www.openstreetmap.org/way/98005270"
+    },
+    "431": {
+      "status": "address",
+      "lat": 54.364381,
+      "lon": 18.7083175,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Zalesie 10",
+      "osm_url": "https://www.openstreetmap.org/way/98184723"
+    },
+    "432": {
+      "status": "approx",
+      "lat": 54.3592121,
+      "lon": 18.7079654,
+      "detail": "Nie znaleziono dokładnego oznaczenia budynku lub klatki. Pokazano adres o tym samym numerze podstawowym.",
+      "matched_address": "Zimna 2D",
+      "osm_url": "https://www.openstreetmap.org/way/97443730"
+    },
+    "433": {
+      "status": "approx",
+      "lat": 54.3377151,
+      "lon": 18.6671894,
+      "detail": "Nie znaleziono numeru 38. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3396985,
+            18.6714518
+          ],
+          [
+            54.339494,
+            18.6716978
+          ]
+        ],
+        [
+          [
+            54.3376586,
+            18.667092
+          ],
+          [
+            54.3374701,
+            18.6666473
+          ],
+          [
+            54.3364261,
+            18.6640012
+          ],
+          [
+            54.3358469,
+            18.6624781
+          ],
+          [
+            54.3356196,
+            18.6619182
+          ],
+          [
+            54.3356037,
+            18.6618792
+          ]
+        ],
+        [
+          [
+            54.3396376,
+            18.6720554
+          ],
+          [
+            54.339494,
+            18.6716978
+          ],
+          [
+            54.33909,
+            18.6706601
+          ],
+          [
+            54.3380903,
+            18.6681714
+          ],
+          [
+            54.3377151,
+            18.6671894
+          ],
+          [
+            54.337683,
+            18.6671341
+          ],
+          [
+            54.3376586,
+            18.667092
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/112199537"
+    },
+    "434": {
+      "status": "approx",
+      "lat": 54.3288901,
+      "lon": 18.6696944,
+      "detail": "Nie znaleziono numeru 37. Znacznik opisuje ulicę, nie miejsce ustawienia pojemnika; po kliknięciu pokazano jej przebieg.",
+      "area_only": true,
+      "paths": [
+        [
+          [
+            54.3323326,
+            18.6656452
+          ],
+          [
+            54.3325622,
+            18.6654188
+          ],
+          [
+            54.332956,
+            18.6649574
+          ],
+          [
+            54.332996,
+            18.664911
+          ],
+          [
+            54.3333621,
+            18.6644777
+          ],
+          [
+            54.3335226,
+            18.6642878
+          ],
+          [
+            54.3340087,
+            18.6637178
+          ],
+          [
+            54.3346663,
+            18.6629465
+          ],
+          [
+            54.3347363,
+            18.6628636
+          ],
+          [
+            54.3349823,
+            18.662592
+          ],
+          [
+            54.3353526,
+            18.6621749
+          ]
+        ],
+        [
+          [
+            54.3323326,
+            18.6656452
+          ],
+          [
+            54.3321577,
+            18.6657921
+          ],
+          [
+            54.3320972,
+            18.6658675
+          ],
+          [
+            54.3320669,
+            18.6659144
+          ],
+          [
+            54.331978,
+            18.6660497
+          ],
+          [
+            54.3319139,
+            18.6661326
+          ],
+          [
+            54.3317006,
+            18.6663929
+          ],
+          [
+            54.3315341,
+            18.6665962
+          ]
+        ],
+        [
+          [
+            54.3158884,
+            18.6848258
+          ],
+          [
+            54.3148435,
+            18.6860634
+          ],
+          [
+            54.3147723,
+            18.6861773
+          ],
+          [
+            54.3147445,
+            18.6863772
+          ],
+          [
+            54.3147109,
+            18.6870825
+          ]
+        ],
+        [
+          [
+            54.3353526,
+            18.6621749
+          ],
+          [
+            54.3354157,
+            18.6621006
+          ],
+          [
+            54.3355042,
+            18.6619964
+          ],
+          [
+            54.3356037,
+            18.6618792
+          ],
+          [
+            54.3357582,
+            18.6616973
+          ],
+          [
+            54.3360264,
+            18.6613815
+          ]
+        ],
+        [
+          [
+            54.3360264,
+            18.6613815
+          ],
+          [
+            54.3366557,
+            18.6606418
+          ],
+          [
+            54.3366957,
+            18.660578
+          ]
+        ],
+        [
+          [
+            54.3315341,
+            18.6665962
+          ],
+          [
+            54.3308556,
+            18.6673982
+          ],
+          [
+            54.330536,
+            18.6677909
+          ]
+        ],
+        [
+          [
+            54.330536,
+            18.6677909
+          ],
+          [
+            54.3288901,
+            18.6696944
+          ]
+        ],
+        [
+          [
+            54.3288901,
+            18.6696944
+          ],
+          [
+            54.328291,
+            18.6703918
+          ],
+          [
+            54.3269989,
+            18.6718935
+          ]
+        ],
+        [
+          [
+            54.3269989,
+            18.6718935
+          ],
+          [
+            54.326176,
+            18.6728598
+          ],
+          [
+            54.325708,
+            18.6733896
+          ]
+        ],
+        [
+          [
+            54.325708,
+            18.6733896
+          ],
+          [
+            54.3249431,
+            18.6743026
+          ]
+        ],
+        [
+          [
+            54.3249431,
+            18.6743026
+          ],
+          [
+            54.3223568,
+            18.6773027
+          ],
+          [
+            54.3223407,
+            18.6773213
+          ],
+          [
+            54.3213013,
+            18.6785269
+          ],
+          [
+            54.3203379,
+            18.6796544
+          ],
+          [
+            54.3190999,
+            18.6811033
+          ],
+          [
+            54.3158884,
+            18.6848258
+          ]
+        ]
+      ],
+      "osm_url": "https://www.openstreetmap.org/way/66175035"
+    },
+    "435": {
+      "status": "unresolved",
+      "lat": null,
+      "lon": null,
+      "detail": "Brak danych pozwalających rozpoznać tę ulicę w Gdańsku."
+    },
+    "436": {
+      "status": "unresolved",
+      "lat": null,
+      "lon": null,
+      "detail": "Brak danych pozwalających rozpoznać tę ulicę w Gdańsku."
+    },
+    "437": {
+      "status": "address",
+      "lat": 54.3448915,
+      "lon": 18.675063,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Osiedle 4",
+      "osm_url": "https://www.openstreetmap.org/way/112016372"
+    },
+    "438": {
+      "status": "address",
+      "lat": 54.3404127,
+      "lon": 18.5654706,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Damroki 18",
+      "osm_url": "https://www.openstreetmap.org/way/105891299"
+    },
+    "439": {
+      "status": "address",
+      "lat": 54.3391366,
+      "lon": 18.5653384,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Damroki 1A",
+      "osm_url": "https://www.openstreetmap.org/node/2901475585"
+    },
+    "440": {
+      "status": "address",
+      "lat": 54.338493,
+      "lon": 18.567091,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Kartuska 345",
+      "osm_url": "https://www.openstreetmap.org/way/121250663"
+    },
+    "441": {
+      "status": "address",
+      "lat": 54.3513645,
+      "lon": 18.556875,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Myśliwska 100",
+      "osm_url": "https://www.openstreetmap.org/way/195291742"
+    },
+    "443": {
+      "status": "address",
+      "lat": 54.3425069,
+      "lon": 18.5633904,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Pólnicy 19",
+      "osm_url": "https://www.openstreetmap.org/way/105894165"
+    },
+    "444": {
+      "status": "address",
+      "lat": 54.3401691,
+      "lon": 18.561624,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Rycerza Blizbora 31",
+      "osm_url": "https://www.openstreetmap.org/way/105892396"
+    },
+    "445": {
+      "status": "address",
+      "lat": 54.3427222,
+      "lon": 18.5622923,
+      "detail": "Dopasowano adres w OpenStreetMap. Punkt odnosi się do budynku/adresu, a nie do zweryfikowanej pozycji pojemnika.",
+      "matched_address": "Stolema 54",
+      "osm_url": "https://www.openstreetmap.org/way/106211770"
+    }
+  }
+}

@@ -260,7 +260,18 @@ function pointerEnd(e){pointers.delete(e.pointerId);if(pointers.size===0){drag=n
 $('map').addEventListener('pointerup',pointerEnd);$('map').addEventListener('pointercancel',pointerEnd);
 $('map').addEventListener('keydown',e=>{if(['+','=','-','ArrowLeft','ArrowRight','ArrowUp','ArrowDown'].includes(e.key)){e.preventDefault();if(['+','=','-'].includes(e.key))zoomBy(e.key==='-'?-1:1);else{const c=project(view.center);if(e.key==='ArrowLeft')c[0]-=100;if(e.key==='ArrowRight')c[0]+=100;if(e.key==='ArrowUp')c[1]-=100;if(e.key==='ArrowDown')c[1]+=100;view.center=unproject(c);requestMap();}}});
 new ResizeObserver(requestMap).observe($('map'));
-$('locate').onclick=()=>{if(!navigator.geolocation){toast('Ta przeglądarka nie udostępnia lokalizacji.');return;}navigator.geolocation.getCurrentPosition(p=>{userLocation=[p.coords.latitude,p.coords.longitude];view.center=userLocation;view.zoom=15;requestMap();toast('Lokalizacja jest używana tylko w tej mapie.');},()=>toast('Nie uzyskano lokalizacji. Sprawdź zgodę przeglądarki lub znajdź ulicę w wyszukiwarce.'),{enableHighAccuracy:false,timeout:12000,maximumAge:120000});};
+$('locate').onclick=()=>{
+ if(!isSecureContext){toast('Lokalizacja wymaga HTTPS. Otwórz https://szmaty.peelosophy.com.');return;}
+ if(!navigator.geolocation){toast('Ta przeglądarka nie udostępnia lokalizacji. Otwórz mapę w Safari, Chrome lub Firefox.');return;}
+ const button=$('locate');button.disabled=true;toast('Ustalam Twoją lokalizację… Zezwól na dostęp, jeśli przeglądarka o to poprosi.');
+ navigator.geolocation.getCurrentPosition(p=>{
+  button.disabled=false;userLocation=[p.coords.latitude,p.coords.longitude];view.center=userLocation;view.zoom=15;requestMap();toast('Lokalizacja jest używana tylko w tej mapie.');
+ },error=>{
+  button.disabled=false;
+  const messages={1:'Dostęp do lokalizacji jest zablokowany. Zezwól tej stronie na lokalizację w ustawieniach przeglądarki i sprawdź zgodę systemową.',2:'Nie udało się ustalić pozycji. Włącz usługi lokalizacji w urządzeniu i spróbuj ponownie.',3:'Czas oczekiwania na lokalizację minął. Spróbuj ponownie.'};
+  toast(messages[error.code]||'Nie udało się ustalić pozycji. Spróbuj ponownie.');
+ },{enableHighAccuracy:false,timeout:15000,maximumAge:120000});
+};
 $('menu').onclick=()=>document.body.classList.add('menu-open');$('close-menu').onclick=()=>document.body.classList.remove('menu-open');
 function applyOSM(data){
  if(!Array.isArray(data.elements)||!data.elements.length)throw Error('Serwis zwrócił pusty zestaw danych.');

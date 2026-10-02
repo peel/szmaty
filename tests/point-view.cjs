@@ -21,7 +21,7 @@ const path=require('node:path');
   await page.locator('#results .result.address').nth(1).click();
   await page.keyboard.press('Escape');
   assert.deepEqual(await readView(),before,'Switching between points keeps the original overview');
-  await page.locator('#results .result.unresolved').first().click();
+  await page.evaluate(()=>openPoint(POINTS.find(p=>p.geo.status==='unresolved').id));
   await page.locator('#popup-close').click();
   assert.deepEqual(await readView(),before,'Unresolved points do not alter the view');
   await page.locator('#results .result.address').first().click();

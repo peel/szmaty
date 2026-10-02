@@ -1,5 +1,7 @@
 # Gdzie wyrzucić — szmaty i elektronika w Pomorskiem
 
+Lista jest sortowana według odległości w linii prostej od lokalizacji użytkownika. Gdy nie jest dostępna, punktem odniesienia jest środek widocznej mapy; przesunięcie mapy aktualizuje kolejność po krótkiej przerwie. Otwarcie punktu nie zmienia tego odniesienia. Miejsca bez współrzędnych trafiają na koniec. Odległość dla pozycji orientacyjnych dotyczy znacznika, nie potwierdzonego pojemnika. Pierwsza partia obejmuje 50 miejsc, kolejne doładowują się przy przewijaniu (przycisk na końcu umożliwia też obsługę klawiaturą). Wyszukiwanie, zmiana frakcji lub punktu odniesienia resetują listę; otwarcie i zamknięcie punktu zachowują przewinięcie i doładowane pozycje. Podział na partie dotyczy wyłącznie listy — mapa pokazuje wszystkie pasujące punkty. Test: `node tests/nearby-list.cjs`.
+
 Nagłówek pozwala wybrać frakcję: szmaty lub elektronika. Link „Źródła i dokładność” w stopce opisuje aktualnie wybraną frakcję. Zapis HTML zachowuje wszystkie dane obu frakcji.
 
 Panoramax: jednorazowo sprawdzono 999 znaczników (988 różnych pozycji). Przy 20 punktach znaleziono zdjęcie w promieniu 100 m: 14 tekstylia i 6 elektronika. To 18 różnych fotografii; pokrycie jest niewielkie, a zdjęcia nie potwierdzają obecności pojemnika. Najbliższe dostępne zdjęcie, data, odległość, autor i licencja są zapisane w `panoramax_punkty.json` i osadzone w HTML. Lokalizacje bez zdjęcia mają zapisany brak dopasowania. Zdjęcia to zwykłe fotografie okolicy, nie panoramy 360°.

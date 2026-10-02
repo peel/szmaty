@@ -1,6 +1,6 @@
 # Gdzie wyrzucić — szmaty i elektronika w Pomorskiem
 
-Nagłówek pozwala wybrać frakcję: szmaty lub elektronika. Link „Źródła i dokładność” w stopce opisuje aktualnie wybraną frakcję. Eksport CSV, GeoJSON i KML obejmuje wybraną frakcję; zapis HTML zachowuje wszystkie dane obu frakcji.
+Nagłówek pozwala wybrać frakcję: szmaty lub elektronika. Link „Źródła i dokładność” w stopce opisuje aktualnie wybraną frakcję. Zapis HTML zachowuje wszystkie dane obu frakcji.
 
 Przy otwarciu mapa jednorazowo prosi przeglądarkę o lokalizację. Po uzyskaniu zgody i pozycji przybliża okolicę użytkownika (zoom 15). Przełączenie frakcji wraca do tej pozycji i przybliżenia bez ponownego pobierania lokalizacji. Gdy pozycja nie jest znana, pokazuje cały wybrany wykaz. Odmowa, błąd, przekroczenie limitu 15 sekund lub brak obsługi lokalizacji powodują pokazanie całego wybranego wykazu. Podczas oczekiwania mapa pozostaje dostępna. Przycisk lokalizacji pozwala ponowić próbę.
 
@@ -10,7 +10,7 @@ Deduplicacja porównuje miejscowość, znormalizowany adres i odległość. Ten 
 
 Cztery decyzje opisane w `metadata.reviewed`: dwa cmentarze (zgodne współrzędne, nazwa obiektu zamiast adresu), Kartuska 459 / 459C (wariant numeru, ok. 22 m) oraz Karpacka 2 (sprzeczne pozycje operatora, wybrano współrzędne zgodne z mapą miejską). Jeleniogórska / Flisykowskiego pozostają osobno mimo identycznych pozycji; Fabryczna / Kartuska pozostają osobno mimo niewielkiej odległości. Te przypadki wymagają potwierdzenia w terenie.
 
-Współrzędne zachowano z jednego z oryginalnych wpisów, bez uśredniania. W szczegółach każdego miejsca dostępne są wszystkie źródła, identyfikatory, adresy i współrzędne. Wyszukiwanie obejmuje warianty adresu, a eksport zachowuje pochodzenie danych. JSON zawiera oryginalne tablice `operator` i `city`, połączoną `points` oraz `metadata`. HTML zawiera gotową listę i nie pobiera ani nie scala danych podczas uruchamiania.
+Współrzędne zachowano z jednego z oryginalnych wpisów, bez uśredniania. W szczegółach każdego miejsca dostępne są wszystkie źródła, identyfikatory, adresy i współrzędne. Wyszukiwanie obejmuje warianty adresu; zapis HTML zachowuje pochodzenie danych. JSON zawiera oryginalne tablice `operator` i `city`, połączoną `points` oraz `metadata`. HTML zawiera gotową listę i nie pobiera ani nie scala danych podczas uruchamiania.
 
 Odtworzenie listy: `node scripts/build-electronics.cjs`. Kontrola danych: `node tests/electronics.cjs`. Testy przeglądarkowe `tests/fractions.cjs` i `tests/startup-location.cjs` wymagają Playwright oraz Chrome.
 Źródła elektroniki:
@@ -21,7 +21,7 @@ Poniższy opis dotyczy frakcji szmaty.
 
 Mapa obejmuje wszystkie 1217 wierszy z wykazu PDF. Po połączeniu powtórzeń w tej samej miejscowości, gminie i powiecie zawiera 1090 opisów lokalizacji: 548 dopasowanych adresów, 308 pozycji orientacyjnych i 234 opisy bez współrzędnych. Nie potwierdza aktualnej obecności pojemników.
 
-Współrzędne zapisano bezpośrednio w `index.html`; kopia znajduje się w `pomorskie_punkty.json`, a opisy i numery wierszy źródłowych w `pomorskie_lokalizacje.json`. Mapa nie pobiera współrzędnych przy uruchomieniu. Internet jest potrzebny do podkładu OpenStreetMap. Filtry obejmują powiat, miejscowość i dokładność dopasowania. Eksport CSV, GeoJSON i KML działa lokalnie; CSV jest też dostępny jako `pomorskie_pojemniki.csv`.
+Współrzędne zapisano bezpośrednio w `index.html`; kopia znajduje się w `pomorskie_punkty.json`, a opisy i numery wierszy źródłowych w `pomorskie_lokalizacje.json`. Mapa nie pobiera współrzędnych przy uruchomieniu. Internet jest potrzebny do podkładu OpenStreetMap. Filtry obejmują powiat, miejscowość i dokładność dopasowania. Archiwalny CSV z wykazem tekstyliów znajduje się w `pomorskie_pojemniki.csv`.
 
 Źródło wykazu: https://s-trojmiasto.pl/download/pojemniki-pomorskie.pdf (wiersze 1–1217, strony 1–18 oraz kontynuacja adresu wiersza 709 na stronie 29). Wiersze 958–961 nie mają adresu; każdy pozostaje osobnym wpisem. Oryginalne nazwy i literówki zachowano, a rozpoznane korekty do dopasowania opisano w uwagach. Niejednoznacznych opisów nie zastępowano środkiem miejscowości.
 

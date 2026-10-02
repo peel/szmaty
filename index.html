@@ -215,7 +215,9 @@ function activateFraction(){
  $('search').placeholder='Szukaj adresu, miejscowości lub numeru…';
  $('precision').innerHTML='<option value="">Wszystkie lokalizacje</option>'+(fraction==='electronics'?'<option value="source">Pozycja ze źródła</option>':'<option value="address">Dopasowany adres</option><option value="approx">Orientacyjne</option><option value="unresolved">Bez współrzędnych</option>');
  $('statistics').classList.toggle('hidden',fraction==='electronics');
- refreshDistricts();refreshCities();refreshList();readyState(true);fitCurrent();
+ refreshDistricts();refreshCities();refreshList();readyState(true);
+ if(userLocation){view.center=[...userLocation];view.zoom=15;requestMap();}
+ else fitCurrent();
 }
 $('fraction').value='textiles';$('electronics-source').value='operator';
 $('fraction').addEventListener('change',activateFraction);

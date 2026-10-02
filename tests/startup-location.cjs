@@ -27,9 +27,20 @@ const path=require('node:path');
     assert.equal(state.userLocation,null);assert(state.zoom<12,'Failed location should show the whole region');
     assert.equal(await page.locator('#visible-count').innerText(),'856');
    }
+   for(const fraction of ['electronics','textiles']){
+    await page.locator('#fit').click();
+    await page.selectOption('#fraction',fraction);
+    const switched=await page.evaluate(()=>({center:view.center,zoom:view.zoom,requests:window.locationRequests}));
+    if(outcome==='success'){
+     assert.deepEqual(switched.center,[54.4,18.6],`${fraction} should return to the user location`);
+     assert.equal(switched.zoom,15);
+    }else assert(switched.zoom<12,'Without location, switching should show the whole selected fraction');
+    assert.equal(switched.requests,outcome==='unavailable'?0:1,'Switching reuses the known location');
+    assert.equal(await page.locator('#visible-count').innerText(),fraction==='electronics'?'137':'856');
+   }
    assert.deepEqual(errors,[]);
    await page.close();
   }
-  console.log('PASS: automatic location, centering and zoom, denied/unavailable/timeout fallbacks, footer sources');
+  console.log('PASS: startup and fraction-switch location, centering and zoom, denied/unavailable/timeout fallbacks, footer sources');
  }finally{await browser.close();}
 })().catch(e=>{console.error(e);process.exit(1)});

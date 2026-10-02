@@ -2,7 +2,7 @@
 
 Nagłówek pozwala wybrać frakcję: szmaty lub elektronika. Link „Źródła i dokładność” w stopce opisuje aktualnie wybraną frakcję. Eksport CSV, GeoJSON i KML obejmuje wybraną frakcję i wykaz; zapis HTML zachowuje wszystkie dane obu frakcji.
 
-Przy otwarciu mapa jednorazowo prosi przeglądarkę o lokalizację. Po uzyskaniu zgody i pozycji przybliża okolicę użytkownika (zoom 15). Odmowa, błąd, przekroczenie limitu 15 sekund lub brak obsługi lokalizacji powodują pokazanie całego wybranego wykazu. Podczas oczekiwania mapa pozostaje dostępna. Przycisk lokalizacji pozwala ponowić próbę.
+Przy otwarciu mapa jednorazowo prosi przeglądarkę o lokalizację. Po uzyskaniu zgody i pozycji przybliża okolicę użytkownika (zoom 15). Przełączenie frakcji lub wykazu wraca do tej pozycji i przybliżenia bez ponownego pobierania lokalizacji. Gdy pozycja nie jest znana, pokazuje cały wybrany wykaz. Odmowa, błąd, przekroczenie limitu 15 sekund lub brak obsługi lokalizacji powodują pokazanie całego wybranego wykazu. Podczas oczekiwania mapa pozostaje dostępna. Przycisk lokalizacji pozwala ponowić próbę.
 
 Elektronika: 137 wpisów operatora Elektryczne Śmieci z Pomorskiego oraz osobno 90 wpisów miejskiej mapy Gdańska, pobranych 2 października 2026. Wybór wykazu znajduje się pod wyborem frakcji. Listy częściowo się pokrywają, więc nie są sumowane jako unikalne pojemniki. Współrzędne pochodzą bezpośrednio z map źródłowych, bez weryfikacji w terenie. Uwagi zachowują wykryte powtórzenia współrzędnych oraz rozbieżności między wykazami. Dane są osadzone w HTML; kopia znajduje się w `elektroodpady_punkty.json`.
 

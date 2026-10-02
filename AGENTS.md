@@ -11,6 +11,17 @@
 - GitHub Pages publishes the repository root from `main`; `CNAME` contains the custom domain. Pushing to `main` deploys automatically. Check for unrelated unpublished commits before pushing.
 - Keep operational documentation here; do not recreate a README.
 
+## Progressive web app
+
+- `manifest.webmanifest` defines the stable app ID, root scope/start URL, Polish name, standalone display, and install icons. Keep the ID stable across updates.
+- `icons/icon.svg` is the editable source: an ivory bin inside a map pin on green. Rebuild PNG sizes (32, 180, 192, 512 and maskable 512) with `node scripts/build-icons.cjs`, using `sharp`. Keep the symbol inside the maskable safe area.
+- The footer installation button uses the browser's deferred install prompt when available. Otherwise it shows platform-specific instructions, including iPhone/iPad Share → Add to Home Screen and Safari on Mac Add to Dock. Hide it in standalone mode or after `appinstalled`; do not prompt automatically.
+- `sw.js` caches only the same-origin app shell, manifest, and icons. Navigation is network-first with a four-second fallback to the last successful cached HTML. Do not prefetch/cache OSM tiles, photos, routing requests, arbitrary pages, or private coordinates in the service worker.
+- Embedded points remain searchable offline. Map tiles, photos, and new routes need connectivity; show this limit in the offline notice and installation help.
+- The app checks for worker updates on startup. Worker activation cleans only caches with the `gdzie-wyrzucic-app-` prefix and never reloads an active map automatically. Bump the cache version when changing the shell asset set. HTML-only updates are fetched on the next online navigation even if the worker is unchanged.
+- Keep installed layouts within device safe-area insets. Downloaded standalone HTML removes PWA asset links/install controls and never registers a service worker under `file://`.
+- `node tests/pwa.cjs` uses a local HTTP server and Chrome to check manifest/installability, native prompt handling, manual installation help, standalone behavior, offline search, fresh online navigation, and cache boundaries. `MAP_URL` checks deployed assets and installability; offline/update simulation is local only. `SCREENSHOT` optionally saves the mobile layout.
+
 ## Product behavior to preserve
 
 - The heading is “GDZIE WYRZUCIĆ”. Independent “Szmaty” and “Elektronikę” buttons allow one, both, or neither fraction. Do not introduce a separate option for each combination.

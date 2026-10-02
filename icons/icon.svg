@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Gdzie wyrzucić: pojemnik w pinezce mapy">
+  <rect width="512" height="512" fill="#28745c"/>
+  <path d="M256 411c-27-25-122-113-122-187a122 122 0 0 1 244 0c0 74-95 162-122 187Z" fill="none" stroke="#f7faf2" stroke-width="23" stroke-linejoin="round"/>
+  <g fill="none" stroke="#f7faf2" stroke-width="17" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M207 213h98m-65-20h32m-55 38 7 65h64l7-65"/>
+    <path d="M245 238v35m22-35v35" stroke-width="12"/>
+  </g>
+</svg>

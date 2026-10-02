@@ -9,10 +9,10 @@ const textiles=read('source-data').map(p=>({...p,geo:coordinates[p.id]}));
 const electronics=read('electronics-data').points;
 const context=vm.createContext({PANORAMAX:read('panoramax-data'),esc:s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))});
 vm.runInContext(html.match(/const statusLabels=.+;/)[0],context);
-vm.runInContext(html.slice(html.indexOf('function sourceDetails('),html.indexOf('function openPoint(')),context);
+vm.runInContext(html.slice(html.indexOf('function locationDescription('),html.indexOf('function openPoint(')),context);
 for(const p of [...textiles,...electronics]){
  const popup=context.popupHTML(p);
- assert.doesNotMatch(popup,/PDF|Strona PDF|wg PDF|opis źródłowy|powtórzenia|Obiekt OSM/i,`Point ${p.id} describes the location`);
+ assert.doesNotMatch(popup,/PDF|Strona PDF|wg PDF|opis źródłowy|powtórzenia|Obiekt OSM|Wpisy źródłowe/i,`Point ${p.id} describes the location`);
  assert(popup.includes(context.esc(p.address_pdf==='Brak adresu w PDF'?'Adres nieznany':p.address_pdf)));
  const links=[...popup.matchAll(/href="([^"]+)"/g)].map(m=>new URL(m[1].replace(/&amp;/g,'&')));
  const street=links.find(u=>u.searchParams.get('map_action')==='pano');

@@ -18,7 +18,7 @@ Deduplicacja porównuje miejscowość, znormalizowany adres i odległość. Ten 
 
 Cztery decyzje opisane w `metadata.reviewed`: dwa cmentarze (zgodne współrzędne, nazwa obiektu zamiast adresu), Kartuska 459 / 459C (wariant numeru, ok. 22 m) oraz Karpacka 2 (sprzeczne pozycje operatora, wybrano współrzędne zgodne z mapą miejską). Jeleniogórska / Flisykowskiego pozostają osobno mimo identycznych pozycji; Fabryczna / Kartuska pozostają osobno mimo niewielkiej odległości. Te przypadki wymagają potwierdzenia w terenie.
 
-Współrzędne zachowano z jednego z oryginalnych wpisów, bez uśredniania. W szczegółach każdego miejsca dostępne są wszystkie źródła, adresy i współrzędne. Wyszukiwanie obejmuje warianty adresu; zapis HTML zachowuje pochodzenie danych. JSON zawiera oryginalne tablice `operator` i `city`, połączoną `points` oraz `metadata`. HTML zawiera gotową listę i nie pobiera ani nie scala danych podczas uruchamiania.
+Współrzędne zachowano z jednego z oryginalnych wpisów, bez uśredniania. Szczegóły miejsca nie pokazują wpisów źródłowych. Wszystkie źródła, adresy i współrzędne zachowano w danych mapy. Wyszukiwanie obejmuje warianty adresu; zapis HTML zachowuje pochodzenie danych. JSON zawiera oryginalne tablice `operator` i `city`, połączoną `points` oraz `metadata`. HTML zawiera gotową listę i nie pobiera ani nie scala danych podczas uruchamiania.
 
 Odtworzenie listy: `node scripts/build-electronics.cjs`. Kontrola danych: `node tests/electronics.cjs`. Testy przeglądarkowe `tests/fractions.cjs` i `tests/startup-location.cjs` wymagają Playwright oraz Chrome.
 Źródła elektroniki:

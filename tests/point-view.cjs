@@ -1,0 +1,42 @@
+const {chromium}=require('playwright');
+const assert=require('node:assert/strict');
+const path=require('node:path');
+(async()=>{
+ const browser=await chromium.launch({headless:true,channel:'chrome'});
+ try{
+  const page=await browser.newPage({viewport:{width:1280,height:800}});
+  const errors=[];page.on('pageerror',e=>errors.push(e.message));
+  await page.route('https://tile.openstreetmap.org/**',r=>r.abort());
+  await page.addInitScript(()=>Object.defineProperty(navigator,'geolocation',{value:undefined}));
+  await page.goto(process.env.MAP_URL||'file://'+path.resolve(__dirname,'../index.html'));
+  const readView=()=>page.evaluate(()=>({center:[...view.center],zoom:view.zoom}));
+  await page.locator('#zoom-in').click();
+  await page.mouse.move(850,650);await page.mouse.down();await page.mouse.move(950,620,{steps:4});await page.mouse.up();
+  const before=await readView();
+  await page.locator('#results .result.address').first().click();
+  assert.notDeepEqual(await readView(),before,'Opening a point changes the view');
+  await page.locator('#popup-close').click();
+  assert.deepEqual(await readView(),before,'Closing restores both center and zoom');
+  await page.locator('#results .result.address').first().click();
+  await page.locator('#results .result.address').nth(1).click();
+  await page.keyboard.press('Escape');
+  assert.deepEqual(await readView(),before,'Switching between points keeps the original overview');
+  await page.locator('#results .result.unresolved').first().click();
+  await page.locator('#popup-close').click();
+  assert.deepEqual(await readView(),before,'Unresolved points do not alter the view');
+  await page.locator('#results .result.address').first().click();
+  await page.selectOption('#fraction','electronics');
+  const electronics=await readView();
+  await page.locator('#results .result').first().click();
+  await page.locator('#popup-close').click();
+  assert.deepEqual(await readView(),electronics,'Fraction switch discards the old saved view');
+  await page.locator('#results .result').first().click();
+  await page.locator('#fit').click();
+  assert.deepEqual(await readView(),electronics,'Show all still takes precedence');
+  await page.locator('#zoom-in').click();const noPopup=await readView();
+  await page.keyboard.press('Escape');
+  assert.deepEqual(await readView(),noPopup,'Closing with no popup must not restore stale state');
+  assert.deepEqual(errors,[]);
+  console.log('PASS: close/Escape restore prior center and zoom, switching points, unresolved points, fraction reset, show all');
+ }finally{await browser.close();}
+})().catch(e=>{console.error(e);process.exit(1)});

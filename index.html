@@ -177,6 +177,7 @@ let POINTS=TEXTILES, fraction='textiles';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let byId=new Map(POINTS.map(p=>[p.id,p]));
 const statusLabels={source:'Pozycja ze źródła',address:'Dopasowany adres',approx:'Lokalizacja orientacyjna',unresolved:'Bez ustalonej pozycji'};
+let pointReturnView=null;
 let selected=null,queryText='',district='',city='',precision='',osmDate='',matchedAt='',controller=null,busy=false,cancelled=false;
 let current=[];let userLocation=null;
 POINTS.forEach(p=>p.geo={status:'unresolved',lat:null,lon:null,detail:'Współrzędne nie zostały jeszcze pobrane.'});
@@ -204,7 +205,7 @@ function activateFraction(){
  fraction=$('fraction').value;
  POINTS=fraction==='electronics'?ELECTRONICS.points:TEXTILES;
  byId=new Map(POINTS.map(p=>[p.id,p]));
- selected=null;queryText='';district='';city='';precision='';
+ selected=null;pointReturnView=null;queryText='';district='';city='';precision='';
  $('search').value='';$('popup').innerHTML='';$('popup').classList.add('hidden');
  $('mobile-fraction').textContent=fraction==='electronics'?'Elektronika':'Szmaty';
  $('source-count').innerHTML=fraction==='electronics'?`<strong>${POINTS.length}</strong><span>miejsc</span><span class="sep"></span><strong>${ELECTRONICS.metadata.sourceRecords}</strong><span>wpisów źródłowych</span>`:'<strong>1090</strong><span>lokalizacji</span><span class="sep"></span><strong>1217</strong><span>wpisów źródłowych</span>';
@@ -225,8 +226,8 @@ function popupHTML(p){
  if(p.source)return `<button class="popup-close" id="popup-close" aria-label="Zamknij szczegóły">✕</button><p class="popup-kicker">Elektroodpady · ${esc(p.source_name)}</p><h2 class="popup-title">${esc(p.address_pdf)}</h2><div class="popup-label">${statusLabels[g.status]}</div><p class="popup-detail">${esc(g.detail)}</p><div class="popup-meta"><b>Miejscowość:</b> ${esc(p.city)}<br><b>Współrzędne:</b> ${g.lat.toFixed(6)}, ${g.lon.toFixed(6)}</div>${p.note?'<div class="popup-note">'+esc(p.note)+'</div>':''}<div class="popup-actions"><a href="${esc(search)}" target="_blank" rel="noopener">Szukaj w Google Maps ↗</a><a class="secondary" href="${esc(dir)}" target="_blank" rel="noopener">Wyznacz trasę ↗</a></div>${sourceDetails(p)}`;
  return `<button class="popup-close" id="popup-close" aria-label="Zamknij szczegóły">✕</button><p class="popup-kicker">Opis lokalizacji z PDF</p><h2 class="popup-title">${esc(p.address_pdf)}</h2><div class="popup-label ${g.status}">${statusLabels[g.status]}</div><p class="popup-detail">${esc(g.detail)}</p><div class="popup-meta"><b>Miejscowość wg PDF:</b> ${esc(p.city)}<br><b>Powiat wg PDF:</b> ${esc(p.county)}<br><b>Gmina / rejon wg PDF:</b> ${esc(p.municipality)}<br><b>Strona PDF:</b> ${p.pages.join(', ')}${g.matched_address?'<br><b>Dopasowanie:</b> '+esc(g.matched_address):''}${has?'<br><b>Współrzędne odniesienia:</b> '+g.lat.toFixed(6)+', '+g.lon.toFixed(6):''}</div>${p.note?'<div class="popup-note">'+esc(p.note)+(p.note_source?' <a href="'+esc(p.note_source)+'" target="_blank" rel="noopener">Źródło zmiany nazwy ↗</a>':'')+'</div>':''}${p.ids.length>1?'<p class="popup-detail" style="margin-top:11px">Ten opis występuje w wykazie '+p.ids.length+' razy. Powtórzenia nie potwierdzają liczby pojemników.</p>':''}<div class="popup-actions"><a href="${esc(search)}" target="_blank" rel="noopener">Szukaj w Google Maps ↗</a>${has&&!g.area_only?'<a class="secondary" href="'+esc(dir)+'" target="_blank" rel="noopener">Wyznacz trasę ↗</a>':''}</div><div class="popup-source"><a href="${SOURCE}#page=${p.page}" target="_blank" rel="noopener">Wpis w oryginalnym PDF ↗</a>${g.osm_url?'<a href="'+esc(g.osm_url)+'" target="_blank" rel="noopener">Obiekt OSM ↗</a>':''}</div>`;
 }
-function openPoint(id){const p=byId.get(id);if(!p)return;selected=id;$('popup').innerHTML=popupHTML(p);$('popup').classList.remove('hidden');$('popup-close').onclick=closePopup;document.body.classList.remove('menu-open');if(p.geo.status!=='unresolved'){view.center=[p.geo.lat,p.geo.lon];view.zoom=Math.max(view.zoom,p.geo.area_only?14:16);if(p.geo.area_only&&p.geo.paths?.length)fitPositions(p.geo.paths.flat(),15);}refreshList();}
-function closePopup(){selected=null;$('popup').classList.add('hidden');$('popup').innerHTML='';refreshList();}
+function openPoint(id){const p=byId.get(id);if(!p)return;if(selected===null)pointReturnView={center:[...view.center],zoom:view.zoom};selected=id;$('popup').innerHTML=popupHTML(p);$('popup').classList.remove('hidden');$('popup-close').onclick=closePopup;document.body.classList.remove('menu-open');if(p.geo.status!=='unresolved'){view.center=[p.geo.lat,p.geo.lon];view.zoom=Math.max(view.zoom,p.geo.area_only?14:16);if(p.geo.area_only&&p.geo.paths?.length)fitPositions(p.geo.paths.flat(),15);}refreshList();}
+function closePopup(){selected=null;$('popup').classList.add('hidden');$('popup').innerHTML='';if(pointReturnView){view.center=[...pointReturnView.center];view.zoom=pointReturnView.zoom;pointReturnView=null;}refreshList();}
 // A small dependency-free Web Mercator map. All positions are geographic coordinates,
 // not pixels approximated from a background image.
 const view={center:[54.15,18.05],zoom:8,width:1,height:1};

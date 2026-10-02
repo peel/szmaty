@@ -2,7 +2,7 @@
 
 Nagłówek pozwala wybrać frakcję: szmaty lub elektronika. Link „Źródła i dokładność” w stopce opisuje aktualnie wybraną frakcję. Zapis HTML zachowuje wszystkie dane obu frakcji.
 
-Przy otwarciu mapa jednorazowo prosi przeglądarkę o lokalizację. Po uzyskaniu zgody i pozycji przybliża okolicę użytkownika (zoom 15). Przełączenie frakcji wraca do tej pozycji i przybliżenia bez ponownego pobierania lokalizacji. Gdy pozycja nie jest znana, pokazuje cały wybrany wykaz. Odmowa, błąd, przekroczenie limitu 15 sekund lub brak obsługi lokalizacji powodują pokazanie całego wybranego wykazu. Podczas oczekiwania mapa pozostaje dostępna. Przycisk lokalizacji pozwala ponowić próbę.
+Przy otwarciu mapa jednorazowo prosi przeglądarkę o lokalizację. Po uzyskaniu zgody i pozycji przybliża okolicę użytkownika (zoom 15). Przełączenie frakcji wraca do tej pozycji i przybliżenia bez ponownego pobierania lokalizacji. Gdy pozycja nie jest znana, pokazuje cały wybrany wykaz. Odmowa, błąd, przekroczenie limitu 15 sekund lub brak obsługi lokalizacji powodują pokazanie całego wybranego wykazu. Podczas oczekiwania mapa pozostaje dostępna. Przycisk lokalizacji pozwala ponowić próbę. Otwarcie punktu zapamiętuje bieżące położenie i przybliżenie mapy; zamknięcie szczegółów (krzyżykiem lub Escape) je przywraca. Przechodzenie między punktami zachowuje widok sprzed pierwszego otwarcia, a zmiana frakcji zeruje ten zapis.
 
 Elektronika: jedna lista **143 miejsc z 227 wpisów źródłowych** (137 wpisów operatora Elektryczne Śmieci z Pomorskiego i 90 wpisów miejskiej mapy Gdańska), pobranych 2 października 2026. Usunięto 84 powtórzenia w 82 scalonych grupach. Liczba miejsc po scaleniu nie jest zweryfikowaną liczbą fizycznych pojemników ani pełnym spisem województwa.
 

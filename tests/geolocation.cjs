@@ -1,6 +1,6 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
 const html=fs.readFileSync(require('node:path').join(__dirname,'../index.html'),'utf8');
-const handler=html.slice(html.indexOf("$('locate').onclick="),html.indexOf("$('menu').onclick="));
+const handler=html.slice(html.indexOf('function locateUser('),html.indexOf("$('menu').onclick="));
 function setup(secure=true,available=true){
  const button={disabled:false},messages=[],requests=[];
  const ctx={isSecureContext:secure,navigator:{},$:()=>button,toast:m=>messages.push(m),userLocation:null,view:{},requestMap:()=>ctx.renders++ ,renders:0};

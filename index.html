@@ -23,7 +23,7 @@
 <div class="app">
 <aside class="sidebar" aria-label="Lista lokalizacji">
  <button class="mobile-close hidden" id="close-menu" aria-label="Zamknij listę">✕</button>
- <div class="brand"><div class="eyebrow"><svg width="15" height="17" viewBox="0 0 20 22" fill="none" aria-hidden="true"><path d="M10 21S2 12.5 2 8.5a8 8 0 1116 0C18 12.5 10 21 10 21Z" stroke="currentColor" stroke-width="1.8"/><circle cx="10" cy="8.5" r="2.7" stroke="currentColor" stroke-width="1.8"/></svg> GDZIE WYRZUCIĆ</div><select id="fraction" aria-label="Frakcja"><option value="textiles">Szmaty</option><option value="electronics">Elektronika</option></select></div>
+ <div class="brand"><div class="eyebrow"><svg width="15" height="17" viewBox="0 0 20 22" fill="none" aria-hidden="true"><path d="M10 21S2 12.5 2 8.5a8 8 0 1116 0C18 12.5 10 21 10 21Z" stroke="currentColor" stroke-width="1.8"/><circle cx="10" cy="8.5" r="2.7" stroke="currentColor" stroke-width="1.8"/></svg> GDZIE WYRZUCIĆ</div><select id="fraction" aria-label="Frakcja"><option value="textiles">Szmaty</option><option value="electronics">Elektronikę</option></select></div>
  <div class="tools"><div class="search-wrap"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="Szukaj adresu, miejscowości lub numeru z PDF…" aria-label="Wyszukaj lokalizację"></div></div>
  <div id="statistics"><span><i class="legend-dot"></i><b id="count-address">0</b> adresów</span><span><i class="legend-dot approx"></i><b id="count-approx">0</b> orientacyjnych</span><span><i class="legend-dot unresolved"></i><b id="count-unresolved">1090</b> bez pozycji</span></div>
  <div class="list-header"><span id="list-count">1090 lokalizacji</span></div><div id="results"></div>
@@ -200,7 +200,7 @@ function activateFraction(){
  byId=new Map(POINTS.map(p=>[p.id,p]));
  selected=null;pointReturnView=null;queryText='';
  $('search').value='';$('popup').innerHTML='';$('popup').classList.add('hidden');
- $('mobile-fraction').textContent=fraction==='electronics'?'Elektronika':'Szmaty';
+ $('mobile-fraction').textContent=fraction==='electronics'?'Elektronikę':'Szmaty';
  $('search').placeholder='Szukaj adresu, miejscowości lub numeru…';
  $('statistics').classList.toggle('hidden',fraction==='electronics');
  refreshList();

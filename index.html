@@ -412,7 +412,16 @@ function renderMap(){
  const selectedPoint=byId.get(selected);let paths='';if(selectedPair){const line=[selectedPair.origin,...selectedPair.stops.map(p=>[p.geo.lat,p.geo.lon])];const d=line.map(p=>screen(p)).map((p,i)=>(i?'L':'M')+p[0].toFixed(1)+' '+p[1].toFixed(1)).join(' ');paths+=`<path class="pair-line" d="${d}" fill="none" stroke="#354f60" stroke-width="3" stroke-dasharray="7 6"/>`;}if(selectedPoint?.geo.paths)for(const line of selectedPoint.geo.paths){const d=line.map(p=>screen(p)).map((p,i)=>(i?'L':'M')+p[0].toFixed(1)+' '+p[1].toFixed(1)).join(' ');paths+=`<path d="${d}" fill="none" stroke="#d38c30" stroke-width="6" stroke-opacity=".68" stroke-linecap="round" stroke-linejoin="round"/>`;}$('paths').innerHTML=paths;
  const metresPerPixel=Math.cos(view.center[0]*Math.PI/180)*40075016.686/(256*2**z);const target=95*metresPerPixel;const pow=10**Math.floor(Math.log10(target));let dist=[1,2,5,10].map(a=>a*pow).filter(a=>a<=target).pop()||pow;$('scale-text').textContent=dist>=1000?dist/1000+' km':dist+' m';$('scale-line').style.width=dist/metresPerPixel+'px';
 }
-$('pins').addEventListener('click',e=>{let p=e.target.closest('[data-point]');if(p){e.stopPropagation();openPoint(+p.dataset.point);return;}let c=e.target.closest('[data-cluster]');if(c){e.stopPropagation();fitPositions(c.dataset.cluster.split(',').map(id=>byId.get(+id)).map(p=>[p.geo.lat,p.geo.lon]),17);}});
+function openMapPoint(id){
+ if(fraction==='combined'){
+  const containsPoint=pair=>pair.stops.some(stop=>stop.id===id);
+  const pair=selectedPair&&containsPoint(selectedPair)?selectedPair:pairsCurrent.find(containsPoint);
+  if(pair)openPair(pair.key);
+  return;
+ }
+ openPoint(id);
+}
+$('pins').addEventListener('click',e=>{let p=e.target.closest('[data-point]');if(p){e.stopPropagation();openMapPoint(+p.dataset.point);return;}let c=e.target.closest('[data-cluster]');if(c){e.stopPropagation();fitPositions(c.dataset.cluster.split(',').map(id=>byId.get(+id)).map(p=>[p.geo.lat,p.geo.lon]),17);}});
 $('zoom-in').onclick=()=>zoomBy(1);$('zoom-out').onclick=()=>zoomBy(-1);$('fit').onclick=()=>{closePopup();fitCurrent();};
 $('map').addEventListener('wheel',e=>{e.preventDefault();const r=$('map').getBoundingClientRect();if(Date.now()-(zoomBy.last||0)>160){zoomBy(e.deltaY<0?1:-1,[e.clientX-r.left,e.clientY-r.top]);zoomBy.last=Date.now();}},{passive:false});
 $('map').addEventListener('dblclick',e=>{if(e.target.closest('button'))return;const r=$('map').getBoundingClientRect();zoomBy(1,[e.clientX-r.left,e.clientY-r.top]);});

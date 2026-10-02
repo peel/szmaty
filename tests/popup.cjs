@@ -7,7 +7,7 @@ const read=id=>JSON.parse(html.match(new RegExp('<script id="'+id+'" type="appli
 const coordinates=read('saved-data').coordinates;
 const textiles=read('source-data').map(p=>({...p,geo:coordinates[p.id]}));
 const electronics=read('electronics-data').points;
-const context=vm.createContext({esc:s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))});
+const context=vm.createContext({PANORAMAX:read('panoramax-data'),esc:s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))});
 vm.runInContext(html.match(/const statusLabels=.+;/)[0],context);
 vm.runInContext(html.slice(html.indexOf('function sourceDetails('),html.indexOf('function openPoint(')),context);
 for(const p of [...textiles,...electronics]){
@@ -19,9 +19,12 @@ for(const p of [...textiles,...electronics]){
  const directions=links.find(u=>u.pathname==='/maps/dir/');
  if(p.geo.status==='unresolved')assert(!street&&!directions,'Unknown positions do not get fabricated coordinates');
  else{
-  assert(street,`Street View for point ${p.id}`);
+  const photo=read('panoramax-data').points[(p.source?'electronics:':'textiles:')+p.id];
+  assert(street,`Street View or fallback for point ${p.id}`);
   assert.equal(street.searchParams.get('viewpoint'),`${p.geo.lat},${p.geo.lon}`);
   assert.equal(street.searchParams.get('api'),'1');
+  if(photo){assert(popup.includes('id="show-photo"'));assert(popup.includes('m od znacznika'));}
+  else assert(!popup.includes('id="show-photo"'));
   assert(popup.includes('Zdjęcia mogą być nieaktualne'));
   if(p.geo.area_only)assert(!directions,'Whole streets must not get a precise route destination');
   else assert.equal(directions.searchParams.get('destination'),`${p.geo.lat},${p.geo.lon}`);

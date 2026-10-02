@@ -1,3 +1,4 @@
+const selectFraction=require('./select-fraction.cjs');
 const {chromium}=require('playwright');
 const assert=require('node:assert/strict');
 const path=require('node:path');
@@ -29,7 +30,7 @@ const path=require('node:path');
    }
    for(const fraction of ['electronics','textiles']){
     await page.locator('#fit').click();
-    await page.selectOption('#fraction',fraction);
+    await selectFraction(page,fraction);
     const switched=await page.evaluate(()=>({center:view.center,zoom:view.zoom,requests:window.locationRequests}));
     if(outcome==='success'){
      assert.deepEqual(switched.center,[54.4,18.6],`${fraction} should return to the user location`);

@@ -1,3 +1,4 @@
+const selectFraction=require('./select-fraction.cjs');
 const {chromium}=require('playwright');
 const assert=require('node:assert/strict');
 const path=require('node:path');
@@ -38,12 +39,12 @@ const path=require('node:path');
   assert(await rows().count()<=50);await checkOrder();
   await page.locator('#search').fill('');
   assert.equal(await rows().count(),50);
-  await page.selectOption('#fraction','electronics');
+  await selectFraction(page,'electronics');
   assert.equal(await rows().count(),50);assert.equal(await page.locator('#visible-count').innerText(),'143');
   const nearest=await page.evaluate(()=>current[0].id);
   await page.locator('#map').press('ArrowLeft');
   assert.equal((await ids())[0],nearest,'Panning does not change the user-relative origin');
-  await page.selectOption('#fraction','textiles');
+  await selectFraction(page,'textiles');
   while(await page.locator('#load-more').count()){
    const count=await rows().count();
    await page.locator('#results').evaluate(e=>e.scrollTop=e.scrollHeight);

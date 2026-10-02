@@ -1,3 +1,4 @@
+const selectFraction=require('./select-fraction.cjs');
 const {chromium}=require('playwright');
 const assert=require('node:assert/strict');
 const path=require('node:path');
@@ -25,7 +26,7 @@ const path=require('node:path');
   await page.locator('#popup-close').click();
   assert.deepEqual(await readView(),before,'Unresolved points do not alter the view');
   await page.locator('#results .result.address').first().click();
-  await page.selectOption('#fraction','electronics');
+  await selectFraction(page,'electronics');
   const electronics=await readView();
   await page.locator('#results .result').first().click();
   await page.locator('#popup-close').click();

@@ -1,3 +1,4 @@
+const selectFraction=require('./select-fraction.cjs');
 const assert=require('node:assert/strict');
 const fs=require('node:fs');
 const path=require('node:path');
@@ -69,7 +70,7 @@ for(const [key,photo] of matches){
    mode='pending';
    await page.evaluate(()=>openPoint(TEXTILES.filter(p=>PANORAMAX.points['textiles:'+p.id])[2].id));
    await page.locator('#show-photo').click();
-   await page.evaluate(()=>{document.querySelector('#fraction').value='electronics';activateFraction()});
+   await selectFraction(page,'electronics');
    assert.equal(await page.locator('#photo-view img').count(),0,'Switching fractions cancels the viewer');
   }
   assert.deepEqual(errors,[]);

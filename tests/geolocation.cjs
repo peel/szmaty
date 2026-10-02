@@ -3,7 +3,7 @@ const html=fs.readFileSync(require('node:path').join(__dirname,'../index.html'),
 const handler=html.slice(html.indexOf('function locateUser('),html.indexOf("$('menu').onclick="));
 function setup(secure=true,available=true){
  const button={disabled:false},messages=[],requests=[];
- const ctx={isSecureContext:secure,navigator:{},$:()=>button,toast:m=>messages.push(m),userLocation:null,view:{},requestMap:()=>ctx.renders++,refreshList:()=>ctx.renders++ ,renders:0};
+ const ctx={isSecureContext:secure,navigator:{},$:()=>button,toast:m=>messages.push(m),userLocation:null,selectedPair:null,view:{},requestMap:()=>ctx.renders++,refreshList:()=>ctx.renders++ ,renders:0};
  if(available)ctx.navigator.geolocation={getCurrentPosition:(success,error,options)=>requests.push({success,error,options})};
  vm.createContext(ctx);vm.runInContext(handler,ctx);return{button,messages,requests,ctx};
 }

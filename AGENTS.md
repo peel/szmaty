@@ -25,13 +25,11 @@
 - Selected stops use numbers 1–2: a circle for textiles and a purple square for electronics. Fit the view around the details panel, including on mobile. Separate overlapping selected markers visually.
 - Unknown coordinates and arbitrary midpoints representing entire streets must not become trip destinations. Approximate addresses are not confirmed container positions.
 
-## Pair routing and pending deployment
+## Car routing
 
-The published pair planner currently compares straight-line distances and visit orders, with an external walking-directions link. The requested replacement uses car routes.
+The pair planner uses car routes. On 2026-10-02 the user approved publication of this version after being informed that starting positions and candidate coordinates are sent to OSRM/FOSSGIS at `routing.openstreetmap.de` to calculate routes.
 
-As of 2026-10-02, car-routing commit `6cac552` is prepared locally but has not been published. An automatic approval review rejected a test that would send a user-origin position to OSRM/FOSSGIS without explicit authorization for that provider. The user was asked to approve sending the starting position and candidate coordinates to `routing.openstreetmap.de` and publishing that version. This approval is still pending. Documentation updates do not authorize deployment of that commit. Update this section when the user resolves the pending approval.
-
-The prepared car-routing implementation has these constraints:
+Preserve these constraints:
 
 - Use the OSRM/FOSSGIS car graph at `https://routing.openstreetmap.de/routed-car/`. The table API supplies directed road distances; compare both visit orders and sort by start → first stop → second stop distance, excluding the return trip.
 - OSRM distances describe fast car routes, not mathematically shortest roads. Do not claim live traffic, parking availability, or a global optimum across the province.
@@ -92,7 +90,7 @@ Browser checks require Node.js, Playwright, and Chrome (`channel: 'chrome'`):
 - `node tests/combined.cjs`: pair selection, marker clicks, search, mobile layout, and detail navigation.
 - `node tests/panoramax.cjs`: local associations, lazy images, credits, enlargement, cleanup, and retries. Set `PANORAMAX_LIVE=1` only when checking a real image is relevant.
 
-The prepared car-routing commit additionally includes:
+Car-routing checks:
 
 - `node tests/road-routing.cjs`: barriers, directed distances, unreachable roads, snapping limits, candidate selection, caching, cancellation, and rate limiting.
 - `node tests/driving.cjs`: browser interactions with deterministic mocked routing responses.

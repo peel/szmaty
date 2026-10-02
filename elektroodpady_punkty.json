@@ -4996,5 +4996,5973 @@
         "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
       }
     }
-  ]
+  ],
+  "points": [
+    {
+      "id": 12374,
+      "ids": [
+        "12374",
+        "7576"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "al. Kaczyńskiego 30",
+      "query": "al. Kaczyńskiego 30, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.40929,
+        "lon": 18.605354,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12374,
+          "id": "12374",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "al. Kaczyńskiego 30",
+          "lat": 54.40929,
+          "lon": 18.605354,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107576,
+          "id": "7576",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Lecha Kaczyńskiego 30, Gdańsk",
+          "lat": 54.40929,
+          "lon": 18.605354,
+          "note": ""
+        }
+      ],
+      "search_terms": "al. Kaczyńskiego 30 ul. Lecha Kaczyńskiego 30, Gdańsk"
+    },
+    {
+      "id": 12306,
+      "ids": [
+        "12306",
+        "7517"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Al. Rzeczypospolitej 4A, 4B, 4C, 4D",
+      "query": "Al. Rzeczypospolitej 4A, 4B, 4C, 4D, GDAŃSK",
+      "note": "Rzeczypospolitej 4A",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.4015735,
+        "lon": 18.5901096,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12306,
+          "id": "12306",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Al. Rzeczypospolitej 4A, 4B, 4C, 4D",
+          "lat": 54.4015735,
+          "lon": 18.5901096,
+          "note": "Rzeczypospolitej 4A"
+        },
+        {
+          "record_id": 107517,
+          "id": "7517",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "Al. Rzeczypospolitej 4A, 4B, 4C, 4D, Gdańsk",
+          "lat": 54.4015735,
+          "lon": 18.5901096,
+          "note": ""
+        }
+      ],
+      "search_terms": "Al. Rzeczypospolitej 4A, 4B, 4C, 4D Al. Rzeczypospolitej 4A, 4B, 4C, 4D, Gdańsk"
+    },
+    {
+      "id": 107527,
+      "ids": [
+        "7527"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Al. Rzeczypospolitej 7B, Gdańsk",
+      "query": "Al. Rzeczypospolitej 7B, Gdańsk, GDAŃSK",
+      "note": "",
+      "source": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+      "source_name": "Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.4015371,
+        "lon": 18.594923,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 107527,
+          "id": "7527",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "Al. Rzeczypospolitej 7B, Gdańsk",
+          "lat": 54.4015371,
+          "lon": 18.594923,
+          "note": "Brak punktu operatora w promieniu ok. 100 m (najbliższy ok. 313 m). Możliwa różnica adresu lub współrzędnych."
+        }
+      ],
+      "search_terms": "Al. Rzeczypospolitej 7B, Gdańsk"
+    },
+    {
+      "id": 12386,
+      "ids": [
+        "12386",
+        "7588"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "aleja Grunwaldzka 563",
+      "query": "aleja Grunwaldzka 563, GDAŃSK",
+      "note": "obok pojemników na segregowane odpady",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.417608,
+        "lon": 18.567547,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12386,
+          "id": "12386",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "aleja Grunwaldzka 563",
+          "lat": 54.417608,
+          "lon": 18.567547,
+          "note": "obok pojemników na segregowane odpady"
+        },
+        {
+          "record_id": 107588,
+          "id": "7588",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "Al. Grunwaldzka 563, Gdańsk",
+          "lat": 54.417608,
+          "lon": 18.567547,
+          "note": ""
+        }
+      ],
+      "search_terms": "aleja Grunwaldzka 563 Al. Grunwaldzka 563, Gdańsk"
+    },
+    {
+      "id": 12296,
+      "ids": [
+        "12296",
+        "7509"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Burzyńskiego 12",
+      "query": "Burzyńskiego 12, GDAŃSK",
+      "note": "naprzeciwko klatki E-F, przy altanie śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3971647,
+        "lon": 18.6071145,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12296,
+          "id": "12296",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Burzyńskiego 12",
+          "lat": 54.3971647,
+          "lon": 18.6071145,
+          "note": "naprzeciwko klatki E-F, przy altanie śmietnikowej"
+        },
+        {
+          "record_id": 107509,
+          "id": "7509",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Burzyńskiego 12, Gdańsk",
+          "lat": 54.3971647,
+          "lon": 18.6071145,
+          "note": ""
+        }
+      ],
+      "search_terms": "Burzyńskiego 12 ul. Burzyńskiego 12, Gdańsk"
+    },
+    {
+      "id": 21244,
+      "ids": [
+        "21244",
+        "9298"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Cedrowa 40",
+      "query": "Cedrowa 40, GDAŃSK",
+      "note": "Cmentarz Łostowick Źródła podają różne opisy adresu. Zachowano je poniżej; scalenie nie potwierdza liczby pojemników. Cmentarz Łostowicki: nazwa obiektu i adres Cedrowa 40 mają identyczne współrzędne.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.339706,
+        "lon": 18.586097,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 21244,
+          "id": "21244",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Cedrowa 40",
+          "lat": 54.339706,
+          "lon": 18.586097,
+          "note": "Cmentarz Łostowick"
+        },
+        {
+          "record_id": 109298,
+          "id": "9298",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "Cmentarz Łostowicki, Gdańsk",
+          "lat": 54.339706,
+          "lon": 18.586097,
+          "note": ""
+        }
+      ],
+      "search_terms": "Cedrowa 40 Cmentarz Łostowicki, Gdańsk"
+    },
+    {
+      "id": 12383,
+      "ids": [
+        "12383",
+        "7585"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Cedrowa 41",
+      "query": "Cedrowa 41, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.33669,
+        "lon": 18.586506,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12383,
+          "id": "12383",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Cedrowa 41",
+          "lat": 54.33669,
+          "lon": 18.586506,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107585,
+          "id": "7585",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul Cedrowa 41, Gdańsk",
+          "lat": 54.33669,
+          "lon": 18.586506,
+          "note": ""
+        }
+      ],
+      "search_terms": "Cedrowa 41 ul Cedrowa 41, Gdańsk"
+    },
+    {
+      "id": 19929,
+      "ids": [
+        "19929"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Chłopska 35",
+      "query": "Chłopska 35, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.41090080578884,
+        "lon": 18.58686038434736,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 19929,
+          "id": "19929",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Chłopska 35",
+          "lat": 54.41090080578884,
+          "lon": 18.58686038434736,
+          "note": "obok altany śmietnikowej"
+        }
+      ],
+      "search_terms": "Chłopska 35"
+    },
+    {
+      "id": 12295,
+      "ids": [
+        "12295",
+        "21087",
+        "7508"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Ciołkowskiego 1-5",
+      "query": "Ciołkowskiego 1-5, GDAŃSK",
+      "note": "pomiędzy budynkami Źródła podają różne opisy adresu. Zachowano je poniżej; scalenie nie potwierdza liczby pojemników.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3916567,
+        "lon": 18.6144483,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12295,
+          "id": "12295",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Ciołkowskiego 1-5",
+          "lat": 54.3916567,
+          "lon": 18.6144483,
+          "note": "pomiędzy budynkami"
+        },
+        {
+          "record_id": 21087,
+          "id": "21087",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Ciołkowskiego 1-5",
+          "lat": 54.39162,
+          "lon": 18.61467,
+          "note": "Te same współrzędne co ID 21084 przy innym adresie — do sprawdzenia."
+        },
+        {
+          "record_id": 107508,
+          "id": "7508",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Ciołkowskiego 3, Gdańsk",
+          "lat": 54.3916567,
+          "lon": 18.6144483,
+          "note": ""
+        }
+      ],
+      "search_terms": "Ciołkowskiego 1-5 Ciołkowskiego 1-5 ul. Ciołkowskiego 3, Gdańsk"
+    },
+    {
+      "id": 12384,
+      "ids": [
+        "12384",
+        "7586"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Człuchowska 3",
+      "query": "Człuchowska 3, GDAŃSK",
+      "note": "obok pojemników na segregowane odpady",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.326354,
+        "lon": 18.580276,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12384,
+          "id": "12384",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Człuchowska 3",
+          "lat": 54.326354,
+          "lon": 18.580276,
+          "note": "obok pojemników na segregowane odpady"
+        },
+        {
+          "record_id": 107586,
+          "id": "7586",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Człuchowska 3, Gdańsk",
+          "lat": 54.326354,
+          "lon": 18.580276,
+          "note": ""
+        }
+      ],
+      "search_terms": "Człuchowska 3 ul. Człuchowska 3, Gdańsk"
+    },
+    {
+      "id": 21245,
+      "ids": [
+        "21245",
+        "9297"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Damroki 3",
+      "query": "Damroki 3, GDAŃSK",
+      "note": "",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.339245,
+        "lon": 18.565618,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 21245,
+          "id": "21245",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Damroki 3",
+          "lat": 54.339245,
+          "lon": 18.565618,
+          "note": ""
+        },
+        {
+          "record_id": 109297,
+          "id": "9297",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "Damroki 3, Gdańsk",
+          "lat": 54.339245,
+          "lon": 18.565618,
+          "note": ""
+        }
+      ],
+      "search_terms": "Damroki 3 Damroki 3, Gdańsk"
+    },
+    {
+      "id": 19931,
+      "ids": [
+        "19931"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Fabryczna",
+      "query": "Fabryczna, GDAŃSK",
+      "note": "w pobliżu Lidla obok paczkomatu W pobliżu pozostaje osobny wpis Kartuska 459C / 459; nie potwierdzono, czy opisuje ten sam pojemnik.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.352594,
+        "lon": 18.499445,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 19931,
+          "id": "19931",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Fabryczna",
+          "lat": 54.352594,
+          "lon": 18.499445,
+          "note": "w pobliżu Lidla obok paczkomatu"
+        }
+      ],
+      "search_terms": "Fabryczna"
+    },
+    {
+      "id": 12385,
+      "ids": [
+        "12385",
+        "7587"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Jagielońska 10K",
+      "query": "Jagielońska 10K, GDAŃSK",
+      "note": "obok pojemników na segregowane odpady",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.412444,
+        "lon": 18.590694,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12385,
+          "id": "12385",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Jagielońska 10K",
+          "lat": 54.412444,
+          "lon": 18.590694,
+          "note": "obok pojemników na segregowane odpady"
+        },
+        {
+          "record_id": 107587,
+          "id": "7587",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Jagiellońska 10K, Gdańsk",
+          "lat": 54.412444,
+          "lon": 18.590694,
+          "note": ""
+        }
+      ],
+      "search_terms": "Jagielońska 10K ul. Jagiellońska 10K, Gdańsk"
+    },
+    {
+      "id": 12291,
+      "ids": [
+        "12291",
+        "7505"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Jeleniogórska 13C",
+      "query": "Jeleniogórska 13C, GDAŃSK",
+      "note": "Przy siłowni zewnętrznej obok pojemników na odpady Inny adres (ul. Flisykowskiego 3) ma te same lub niemal identyczne współrzędne. Nie scalono bez potwierdzenia.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3271217,
+        "lon": 18.5852767,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12291,
+          "id": "12291",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Jeleniogórska 13C",
+          "lat": 54.3271217,
+          "lon": 18.5852767,
+          "note": "Przy siłowni zewnętrznej obok pojemników na odpady Te same współrzędne co ID 12302 przy innym adresie — do sprawdzenia."
+        },
+        {
+          "record_id": 107505,
+          "id": "7505",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "u. Jeleniogórska 13C, Gdańsk",
+          "lat": 54.3271217,
+          "lon": 18.5852767,
+          "note": ""
+        }
+      ],
+      "search_terms": "Jeleniogórska 13C u. Jeleniogórska 13C, Gdańsk"
+    },
+    {
+      "id": 19930,
+      "ids": [
+        "19930",
+        "7601"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Kartuska 459C",
+      "query": "Kartuska 459C, GDAŃSK",
+      "note": "parking Źródła podają różne opisy adresu. Zachowano je poniżej; scalenie nie potwierdza liczby pojemników. Kartuska 459 / 459C: połączono warianty numeru przy przesunięciu ok. 22 m. Pobliskiej Fabrycznej nie scalono. W pobliżu pozostaje osobny wpis Fabryczna; nie potwierdzono, czy opisuje ten sam pojemnik.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.35258,
+        "lon": 18.499301,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 19930,
+          "id": "19930",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Kartuska 459C",
+          "lat": 54.35258,
+          "lon": 18.499301,
+          "note": "parking"
+        },
+        {
+          "record_id": 107601,
+          "id": "7601",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Kartuska 459, Gdańsk",
+          "lat": 54.35271089265416,
+          "lon": 18.499532947813904,
+          "note": ""
+        }
+      ],
+      "search_terms": "Kartuska 459C ul. Kartuska 459, Gdańsk"
+    },
+    {
+      "id": 12389,
+      "ids": [
+        "12389",
+        "7590"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "MAGNACKA 39",
+      "query": "MAGNACKA 39, GDAŃSK",
+      "note": "na parkingu obok paczkomatu",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.317059303571,
+        "lon": 18.53000040176034,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12389,
+          "id": "12389",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "MAGNACKA 39",
+          "lat": 54.317059303571,
+          "lon": 18.53000040176034,
+          "note": "na parkingu obok paczkomatu"
+        },
+        {
+          "record_id": 107590,
+          "id": "7590",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Magnacka 39, Gdańsk",
+          "lat": 54.317059303571455,
+          "lon": 18.53000040176034,
+          "note": ""
+        }
+      ],
+      "search_terms": "MAGNACKA 39 ul. Magnacka 39, Gdańsk"
+    },
+    {
+      "id": 12297,
+      "ids": [
+        "12297",
+        "7510"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Norblina23,",
+      "query": "Norblina23,, GDAŃSK",
+      "note": "obok poczty",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.387895,
+        "lon": 18.5709133,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12297,
+          "id": "12297",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Norblina23,",
+          "lat": 54.387895,
+          "lon": 18.5709133,
+          "note": "obok poczty"
+        },
+        {
+          "record_id": 107510,
+          "id": "7510",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Norblina23, Gdańsk",
+          "lat": 54.387895,
+          "lon": 18.5709133,
+          "note": ""
+        }
+      ],
+      "search_terms": "Norblina23, ul.Norblina23, Gdańsk"
+    },
+    {
+      "id": 12369,
+      "ids": [
+        "12369",
+        "7571"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Obrońców Wybrzeża 4B",
+      "query": "Obrońców Wybrzeża 4B, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.408201,
+        "lon": 18.59278,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12369,
+          "id": "12369",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Obrońców Wybrzeża 4B",
+          "lat": 54.408201,
+          "lon": 18.59278,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107571,
+          "id": "7571",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Obrońców Wybrzeża 4B, Gdańsk",
+          "lat": 54.408201,
+          "lon": 18.59278,
+          "note": ""
+        }
+      ],
+      "search_terms": "Obrońców Wybrzeża 4B ul. Obrońców Wybrzeża 4B, Gdańsk"
+    },
+    {
+      "id": 20158,
+      "ids": [
+        "20158"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Pilotów 5E",
+      "query": "Pilotów 5E, GDAŃSK",
+      "note": "obok pojemnika na tekstylia",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.39225939635561,
+        "lon": 18.596059133630703,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 20158,
+          "id": "20158",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Pilotów 5E",
+          "lat": 54.39225939635561,
+          "lon": 18.596059133630703,
+          "note": "obok pojemnika na tekstylia"
+        }
+      ],
+      "search_terms": "Pilotów 5E"
+    },
+    {
+      "id": 12382,
+      "ids": [
+        "12382",
+        "7584"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Pohulanka 4",
+      "query": "Pohulanka 4, GDAŃSK",
+      "note": "obok pojemników na segregowane odpady",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.346957,
+        "lon": 18.637326,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12382,
+          "id": "12382",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Pohulanka 4",
+          "lat": 54.346957,
+          "lon": 18.637326,
+          "note": "obok pojemników na segregowane odpady"
+        },
+        {
+          "record_id": 107584,
+          "id": "7584",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Pohulanka 4, Gdańsk",
+          "lat": 54.346957,
+          "lon": 18.637326,
+          "note": ""
+        }
+      ],
+      "search_terms": "Pohulanka 4 ul. Pohulanka 4, Gdańsk"
+    },
+    {
+      "id": 12381,
+      "ids": [
+        "12381",
+        "7583"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Rogalińska 19,21,23 ( przy drugiej wiacie śmietnikowej od wjazdu )",
+      "query": "Rogalińska 19,21,23 ( przy drugiej wiacie śmietnikowej od wjazdu ), GDAŃSK",
+      "note": "obok altany śmietnikowej Źródła podają różne opisy adresu. Zachowano je poniżej; scalenie nie potwierdza liczby pojemników.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.333996,
+        "lon": 18.597172,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12381,
+          "id": "12381",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Rogalińska 19,21,23 ( przy drugiej wiacie śmietnikowej od wjazdu )",
+          "lat": 54.333996,
+          "lon": 18.597172,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107583,
+          "id": "7583",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Rogalińska 23, Gdańsk",
+          "lat": 54.333996,
+          "lon": 18.597172,
+          "note": ""
+        }
+      ],
+      "search_terms": "Rogalińska 19,21,23 ( przy drugiej wiacie śmietnikowej od wjazdu ) ul.Rogalińska 23, Gdańsk"
+    },
+    {
+      "id": 21243,
+      "ids": [
+        "21243",
+        "9301"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Srebrniki 12",
+      "query": "Srebrniki 12, GDAŃSK",
+      "note": "Cmentarz Srebrzysko Źródła podają różne opisy adresu. Zachowano je poniżej; scalenie nie potwierdza liczby pojemników. Cmentarz Srebrzysko: nazwa obiektu i adres Srebrniki 12 mają identyczne współrzędne.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.376083,
+        "lon": 18.580893,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 21243,
+          "id": "21243",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Srebrniki 12",
+          "lat": 54.376083,
+          "lon": 18.580893,
+          "note": "Cmentarz Srebrzysko"
+        },
+        {
+          "record_id": 109301,
+          "id": "9301",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "Cmentarz Srebrzysko, Gdańsk",
+          "lat": 54.376083,
+          "lon": 18.580893,
+          "note": ""
+        }
+      ],
+      "search_terms": "Srebrniki 12 Cmentarz Srebrzysko, Gdańsk"
+    },
+    {
+      "id": 20186,
+      "ids": [
+        "20186",
+        "7572"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Suchanka 9",
+      "query": "Suchanka 9, GDAŃSK",
+      "note": "Obok Altany Śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.33507,
+        "lon": 18.62393203,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 20186,
+          "id": "20186",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Suchanka 9",
+          "lat": 54.33507,
+          "lon": 18.62393203,
+          "note": "Obok Altany Śmietnikowej"
+        },
+        {
+          "record_id": 107572,
+          "id": "7572",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "Suchanka 9, Gdańsk",
+          "lat": 54.33498309915096,
+          "lon": 18.623695954328667,
+          "note": ""
+        }
+      ],
+      "search_terms": "Suchanka 9 Suchanka 9, Gdańsk"
+    },
+    {
+      "id": 12392,
+      "ids": [
+        "12392",
+        "7593"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul Diamentowa 1",
+      "query": "ul Diamentowa 1, GDAŃSK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.326863,
+        "lon": 18.629618,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12392,
+          "id": "12392",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul Diamentowa 1",
+          "lat": 54.326863,
+          "lon": 18.629618,
+          "note": "wolnostojący"
+        },
+        {
+          "record_id": 107593,
+          "id": "7593",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul Diamentowa 1, Gdańsk",
+          "lat": 54.326863,
+          "lon": 18.629618,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul Diamentowa 1 ul Diamentowa 1, Gdańsk"
+    },
+    {
+      "id": 12308,
+      "ids": [
+        "12308",
+        "7519"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Bażantowa 1",
+      "query": "ul. Bażantowa 1, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.348254,
+        "lon": 18.552253,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12308,
+          "id": "12308",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Bażantowa 1",
+          "lat": 54.348254,
+          "lon": 18.552253,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107519,
+          "id": "7519",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Bażantowa 1, Gdańsk",
+          "lat": 54.348254,
+          "lon": 18.552253,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Bażantowa 1 ul. Bażantowa 1, Gdańsk"
+    },
+    {
+      "id": 12379,
+      "ids": [
+        "12379",
+        "7581"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Budapesztańska 19",
+      "query": "ul. Budapesztańska 19, GDAŃSK",
+      "note": "na parkingu",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.353644,
+        "lon": 18.582922,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12379,
+          "id": "12379",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Budapesztańska 19",
+          "lat": 54.353644,
+          "lon": 18.582922,
+          "note": "na parkingu"
+        },
+        {
+          "record_id": 107581,
+          "id": "7581",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Budapesztańska 19, Gdańsk",
+          "lat": 54.353644,
+          "lon": 18.582922,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Budapesztańska 19 ul. Budapesztańska 19, Gdańsk"
+    },
+    {
+      "id": 12300,
+      "ids": [
+        "12300",
+        "7513"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Cedrowa 27",
+      "query": "ul. Cedrowa 27, GDAŃSK",
+      "note": "wolnostojący na osiedlu",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3390917,
+        "lon": 18.5861383,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12300,
+          "id": "12300",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Cedrowa 27",
+          "lat": 54.3390917,
+          "lon": 18.5861383,
+          "note": "wolnostojący na osiedlu"
+        },
+        {
+          "record_id": 107513,
+          "id": "7513",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Cedrowa 27, Gdańsk",
+          "lat": 54.3390917,
+          "lon": 18.5861383,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Cedrowa 27 ul. Cedrowa 27, Gdańsk"
+    },
+    {
+      "id": 12372,
+      "ids": [
+        "12372",
+        "7574"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Chłopska 14",
+      "query": "ul. Chłopska 14, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.407472,
+        "lon": 18.591861,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12372,
+          "id": "12372",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Chłopska 14",
+          "lat": 54.407472,
+          "lon": 18.591861,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107574,
+          "id": "7574",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Chłopska 14, Gdańsk",
+          "lat": 54.407472,
+          "lon": 18.591861,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Chłopska 14 ul. Chłopska 14, Gdańsk"
+    },
+    {
+      "id": 12349,
+      "ids": [
+        "12349",
+        "7554"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Ciechanowska 1 A",
+      "query": "ul. Ciechanowska 1 A, GDAŃSK",
+      "note": "obok pojemników na segregowane odpady",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.327561,
+        "lon": 18.5987824,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12349,
+          "id": "12349",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Ciechanowska 1 A",
+          "lat": 54.327561,
+          "lon": 18.5987824,
+          "note": "obok pojemników na segregowane odpady"
+        },
+        {
+          "record_id": 107554,
+          "id": "7554",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Ciechanowska 1 A, Gdańsk",
+          "lat": 54.327561,
+          "lon": 18.5987824,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Ciechanowska 1 A ul. Ciechanowska 1 A, Gdańsk"
+    },
+    {
+      "id": 12289,
+      "ids": [
+        "12289"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Cieszyńskiego 38",
+      "query": "ul. Cieszyńskiego 38, GDAŃSK",
+      "note": "Parking Przy Centrum Handlowym",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3371117,
+        "lon": 18.6133083,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12289,
+          "id": "12289",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Cieszyńskiego 38",
+          "lat": 54.3371117,
+          "lon": 18.6133083,
+          "note": "Parking Przy Centrum Handlowym"
+        }
+      ],
+      "search_terms": "ul. Cieszyńskiego 38"
+    },
+    {
+      "id": 12294,
+      "ids": [
+        "12294"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Dywizjonu 303 21",
+      "query": "ul. Dywizjonu 303 21, GDAŃSK",
+      "note": "wolnostojacy",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3893735,
+        "lon": 18.6033064,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12294,
+          "id": "12294",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Dywizjonu 303 21",
+          "lat": 54.3893735,
+          "lon": 18.6033064,
+          "note": "wolnostojacy"
+        }
+      ],
+      "search_terms": "ul. Dywizjonu 303 21"
+    },
+    {
+      "id": 12302,
+      "ids": [
+        "12302",
+        "7515"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Flisykowskiego 3",
+      "query": "ul. Flisykowskiego 3, GDAŃSK",
+      "note": "Gdańsk Jasień Inny adres (Jeleniogórska 13C) ma te same lub niemal identyczne współrzędne. Nie scalono bez potwierdzenia.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3271217,
+        "lon": 18.5852767,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12302,
+          "id": "12302",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Flisykowskiego 3",
+          "lat": 54.3271217,
+          "lon": 18.5852767,
+          "note": "Gdańsk Jasień Te same współrzędne co ID 12291 przy innym adresie — do sprawdzenia."
+        },
+        {
+          "record_id": 107515,
+          "id": "7515",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Flisykowskiego 3, Gdańsk",
+          "lat": 54.3271217,
+          "lon": 18.5852767,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Flisykowskiego 3 ul. Flisykowskiego 3, Gdańsk"
+    },
+    {
+      "id": 12320,
+      "ids": [
+        "12320",
+        "7530"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Gospody 10",
+      "query": "ul. Gospody 10, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.4214667,
+        "lon": 18.5794267,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12320,
+          "id": "12320",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Gospody 10",
+          "lat": 54.4214667,
+          "lon": 18.5794267,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107530,
+          "id": "7530",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Gospody 10, Gdańsk",
+          "lat": 54.4214667,
+          "lon": 18.5794267,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Gospody 10 ul. Gospody 10, Gdańsk"
+    },
+    {
+      "id": 12375,
+      "ids": [
+        "12375",
+        "7577"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Gospody 17",
+      "query": "ul. Gospody 17, GDAŃSK",
+      "note": "obok pojemników na segregowane odpady",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.424289,
+        "lon": 18.582978,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12375,
+          "id": "12375",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Gospody 17",
+          "lat": 54.424289,
+          "lon": 18.582978,
+          "note": "obok pojemników na segregowane odpady"
+        },
+        {
+          "record_id": 107577,
+          "id": "7577",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Gospody 17, Gdańsk",
+          "lat": 54.424289,
+          "lon": 18.582978,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Gospody 17 ul. Gospody 17, Gdańsk"
+    },
+    {
+      "id": 12318,
+      "ids": [
+        "12318",
+        "7528"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Góralska 15",
+      "query": "ul. Góralska 15, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3757815,
+        "lon": 18.5634348,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12318,
+          "id": "12318",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Góralska 15",
+          "lat": 54.3757815,
+          "lon": 18.5634348,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107528,
+          "id": "7528",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Góralska 15, Gdańsk",
+          "lat": 54.3757815,
+          "lon": 18.5634348,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Góralska 15 ul. Góralska 15, Gdańsk"
+    },
+    {
+      "id": 12394,
+      "ids": [
+        "12394",
+        "7594"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Góralska 49",
+      "query": "ul. Góralska 49, GDAŃSK",
+      "note": "przy altanie śmietnikowej alternatywnie ul. Góralska 61",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.37979216799,
+        "lon": 18.558536999162,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12394,
+          "id": "12394",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Góralska 49",
+          "lat": 54.37979216799,
+          "lon": 18.558536999162,
+          "note": "przy altanie śmietnikowej alternatywnie ul. Góralska 61"
+        },
+        {
+          "record_id": 107594,
+          "id": "7594",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Góralska 49, Gdańsk",
+          "lat": 54.37979216799681,
+          "lon": 18.558536999162058,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Góralska 49 ul. Góralska 49, Gdańsk"
+    },
+    {
+      "id": 12346,
+      "ids": [
+        "12346",
+        "7551"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Grunwaldzka 601",
+      "query": "ul. Grunwaldzka 601, GDAŃSK",
+      "note": "obok pojemników segregacyjnych Źródła podają różne opisy adresu. Zachowano je poniżej; scalenie nie potwierdza liczby pojemników.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.4220348,
+        "lon": 18.5659105,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12346,
+          "id": "12346",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Grunwaldzka 601",
+          "lat": 54.4220348,
+          "lon": 18.5659105,
+          "note": "obok pojemników segregacyjnych"
+        },
+        {
+          "record_id": 107551,
+          "id": "7551",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Grunwaldzka 607, Gdańsk",
+          "lat": 54.4220348,
+          "lon": 18.5659105,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Grunwaldzka 601 ul. Grunwaldzka 607, Gdańsk"
+    },
+    {
+      "id": 107597,
+      "ids": [
+        "7597"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Guderskiego 64, Gdańsk",
+      "query": "ul. Guderskiego 64, Gdańsk, GDAŃSK",
+      "note": "",
+      "source": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+      "source_name": "Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.32393575609699,
+        "lon": 18.55896109325335,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 107597,
+          "id": "7597",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Guderskiego 64, Gdańsk",
+          "lat": 54.32393575609699,
+          "lon": 18.55896109325335,
+          "note": "Brak punktu operatora w promieniu ok. 100 m (najbliższy ok. 1263 m). Możliwa różnica adresu lub współrzędnych."
+        }
+      ],
+      "search_terms": "ul. Guderskiego 64, Gdańsk"
+    },
+    {
+      "id": 12356,
+      "ids": [
+        "12356"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Hallera 120 A",
+      "query": "ul. Hallera 120 A, GDAŃSK",
+      "note": "wolnostojacy",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.387461,
+        "lon": 18.622152,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12356,
+          "id": "12356",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Hallera 120 A",
+          "lat": 54.387461,
+          "lon": 18.622152,
+          "note": "wolnostojacy"
+        }
+      ],
+      "search_terms": "ul. Hallera 120 A"
+    },
+    {
+      "id": 12313,
+      "ids": [
+        "12313"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Hokejowa 14",
+      "query": "ul. Hokejowa 14, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.309038,
+        "lon": 18.593056,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12313,
+          "id": "12313",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Hokejowa 14",
+          "lat": 54.309038,
+          "lon": 18.593056,
+          "note": "parking przy bloku"
+        }
+      ],
+      "search_terms": "ul. Hokejowa 14"
+    },
+    {
+      "id": 12363,
+      "ids": [
+        "12363",
+        "7564"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Jagiellońska 10 B",
+      "query": "ul. Jagiellońska 10 B, GDAŃSK",
+      "note": "obok pojemników na odpady segregowane",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.413294,
+        "lon": 18.596511,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12363,
+          "id": "12363",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Jagiellońska 10 B",
+          "lat": 54.413294,
+          "lon": 18.596511,
+          "note": "obok pojemników na odpady segregowane"
+        },
+        {
+          "record_id": 107564,
+          "id": "7564",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Jagiellońska 10 B, Gdańsk",
+          "lat": 54.413294,
+          "lon": 18.596511,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Jagiellońska 10 B ul. Jagiellońska 10 B, Gdańsk"
+    },
+    {
+      "id": 107596,
+      "ids": [
+        "7596"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Jagiełły 2, Gdańsk",
+      "query": "ul. Jagiełły 2, Gdańsk, GDAŃSK",
+      "note": "",
+      "source": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+      "source_name": "Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.303966072418646,
+        "lon": 18.61141444907551,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 107596,
+          "id": "7596",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Jagiełły 2, Gdańsk",
+          "lat": 54.303966072418646,
+          "lon": 18.61141444907551,
+          "note": "Brak punktu operatora w promieniu ok. 100 m (najbliższy ok. 516 m). Możliwa różnica adresu lub współrzędnych."
+        }
+      ],
+      "search_terms": "ul. Jagiełły 2, Gdańsk"
+    },
+    {
+      "id": 107598,
+      "ids": [
+        "7598"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Jasińskiego 65 przy boisku, Gdańsk",
+      "query": "ul. Jasińskiego 65 przy boisku, Gdańsk, GDAŃSK",
+      "note": "",
+      "source": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+      "source_name": "Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.334772,
+        "lon": 18.542098,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 107598,
+          "id": "7598",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Jasińskiego 65 przy boisku, Gdańsk",
+          "lat": 54.334772,
+          "lon": 18.542098,
+          "note": "Brak punktu operatora w promieniu ok. 100 m (najbliższy ok. 1570 m). Możliwa różnica adresu lub współrzędnych."
+        }
+      ],
+      "search_terms": "ul. Jasińskiego 65 przy boisku, Gdańsk"
+    },
+    {
+      "id": 12351,
+      "ids": [
+        "12351",
+        "7556"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Kaliska 30",
+      "query": "ul. Kaliska 30, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3249895,
+        "lon": 18.5949115,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12351,
+          "id": "12351",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Kaliska 30",
+          "lat": 54.3249895,
+          "lon": 18.5949115,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107556,
+          "id": "7556",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Kaliska 30, Gdańsk",
+          "lat": 54.3249895,
+          "lon": 18.5949115,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Kaliska 30 ul. Kaliska 30, Gdańsk"
+    },
+    {
+      "id": 12326,
+      "ids": [
+        "12326",
+        "7535"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Kamieńskiego 9",
+      "query": "ul. Kamieńskiego 9, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.354005,
+        "lon": 18.6097183,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12326,
+          "id": "12326",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Kamieńskiego 9",
+          "lat": 54.354005,
+          "lon": 18.6097183,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107535,
+          "id": "7535",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Kamieńskiego 9, Gdańsk",
+          "lat": 54.354005,
+          "lon": 18.6097183,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Kamieńskiego 9 ul. Kamieńskiego 9, Gdańsk"
+    },
+    {
+      "id": 12387,
+      "ids": [
+        "12387",
+        "21084",
+        "7589"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Karpacka 2",
+      "query": "ul. Karpacka 2, GDAŃSK",
+      "note": "obok pojemników na segregowane odpady Karpacka 2: sprzeczne współrzędne w dwóch wpisach operatora. Wybrano pozycję zgodną z mapą miejską; drugą pozycję zachowano w źródłach.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.415683,
+        "lon": 18.556901,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12387,
+          "id": "12387",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Karpacka 2",
+          "lat": 54.415683,
+          "lon": 18.556901,
+          "note": "obok pojemników na segregowane odpady"
+        },
+        {
+          "record_id": 21084,
+          "id": "21084",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Karpacka 2",
+          "lat": 54.39162,
+          "lon": 18.61467,
+          "note": "Te same współrzędne co ID 21087 przy innym adresie — do sprawdzenia."
+        },
+        {
+          "record_id": 107589,
+          "id": "7589",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Karpacka 2, Gdańsk",
+          "lat": 54.415683,
+          "lon": 18.556901,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Karpacka 2 ul. Karpacka 2 ul. Karpacka 2, Gdańsk"
+    },
+    {
+      "id": 12328,
+      "ids": [
+        "12328",
+        "7537"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Kazimierza Wielkiego",
+      "query": "ul. Kazimierza Wielkiego, GDAŃSK",
+      "note": "parking przy bloku Źródła podają różne opisy adresu. Zachowano je poniżej; scalenie nie potwierdza liczby pojemników.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.2997717,
+        "lon": 18.614815,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12328,
+          "id": "12328",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Kazimierza Wielkiego",
+          "lat": 54.2997717,
+          "lon": 18.614815,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107537,
+          "id": "7537",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Kazimierza Wielkiego 25, Gdańsk",
+          "lat": 54.2997717,
+          "lon": 18.614815,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Kazimierza Wielkiego ul. Kazimierza Wielkiego 25, Gdańsk"
+    },
+    {
+      "id": 12340,
+      "ids": [
+        "12340",
+        "7545"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Kołobrzeska 23",
+      "query": "ul. Kołobrzeska 23, GDAŃSK",
+      "note": "Parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.4010667,
+        "lon": 18.58136,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12340,
+          "id": "12340",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Kołobrzeska 23",
+          "lat": 54.4010667,
+          "lon": 18.58136,
+          "note": "Parking"
+        },
+        {
+          "record_id": 107545,
+          "id": "7545",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Kołobrzeska 23, Gdańsk",
+          "lat": 54.4010667,
+          "lon": 18.58136,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Kołobrzeska 23 ul. Kołobrzeska 23, Gdańsk"
+    },
+    {
+      "id": 12368,
+      "ids": [
+        "12368",
+        "7570"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Kołobrzeska 55 A",
+      "query": "ul. Kołobrzeska 55 A, GDAŃSK",
+      "note": "obok pojemników na odpady segregowane",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.406142,
+        "lon": 18.596219,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12368,
+          "id": "12368",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Kołobrzeska 55 A",
+          "lat": 54.406142,
+          "lon": 18.596219,
+          "note": "obok pojemników na odpady segregowane"
+        },
+        {
+          "record_id": 107570,
+          "id": "7570",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Kołobrzeska 55 A, Gdańsk",
+          "lat": 54.406142,
+          "lon": 18.596219,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Kołobrzeska 55 A ul. Kołobrzeska 55 A, Gdańsk"
+    },
+    {
+      "id": 12366,
+      "ids": [
+        "12366",
+        "7568"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Kołobrzeska 75",
+      "query": "ul. Kołobrzeska 75, GDAŃSK",
+      "note": "obok pojemników na odpady segregowane",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.406716,
+        "lon": 18.600891,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12366,
+          "id": "12366",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Kołobrzeska 75",
+          "lat": 54.406716,
+          "lon": 18.600891,
+          "note": "obok pojemników na odpady segregowane"
+        },
+        {
+          "record_id": 107568,
+          "id": "7568",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Kołobrzeska 75, Gdańsk",
+          "lat": 54.406716,
+          "lon": 18.600891,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Kołobrzeska 75 ul. Kołobrzeska 75, Gdańsk"
+    },
+    {
+      "id": 12314,
+      "ids": [
+        "12314",
+        "7524"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Ul. Korzeniowskiego 28",
+      "query": "Ul. Korzeniowskiego 28, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.407176,
+        "lon": 18.632285,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12314,
+          "id": "12314",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Ul. Korzeniowskiego 28",
+          "lat": 54.407176,
+          "lon": 18.632285,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107524,
+          "id": "7524",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "Ul. Korzeniowskiego 28, Gdańsk",
+          "lat": 54.407176,
+          "lon": 18.632285,
+          "note": ""
+        }
+      ],
+      "search_terms": "Ul. Korzeniowskiego 28 Ul. Korzeniowskiego 28, Gdańsk"
+    },
+    {
+      "id": 12344,
+      "ids": [
+        "12344",
+        "7549"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Kryniczna 20",
+      "query": "ul. Kryniczna 20, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3553464,
+        "lon": 18.6835978,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12344,
+          "id": "12344",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Kryniczna 20",
+          "lat": 54.3553464,
+          "lon": 18.6835978,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107549,
+          "id": "7549",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Kryniczna 20, Gdańsk",
+          "lat": 54.3553464,
+          "lon": 18.6835978,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Kryniczna 20 ul. Kryniczna 20, Gdańsk"
+    },
+    {
+      "id": 12325,
+      "ids": [
+        "12325",
+        "7534"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Kurpińskiego 9",
+      "query": "ul. Kurpińskiego 9, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3531447,
+        "lon": 18.5995672,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12325,
+          "id": "12325",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Kurpińskiego 9",
+          "lat": 54.3531447,
+          "lon": 18.5995672,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107534,
+          "id": "7534",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Kurpińskiego 9, Gdańsk",
+          "lat": 54.3531447,
+          "lon": 18.5995672,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Kurpińskiego 9 ul. Kurpińskiego 9, Gdańsk"
+    },
+    {
+      "id": 12377,
+      "ids": [
+        "12377",
+        "7579"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Michałowskiego 41",
+      "query": "ul. Michałowskiego 41, GDAŃSK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.385297,
+        "lon": 18.570999,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12377,
+          "id": "12377",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Michałowskiego 41",
+          "lat": 54.385297,
+          "lon": 18.570999,
+          "note": "wolnostojący"
+        },
+        {
+          "record_id": 107579,
+          "id": "7579",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Michałowskiego 41, Gdańsk",
+          "lat": 54.385297,
+          "lon": 18.570999,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Michałowskiego 41 ul. Michałowskiego 41, Gdańsk"
+    },
+    {
+      "id": 12330,
+      "ids": [
+        "12330",
+        "7539"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Michny pomiędzy 6 i 8",
+      "query": "ul. Michny pomiędzy 6 i 8, GDAŃSK",
+      "note": "parking przy bloku Źródła podają różne opisy adresu. Zachowano je poniżej; scalenie nie potwierdza liczby pojemników.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3911202,
+        "lon": 18.647698,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12330,
+          "id": "12330",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Michny pomiędzy 6 i 8",
+          "lat": 54.3911202,
+          "lon": 18.647698,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107539,
+          "id": "7539",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Michny pomiędzy 6, Gdańsk",
+          "lat": 54.3911202,
+          "lon": 18.647698,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Michny pomiędzy 6 i 8 ul. Michny pomiędzy 6, Gdańsk"
+    },
+    {
+      "id": 107560,
+      "ids": [
+        "7560"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Myśliwska 33 A, Gdańsk",
+      "query": "ul. Myśliwska 33 A, Gdańsk, GDAŃSK",
+      "note": "",
+      "source": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+      "source_name": "Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.35157175097139,
+        "lon": 18.570499139614455,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 107560,
+          "id": "7560",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Myśliwska 33 A, Gdańsk",
+          "lat": 54.35157175097139,
+          "lon": 18.570499139614455,
+          "note": "Brak punktu operatora w promieniu ok. 100 m (najbliższy ok. 132 m). Możliwa różnica adresu lub współrzędnych."
+        }
+      ],
+      "search_terms": "ul. Myśliwska 33 A, Gdańsk"
+    },
+    {
+      "id": 12355,
+      "ids": [
+        "12355"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Myśliwska 33 E",
+      "query": "ul. Myśliwska 33 E, GDAŃSK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.352057,
+        "lon": 18.572349,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12355,
+          "id": "12355",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Myśliwska 33 E",
+          "lat": 54.352057,
+          "lon": 18.572349,
+          "note": "wolnostojący"
+        }
+      ],
+      "search_terms": "ul. Myśliwska 33 E"
+    },
+    {
+      "id": 12303,
+      "ids": [
+        "12303",
+        "7516"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Myśliwska 86",
+      "query": "ul. Myśliwska 86, GDAŃSK",
+      "note": "Gdańsk Piecki-Migowo Źródła podają różne opisy adresu. Zachowano je poniżej; scalenie nie potwierdza liczby pojemników.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3519567,
+        "lon": 18.558805,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12303,
+          "id": "12303",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Myśliwska 86",
+          "lat": 54.3519567,
+          "lon": 18.558805,
+          "note": "Gdańsk Piecki-Migowo"
+        },
+        {
+          "record_id": 107516,
+          "id": "7516",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Myśliwska 84-86, Gdańsk",
+          "lat": 54.3519567,
+          "lon": 18.558805,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Myśliwska 86 ul. Myśliwska 84-86, Gdańsk"
+    },
+    {
+      "id": 107529,
+      "ids": [
+        "7529"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Niedźwiednik 37, Gdańsk",
+      "query": "ul. Niedźwiednik 37, Gdańsk, GDAŃSK",
+      "note": "",
+      "source": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+      "source_name": "Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3768848,
+        "lon": 18.5643472,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 107529,
+          "id": "7529",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Niedźwiednik 37, Gdańsk",
+          "lat": 54.3768848,
+          "lon": 18.5643472,
+          "note": "Brak punktu operatora w promieniu ok. 100 m (najbliższy ok. 136 m). Możliwa różnica adresu lub współrzędnych."
+        }
+      ],
+      "search_terms": "ul. Niedźwiednik 37, Gdańsk"
+    },
+    {
+      "id": 12378,
+      "ids": [
+        "12378",
+        "7580"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Norblina 24",
+      "query": "ul. Norblina 24, GDAŃSK",
+      "note": "przy altanie śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.38885,
+        "lon": 18.569732,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12378,
+          "id": "12378",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Norblina 24",
+          "lat": 54.38885,
+          "lon": 18.569732,
+          "note": "przy altanie śmietnikowej"
+        },
+        {
+          "record_id": 107580,
+          "id": "7580",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Norblina 24, Gdańsk",
+          "lat": 54.38885,
+          "lon": 18.569732,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Norblina 24 ul. Norblina 24, Gdańsk"
+    },
+    {
+      "id": 12367,
+      "ids": [
+        "12367",
+        "7569"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Obrońców Wybrzeża 10 B",
+      "query": "ul. Obrońców Wybrzeża 10 B, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.40961,
+        "lon": 18.600795,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12367,
+          "id": "12367",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Obrońców Wybrzeża 10 B",
+          "lat": 54.40961,
+          "lon": 18.600795,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107569,
+          "id": "7569",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Obrońców Wybrzeża 10 B, Gdańsk",
+          "lat": 54.40961,
+          "lon": 18.600795,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Obrońców Wybrzeża 10 B ul. Obrońców Wybrzeża 10 B, Gdańsk"
+    },
+    {
+      "id": 12301,
+      "ids": [
+        "12301"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Obrońców Wybrzeża 11",
+      "query": "ul. Obrońców Wybrzeża 11, GDAŃSK",
+      "note": "Gdańsk Przymorze",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.4099492,
+        "lon": 18.5963218,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12301,
+          "id": "12301",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Obrońców Wybrzeża 11",
+          "lat": 54.4099492,
+          "lon": 18.5963218,
+          "note": "Gdańsk Przymorze"
+        }
+      ],
+      "search_terms": "ul. Obrońców Wybrzeża 11"
+    },
+    {
+      "id": 12316,
+      "ids": [
+        "12316",
+        "7525"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Opolska 3",
+      "query": "ul. Opolska 3, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.4035383,
+        "lon": 18.59855,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12316,
+          "id": "12316",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Opolska 3",
+          "lat": 54.4035383,
+          "lon": 18.59855,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107525,
+          "id": "7525",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Opolska 3, Gdańsk",
+          "lat": 54.4035383,
+          "lon": 18.59855,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Opolska 3 ul. Opolska 3, Gdańsk"
+    },
+    {
+      "id": 12390,
+      "ids": [
+        "12390",
+        "7591"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Piaskowa 8",
+      "query": "ul. Piaskowa 8, GDAŃSK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.329032,
+        "lon": 18.629502,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12390,
+          "id": "12390",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Piaskowa 8",
+          "lat": 54.329032,
+          "lon": 18.629502,
+          "note": "wolnostojący"
+        },
+        {
+          "record_id": 107591,
+          "id": "7591",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Piaskowa 8, Gdańsk",
+          "lat": 54.329032,
+          "lon": 18.629502,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Piaskowa 8 ul. Piaskowa 8, Gdańsk"
+    },
+    {
+      "id": 12354,
+      "ids": [
+        "12354",
+        "7559"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Piastowska 104 E",
+      "query": "ul. Piastowska 104 E, GDAŃSK",
+      "note": "obok pojemników na segregowane odpady",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.4150873,
+        "lon": 18.5925748,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12354,
+          "id": "12354",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Piastowska 104 E",
+          "lat": 54.4150873,
+          "lon": 18.5925748,
+          "note": "obok pojemników na segregowane odpady"
+        },
+        {
+          "record_id": 107559,
+          "id": "7559",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Piastowska 104 E, Gdańsk",
+          "lat": 54.4150873,
+          "lon": 18.5925748,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Piastowska 104 E ul. Piastowska 104 E, Gdańsk"
+    },
+    {
+      "id": 12353,
+      "ids": [
+        "12353",
+        "7558"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Piastowska 74 E",
+      "query": "ul. Piastowska 74 E, GDAŃSK",
+      "note": "parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.414566,
+        "lon": 18.585364,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12353,
+          "id": "12353",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Piastowska 74 E",
+          "lat": 54.414566,
+          "lon": 18.585364,
+          "note": "parking"
+        },
+        {
+          "record_id": 107558,
+          "id": "7558",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Piastowska 74 E, Gdańsk",
+          "lat": 54.414566,
+          "lon": 18.585364,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Piastowska 74 E ul. Piastowska 74 E, Gdańsk"
+    },
+    {
+      "id": 12348,
+      "ids": [
+        "12348",
+        "7553"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Płocka 10",
+      "query": "ul. Płocka 10, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3262534,
+        "lon": 18.5931736,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12348,
+          "id": "12348",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Płocka 10",
+          "lat": 54.3262534,
+          "lon": 18.5931736,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107553,
+          "id": "7553",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Płocka 10, Gdańsk",
+          "lat": 54.3262534,
+          "lon": 18.5931736,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Płocka 10 ul. Płocka 10, Gdańsk"
+    },
+    {
+      "id": 12352,
+      "ids": [
+        "12352",
+        "7557"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Płocka 20",
+      "query": "ul. Płocka 20, GDAŃSK",
+      "note": "obok paczkomatu",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3276069,
+        "lon": 18.5957114,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12352,
+          "id": "12352",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Płocka 20",
+          "lat": 54.3276069,
+          "lon": 18.5957114,
+          "note": "obok paczkomatu"
+        },
+        {
+          "record_id": 107557,
+          "id": "7557",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Płocka 20, Gdańsk",
+          "lat": 54.3276069,
+          "lon": 18.5957114,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Płocka 20 ul. Płocka 20, Gdańsk"
+    },
+    {
+      "id": 12362,
+      "ids": [
+        "12362",
+        "7563"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Pomorska 16",
+      "query": "ul. Pomorska 16, GDAŃSK",
+      "note": "obok pojemników na odpady segregowane",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.418652,
+        "lon": 18.577768,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12362,
+          "id": "12362",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Pomorska 16",
+          "lat": 54.418652,
+          "lon": 18.577768,
+          "note": "obok pojemników na odpady segregowane"
+        },
+        {
+          "record_id": 107563,
+          "id": "7563",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Pomorska 16, Gdańsk",
+          "lat": 54.418652,
+          "lon": 18.577768,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Pomorska 16 ul. Pomorska 16, Gdańsk"
+    },
+    {
+      "id": 12376,
+      "ids": [
+        "12376",
+        "7578"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Pomorska 82",
+      "query": "ul. Pomorska 82, GDAŃSK",
+      "note": "obok pojemników na segregowane odpady",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.419104,
+        "lon": 18.583154,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12376,
+          "id": "12376",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Pomorska 82",
+          "lat": 54.419104,
+          "lon": 18.583154,
+          "note": "obok pojemników na segregowane odpady"
+        },
+        {
+          "record_id": 107578,
+          "id": "7578",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Pomorska 82, Gdańsk",
+          "lat": 54.419104,
+          "lon": 18.583154,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Pomorska 82 ul. Pomorska 82, Gdańsk"
+    },
+    {
+      "id": 12347,
+      "ids": [
+        "12347",
+        "7552"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Poniatowskiego 15",
+      "query": "ul. Poniatowskiego 15, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3577076,
+        "lon": 18.6299721,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12347,
+          "id": "12347",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Poniatowskiego 15",
+          "lat": 54.3577076,
+          "lon": 18.6299721,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107552,
+          "id": "7552",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Poniatowskiego 15, Gdańsk",
+          "lat": 54.3577076,
+          "lon": 18.6299721,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Poniatowskiego 15 ul. Poniatowskiego 15, Gdańsk"
+    },
+    {
+      "id": 12312,
+      "ids": [
+        "12312",
+        "7523"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Porębskiego 31",
+      "query": "ul. Porębskiego 31, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.319613,
+        "lon": 18.576934,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12312,
+          "id": "12312",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Porębskiego 31",
+          "lat": 54.319613,
+          "lon": 18.576934,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107523,
+          "id": "7523",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Porębskiego 31, Gdańsk",
+          "lat": 54.319613,
+          "lon": 18.576934,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Porębskiego 31 ul. Porębskiego 31, Gdańsk"
+    },
+    {
+      "id": 12350,
+      "ids": [
+        "12350",
+        "7555"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Przemyska 32",
+      "query": "ul. Przemyska 32, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3297774,
+        "lon": 18.5937048,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12350,
+          "id": "12350",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Przemyska 32",
+          "lat": 54.3297774,
+          "lon": 18.5937048,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107555,
+          "id": "7555",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Przemyska 32, Gdańsk",
+          "lat": 54.3297774,
+          "lon": 18.5937048,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Przemyska 32 ul. Przemyska 32, Gdańsk"
+    },
+    {
+      "id": 12365,
+      "ids": [
+        "12365",
+        "7567"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Raciborskiego 4",
+      "query": "ul. Raciborskiego 4, GDAŃSK",
+      "note": "obok pojemników na odpady segregowane",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.363622,
+        "lon": 18.596581,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12365,
+          "id": "12365",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Raciborskiego 4",
+          "lat": 54.363622,
+          "lon": 18.596581,
+          "note": "obok pojemników na odpady segregowane"
+        },
+        {
+          "record_id": 107567,
+          "id": "7567",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Raciborskiego 4, Gdańsk",
+          "lat": 54.363622,
+          "lon": 18.596581,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Raciborskiego 4 ul. Raciborskiego 4, Gdańsk"
+    },
+    {
+      "id": 12391,
+      "ids": [
+        "12391",
+        "7592"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Raduńska 36",
+      "query": "ul. Raduńska 36, GDAŃSK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.324308,
+        "lon": 18.631146,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12391,
+          "id": "12391",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Raduńska 36",
+          "lat": 54.324308,
+          "lon": 18.631146,
+          "note": "wolnostojący"
+        },
+        {
+          "record_id": 107592,
+          "id": "7592",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Raduńska 36, Gdańsk",
+          "lat": 54.324308,
+          "lon": 18.631146,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Raduńska 36 ul. Raduńska 36, Gdańsk"
+    },
+    {
+      "id": 12357,
+      "ids": [
+        "12357",
+        "7561"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Rakoczego 23",
+      "query": "ul. Rakoczego 23, GDAŃSK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.357431,
+        "lon": 18.58974,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12357,
+          "id": "12357",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Rakoczego 23",
+          "lat": 54.357431,
+          "lon": 18.58974,
+          "note": "wolnostojący"
+        },
+        {
+          "record_id": 107561,
+          "id": "7561",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Rakoczego 23, Gdańsk",
+          "lat": 54.357431,
+          "lon": 18.58974,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Rakoczego 23 ul. Rakoczego 23, Gdańsk"
+    },
+    {
+      "id": 107599,
+      "ids": [
+        "7599"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Rozrażewskiego 1 , Gdańsk",
+      "query": "ul. Rozrażewskiego 1 , Gdańsk, GDAŃSK",
+      "note": "",
+      "source": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+      "source_name": "Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.325883,
+        "lon": 18.622564,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 107599,
+          "id": "7599",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Rozrażewskiego 1 , Gdańsk",
+          "lat": 54.325883,
+          "lon": 18.622564,
+          "note": "Brak punktu operatora w promieniu ok. 100 m (najbliższy ok. 283 m). Możliwa różnica adresu lub współrzędnych."
+        }
+      ],
+      "search_terms": "ul. Rozrażewskiego 1 , Gdańsk"
+    },
+    {
+      "id": 12333,
+      "ids": [
+        "12333"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Sempołowskiej 10",
+      "query": "ul. Sempołowskiej 10, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3427233,
+        "lon": 18.6652673,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12333,
+          "id": "12333",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Sempołowskiej 10",
+          "lat": 54.3427233,
+          "lon": 18.6652673,
+          "note": "parking przy bloku"
+        }
+      ],
+      "search_terms": "ul. Sempołowskiej 10"
+    },
+    {
+      "id": 12323,
+      "ids": [
+        "12323",
+        "7532"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Skarpowa 23",
+      "query": "ul. Skarpowa 23, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3521124,
+        "lon": 18.6244311,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12323,
+          "id": "12323",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Skarpowa 23",
+          "lat": 54.3521124,
+          "lon": 18.6244311,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107532,
+          "id": "7532",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Skarpowa 23, Gdańsk",
+          "lat": 54.3521124,
+          "lon": 18.6244311,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Skarpowa 23 ul. Skarpowa 23, Gdańsk"
+    },
+    {
+      "id": 12322,
+      "ids": [
+        "12322",
+        "7531"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Spadzista 10",
+      "query": "ul. Spadzista 10, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3422251,
+        "lon": 18.6411983,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12322,
+          "id": "12322",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Spadzista 10",
+          "lat": 54.3422251,
+          "lon": 18.6411983,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107531,
+          "id": "7531",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Spadzista 10, Gdańsk",
+          "lat": 54.3422251,
+          "lon": 18.6411983,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Spadzista 10 ul. Spadzista 10, Gdańsk"
+    },
+    {
+      "id": 107522,
+      "ids": [
+        "7522"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Stanisława Dąbka 4 szlaban, Gdańsk",
+      "query": "ul. Stanisława Dąbka 4 szlaban, Gdańsk, GDAŃSK",
+      "note": "",
+      "source": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+      "source_name": "Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.320757,
+        "lon": 18.586706,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 107522,
+          "id": "7522",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Stanisława Dąbka 4 szlaban, Gdańsk",
+          "lat": 54.320757,
+          "lon": 18.586706,
+          "note": "Brak punktu operatora w promieniu ok. 100 m (najbliższy ok. 648 m). Możliwa różnica adresu lub współrzędnych."
+        }
+      ],
+      "search_terms": "ul. Stanisława Dąbka 4 szlaban, Gdańsk"
+    },
+    {
+      "id": 12321,
+      "ids": [
+        "12321"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Stolarska 4",
+      "query": "ul. Stolarska 4, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.355335,
+        "lon": 18.6537984,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12321,
+          "id": "12321",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Stolarska 4",
+          "lat": 54.355335,
+          "lon": 18.6537984,
+          "note": "parking przy bloku"
+        }
+      ],
+      "search_terms": "ul. Stolarska 4"
+    },
+    {
+      "id": 12315,
+      "ids": [
+        "12315"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Stolema 54",
+      "query": "ul. Stolema 54, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.342484,
+        "lon": 18.562324,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12315,
+          "id": "12315",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Stolema 54",
+          "lat": 54.342484,
+          "lon": 18.562324,
+          "note": "parking przy bloku"
+        }
+      ],
+      "search_terms": "ul. Stolema 54"
+    },
+    {
+      "id": 12393,
+      "ids": [
+        "12393"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Szafarnia 10",
+      "query": "ul. Szafarnia 10, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.347437,
+        "lon": 18.661517,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12393,
+          "id": "12393",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Szafarnia 10",
+          "lat": 54.347437,
+          "lon": 18.661517,
+          "note": "obok altany śmietnikowej"
+        }
+      ],
+      "search_terms": "ul. Szafarnia 10"
+    },
+    {
+      "id": 12371,
+      "ids": [
+        "12371",
+        "7573"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Śląska 33 G",
+      "query": "ul. Śląska 33 G, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.407594,
+        "lon": 18.586963,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12371,
+          "id": "12371",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Śląska 33 G",
+          "lat": 54.407594,
+          "lon": 18.586963,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107573,
+          "id": "7573",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Śląska 33 G, Gdańsk",
+          "lat": 54.407594,
+          "lon": 18.586963,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Śląska 33 G ul. Śląska 33 G, Gdańsk"
+    },
+    {
+      "id": 12395,
+      "ids": [
+        "12395",
+        "7595"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Trawki 9 - 17",
+      "query": "ul. Trawki 9 - 17, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.378849,
+        "lon": 18.57456,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12395,
+          "id": "12395",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Trawki 9 - 17",
+          "lat": 54.378849,
+          "lon": 18.57456,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107595,
+          "id": "7595",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Trawki 9 - 17, Gdańsk",
+          "lat": 54.378849,
+          "lon": 18.57456,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Trawki 9 - 17 ul. Trawki 9 - 17, Gdańsk"
+    },
+    {
+      "id": 12310,
+      "ids": [
+        "12310"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Ujeścisko 18",
+      "query": "ul. Ujeścisko 18, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.343966,
+        "lon": 18.591991,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12310,
+          "id": "12310",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Ujeścisko 18",
+          "lat": 54.343966,
+          "lon": 18.591991,
+          "note": "obok altany śmietnikowej"
+        }
+      ],
+      "search_terms": "ul. Ujeścisko 18"
+    },
+    {
+      "id": 21115,
+      "ids": [
+        "21115",
+        "7565"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Warneńska 12A",
+      "query": "ul. Warneńska 12A, GDAŃSK",
+      "note": "",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.35718,
+        "lon": 18.58624,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 21115,
+          "id": "21115",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Warneńska 12A",
+          "lat": 54.35718,
+          "lon": 18.58624,
+          "note": ""
+        },
+        {
+          "record_id": 107565,
+          "id": "7565",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Warneńska 12 A, Gdańsk",
+          "lat": 54.357179,
+          "lon": 18.586244,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul. Warneńska 12A ul. Warneńska 12 A, Gdańsk"
+    },
+    {
+      "id": 21231,
+      "ids": [
+        "21231",
+        "9375"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Ul. Wilanowska 12",
+      "query": "Ul. Wilanowska 12, GDAŃSK",
+      "note": "",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.334168,
+        "lon": 18.601095,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 21231,
+          "id": "21231",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Ul. Wilanowska 12",
+          "lat": 54.334168,
+          "lon": 18.601095,
+          "note": ""
+        },
+        {
+          "record_id": 109375,
+          "id": "9375",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "Wilanowska 12, Gdańsk",
+          "lat": 54.334168,
+          "lon": 18.601095,
+          "note": ""
+        }
+      ],
+      "search_terms": "Ul. Wilanowska 12 Wilanowska 12, Gdańsk"
+    },
+    {
+      "id": 12290,
+      "ids": [
+        "12290"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Witosa 27/Marcina Dragana 26",
+      "query": "ul. Witosa 27/Marcina Dragana 26, GDAŃSK",
+      "note": "wolnostojący na osiedlu",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3394083,
+        "lon": 18.6161933,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12290,
+          "id": "12290",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Witosa 27/Marcina Dragana 26",
+          "lat": 54.3394083,
+          "lon": 18.6161933,
+          "note": "wolnostojący na osiedlu"
+        }
+      ],
+      "search_terms": "ul. Witosa 27/Marcina Dragana 26"
+    },
+    {
+      "id": 12307,
+      "ids": [
+        "12307",
+        "7518"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Chłopska 22",
+      "query": "ul.Chłopska 22, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.411099,
+        "lon": 18.589048,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12307,
+          "id": "12307",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Chłopska 22",
+          "lat": 54.411099,
+          "lon": 18.589048,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107518,
+          "id": "7518",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Chłopska 22, Gdańsk",
+          "lat": 54.411099,
+          "lon": 18.589048,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Chłopska 22 ul.Chłopska 22, Gdańsk"
+    },
+    {
+      "id": 12339,
+      "ids": [
+        "12339",
+        "7544"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Chodkiewicza 11",
+      "query": "ul.Chodkiewicza 11, GDAŃSK",
+      "note": "Parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.4056341,
+        "lon": 18.6278572,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12339,
+          "id": "12339",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Chodkiewicza 11",
+          "lat": 54.4056341,
+          "lon": 18.6278572,
+          "note": "Parking"
+        },
+        {
+          "record_id": 107544,
+          "id": "7544",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Chodkiewicza 11, Gdańsk",
+          "lat": 54.4056341,
+          "lon": 18.6278572,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Chodkiewicza 11 ul. Chodkiewicza 11, Gdańsk"
+    },
+    {
+      "id": 12345,
+      "ids": [
+        "12345",
+        "7550"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Dickensa 3",
+      "query": "ul.Dickensa 3, GDAŃSK",
+      "note": "Parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3568915,
+        "lon": 18.6873391,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12345,
+          "id": "12345",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Dickensa 3",
+          "lat": 54.3568915,
+          "lon": 18.6873391,
+          "note": "Parking"
+        },
+        {
+          "record_id": 107550,
+          "id": "7550",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Dickensa 3, Gdańsk",
+          "lat": 54.3568915,
+          "lon": 18.6873391,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Dickensa 3 ul.Dickensa 3, Gdańsk"
+    },
+    {
+      "id": 12343,
+      "ids": [
+        "12343",
+        "7547"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Długie Ogrody 2",
+      "query": "ul.Długie Ogrody 2, GDAŃSK",
+      "note": "parking przy bloku Źródła podają różne opisy adresu. Zachowano je poniżej; scalenie nie potwierdza liczby pojemników.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3467612,
+        "lon": 18.6622215,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12343,
+          "id": "12343",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Długie Ogrody 2",
+          "lat": 54.3467612,
+          "lon": 18.6622215,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107547,
+          "id": "7547",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Długie Ogrody 2 -4, Gdańsk",
+          "lat": 54.3467612,
+          "lon": 18.6622215,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Długie Ogrody 2 ul.Długie Ogrody 2 -4, Gdańsk"
+    },
+    {
+      "id": 12341,
+      "ids": [
+        "12341",
+        "7546"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Kołobrzeska 20",
+      "query": "ul.Kołobrzeska 20, GDAŃSK",
+      "note": "Parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.403645,
+        "lon": 18.5834017,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12341,
+          "id": "12341",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Kołobrzeska 20",
+          "lat": 54.403645,
+          "lon": 18.5834017,
+          "note": "Parking"
+        },
+        {
+          "record_id": 107546,
+          "id": "7546",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Kołobrzeska 20, Gdańsk",
+          "lat": 54.403645,
+          "lon": 18.5834017,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Kołobrzeska 20 ul.Kołobrzeska 20, Gdańsk"
+    },
+    {
+      "id": 12373,
+      "ids": [
+        "12373",
+        "7575"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Kołobrzeska 69",
+      "query": "ul.Kołobrzeska 69, GDAŃSK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.407834,
+        "lon": 18.600224,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12373,
+          "id": "12373",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Kołobrzeska 69",
+          "lat": 54.407834,
+          "lon": 18.600224,
+          "note": "wolnostojący"
+        },
+        {
+          "record_id": 107575,
+          "id": "7575",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Kołobrzeska 69, Gdańsk",
+          "lat": 54.407834,
+          "lon": 18.600224,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Kołobrzeska 69 ul.Kołobrzeska 69, Gdańsk"
+    },
+    {
+      "id": 12304,
+      "ids": [
+        "12304"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Krzemowa 8",
+      "query": "ul.Krzemowa 8, GDAŃSK",
+      "note": "Krzemowa – plac przy garażach",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3261962,
+        "lon": 18.6182355,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12304,
+          "id": "12304",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Krzemowa 8",
+          "lat": 54.3261962,
+          "lon": 18.6182355,
+          "note": "Krzemowa – plac przy garażach"
+        }
+      ],
+      "search_terms": "ul.Krzemowa 8"
+    },
+    {
+      "id": 12299,
+      "ids": [
+        "12299"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Międzygwiezdna 2,",
+      "query": "ul.Międzygwiezdna 2,, GDAŃSK",
+      "note": "",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.4190373,
+        "lon": 18.4791477,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12299,
+          "id": "12299",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Międzygwiezdna 2,",
+          "lat": 54.4190373,
+          "lon": 18.4791477,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Międzygwiezdna 2,"
+    },
+    {
+      "id": 12324,
+      "ids": [
+        "12324",
+        "7533"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Paderewskiego 4",
+      "query": "ul.Paderewskiego 4, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3522292,
+        "lon": 18.6089939,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12324,
+          "id": "12324",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Paderewskiego 4",
+          "lat": 54.3522292,
+          "lon": 18.6089939,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107533,
+          "id": "7533",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Paderewskiego 4, Gdańsk",
+          "lat": 54.3522292,
+          "lon": 18.6089939,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Paderewskiego 4 ul.Paderewskiego 4, Gdańsk"
+    },
+    {
+      "id": 12331,
+      "ids": [
+        "12331",
+        "7540"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Piotrkowska 47",
+      "query": "ul.Piotrkowska 47, GDAŃSK",
+      "note": "parking przy bloku Źródła podają różne opisy adresu. Zachowano je poniżej; scalenie nie potwierdza liczby pojemników.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3277017,
+        "lon": 18.57859,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12331,
+          "id": "12331",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Piotrkowska 47",
+          "lat": 54.3277017,
+          "lon": 18.57859,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107540,
+          "id": "7540",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Piotrkowska 45A, Gdańsk",
+          "lat": 54.3277017,
+          "lon": 18.57859,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Piotrkowska 47 ul.Piotrkowska 45A, Gdańsk"
+    },
+    {
+      "id": 12327,
+      "ids": [
+        "12327",
+        "7536"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Słowackiego 67",
+      "query": "ul.Słowackiego 67, GDAŃSK",
+      "note": "parking przy bloku Źródła podają różne opisy adresu. Zachowano je poniżej; scalenie nie potwierdza liczby pojemników.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.37931,
+        "lon": 18.576935,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12327,
+          "id": "12327",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Słowackiego 67",
+          "lat": 54.37931,
+          "lon": 18.576935,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107536,
+          "id": "7536",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Słowackiego 71, Gdańsk",
+          "lat": 54.37931,
+          "lon": 18.576935,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Słowackiego 67 ul.Słowackiego 71, Gdańsk"
+    },
+    {
+      "id": 12337,
+      "ids": [
+        "12337",
+        "7543"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Starowiejska 41",
+      "query": "ul.Starowiejska 41, GDAŃSK",
+      "note": "Obok sklepu",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.390896,
+        "lon": 18.6487354,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12337,
+          "id": "12337",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Starowiejska 41",
+          "lat": 54.390896,
+          "lon": 18.6487354,
+          "note": "Obok sklepu"
+        },
+        {
+          "record_id": 107543,
+          "id": "7543",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Starowiejska 41, Gdańsk",
+          "lat": 54.390896,
+          "lon": 18.6487354,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Starowiejska 41 ul.Starowiejska 41, Gdańsk"
+    },
+    {
+      "id": 12332,
+      "ids": [
+        "12332",
+        "7541"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Szuwary 3AB",
+      "query": "ul.Szuwary 3AB, GDAŃSK",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3438871,
+        "lon": 18.6618918,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12332,
+          "id": "12332",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Szuwary 3AB",
+          "lat": 54.3438871,
+          "lon": 18.6618918,
+          "note": "obok altany śmietnikowej"
+        },
+        {
+          "record_id": 107541,
+          "id": "7541",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Szuwary 3AB, Gdańsk",
+          "lat": 54.3438871,
+          "lon": 18.6618918,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Szuwary 3AB ul.Szuwary 3AB, Gdańsk"
+    },
+    {
+      "id": 12329,
+      "ids": [
+        "12329",
+        "7538"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Tamka 8 lub 10",
+      "query": "ul.Tamka 8 lub 10, GDAŃSK",
+      "note": "parking przy bloku Źródła podają różne opisy adresu. Zachowano je poniżej; scalenie nie potwierdza liczby pojemników.",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.358685,
+        "lon": 18.7069933,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12329,
+          "id": "12329",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Tamka 8 lub 10",
+          "lat": 54.358685,
+          "lon": 18.7069933,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107538,
+          "id": "7538",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Tamka 8, Gdańsk",
+          "lat": 54.358685,
+          "lon": 18.7069933,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Tamka 8 lub 10 ul.Tamka 8, Gdańsk"
+    },
+    {
+      "id": 12334,
+      "ids": [
+        "12334",
+        "7542"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul.Ubocze 24",
+      "query": "ul.Ubocze 24, GDAŃSK",
+      "note": "parking przy bloku",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.327675,
+        "lon": 18.6374933,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12334,
+          "id": "12334",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul.Ubocze 24",
+          "lat": 54.327675,
+          "lon": 18.6374933,
+          "note": "parking przy bloku"
+        },
+        {
+          "record_id": 107542,
+          "id": "7542",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul.Ubocze 24, Gdańsk",
+          "lat": 54.327675,
+          "lon": 18.6374933,
+          "note": ""
+        }
+      ],
+      "search_terms": "ul.Ubocze 24 ul.Ubocze 24, Gdańsk"
+    },
+    {
+      "id": 12380,
+      "ids": [
+        "12380",
+        "7582"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Wigierska 32",
+      "query": "Wigierska 32, GDAŃSK",
+      "note": "na parkingu",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.313959,
+        "lon": 18.610766,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12380,
+          "id": "12380",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Wigierska 32",
+          "lat": 54.313959,
+          "lon": 18.610766,
+          "note": "na parkingu"
+        },
+        {
+          "record_id": 107582,
+          "id": "7582",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul Wigierska 32, Gdańsk",
+          "lat": 54.313959,
+          "lon": 18.610766,
+          "note": ""
+        }
+      ],
+      "search_terms": "Wigierska 32 ul Wigierska 32, Gdańsk"
+    },
+    {
+      "id": 12298,
+      "ids": [
+        "12298",
+        "7511"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Wita Stwosza 50",
+      "query": "Wita Stwosza 50, GDAŃSK",
+      "note": "",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci · Czyste Miasto Gdańsk",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.3980267,
+        "lon": 18.5680917,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12298,
+          "id": "12298",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Wita Stwosza 50",
+          "lat": 54.3980267,
+          "lon": 18.5680917,
+          "note": ""
+        },
+        {
+          "record_id": 107511,
+          "id": "7511",
+          "name": "Czyste Miasto Gdańsk",
+          "url": "https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/",
+          "address": "ul. Wita Stwosza 50, Gdańsk",
+          "lat": 54.3980267,
+          "lon": 18.5680917,
+          "note": ""
+        }
+      ],
+      "search_terms": "Wita Stwosza 50 ul. Wita Stwosza 50, Gdańsk"
+    },
+    {
+      "id": 20187,
+      "ids": [
+        "20187"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Wyzwolenia 51",
+      "query": "Wyzwolenia 51, GDAŃSK",
+      "note": "Parking Pomiędzy Blokami",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.40072,
+        "lon": 18.662403,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 20187,
+          "id": "20187",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Wyzwolenia 51",
+          "lat": 54.40072,
+          "lon": 18.662403,
+          "note": "Parking Pomiędzy Blokami"
+        }
+      ],
+      "search_terms": "Wyzwolenia 51"
+    },
+    {
+      "id": 12388,
+      "ids": [
+        "12388"
+      ],
+      "city": "GDAŃSK",
+      "county": "Gdańsk",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ZASTAWNA 25",
+      "query": "ZASTAWNA 25, GDAŃSK",
+      "note": "na parkingu obok paczkomatu",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.24347611455321,
+        "lon": 18.622828467622,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12388,
+          "id": "12388",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ZASTAWNA 25",
+          "lat": 54.24347611455321,
+          "lon": 18.622828467622,
+          "note": "na parkingu obok paczkomatu"
+        }
+      ],
+      "search_terms": "ZASTAWNA 25"
+    },
+    {
+      "id": 19492,
+      "ids": [
+        "19492"
+      ],
+      "city": "GDYNIA",
+      "county": "Gdynia",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "MPS II 1",
+      "query": "MPS II 1, GDYNIA",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.492804,
+        "lon": 18.510109,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 19492,
+          "id": "19492",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "MPS II 1",
+          "lat": 54.492804,
+          "lon": 18.510109,
+          "note": "wolnostojący"
+        }
+      ],
+      "search_terms": "MPS II 1"
+    },
+    {
+      "id": 19493,
+      "ids": [
+        "19493"
+      ],
+      "city": "GDYNIA",
+      "county": "Gdynia",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "MPS II 8",
+      "query": "MPS II 8, GDYNIA",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.490967,
+        "lon": 18.512649,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 19493,
+          "id": "19493",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "MPS II 8",
+          "lat": 54.490967,
+          "lon": 18.512649,
+          "note": "obok altany śmietnikowej"
+        }
+      ],
+      "search_terms": "MPS II 8"
+    },
+    {
+      "id": 19490,
+      "ids": [
+        "19490"
+      ],
+      "city": "GDYNIA",
+      "county": "Gdynia",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "obok pojemników",
+      "query": "obok pojemników, GDYNIA",
+      "note": "ul. Wielkokacka 18",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.493489,
+        "lon": 18.506399,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 19490,
+          "id": "19490",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "obok pojemników",
+          "lat": 54.493489,
+          "lon": 18.506399,
+          "note": "ul. Wielkokacka 18"
+        }
+      ],
+      "search_terms": "obok pojemników"
+    },
+    {
+      "id": 19494,
+      "ids": [
+        "19494"
+      ],
+      "city": "GDYNIA",
+      "county": "Gdynia",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "PCK 7",
+      "query": "PCK 7, GDYNIA",
+      "note": "pod kościołem",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.498107,
+        "lon": 18.512584,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 19494,
+          "id": "19494",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "PCK 7",
+          "lat": 54.498107,
+          "lon": 18.512584,
+          "note": "pod kościołem"
+        }
+      ],
+      "search_terms": "PCK 7"
+    },
+    {
+      "id": 19488,
+      "ids": [
+        "19488"
+      ],
+      "city": "GDYNIA",
+      "county": "Gdynia",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Hodowlana 13",
+      "query": "ul. Hodowlana 13, GDYNIA",
+      "note": "parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.496672,
+        "lon": 18.501216,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 19488,
+          "id": "19488",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Hodowlana 13",
+          "lat": 54.496672,
+          "lon": 18.501216,
+          "note": "parking"
+        }
+      ],
+      "search_terms": "ul. Hodowlana 13"
+    },
+    {
+      "id": 19495,
+      "ids": [
+        "19495"
+      ],
+      "city": "GDYNIA",
+      "county": "Gdynia",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Narcyzowa 10",
+      "query": "ul. Narcyzowa 10, GDYNIA",
+      "note": "parking między blokami",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.498472,
+        "lon": 18.518093,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 19495,
+          "id": "19495",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Narcyzowa 10",
+          "lat": 54.498472,
+          "lon": 18.518093,
+          "note": "parking między blokami"
+        }
+      ],
+      "search_terms": "ul. Narcyzowa 10"
+    },
+    {
+      "id": 19497,
+      "ids": [
+        "19497"
+      ],
+      "city": "GDYNIA",
+      "county": "Gdynia",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Nauczycielska 7",
+      "query": "ul. Nauczycielska 7, GDYNIA",
+      "note": "parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.501398,
+        "lon": 18.502825,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 19497,
+          "id": "19497",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Nauczycielska 7",
+          "lat": 54.501398,
+          "lon": 18.502825,
+          "note": "parking"
+        }
+      ],
+      "search_terms": "ul. Nauczycielska 7"
+    },
+    {
+      "id": 19489,
+      "ids": [
+        "19489"
+      ],
+      "city": "GDYNIA",
+      "county": "Gdynia",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Pionierów 1",
+      "query": "ul. Pionierów 1, GDYNIA",
+      "note": "parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.498503,
+        "lon": 18.506492,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 19489,
+          "id": "19489",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Pionierów 1",
+          "lat": 54.498503,
+          "lon": 18.506492,
+          "note": "parking"
+        }
+      ],
+      "search_terms": "ul. Pionierów 1"
+    },
+    {
+      "id": 19491,
+      "ids": [
+        "19491"
+      ],
+      "city": "GDYNIA",
+      "county": "Gdynia",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Stawna 1",
+      "query": "ul. Stawna 1, GDYNIA",
+      "note": "obok altany śmietnikowej",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.495531,
+        "lon": 18.509508,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 19491,
+          "id": "19491",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Stawna 1",
+          "lat": 54.495531,
+          "lon": 18.509508,
+          "note": "obok altany śmietnikowej"
+        }
+      ],
+      "search_terms": "ul. Stawna 1"
+    },
+    {
+      "id": 19496,
+      "ids": [
+        "19496"
+      ],
+      "city": "GDYNIA",
+      "county": "Gdynia",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Strażacka 10",
+      "query": "ul. Strażacka 10, GDYNIA",
+      "note": "parking - koło pojemników kolorowych",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.500606,
+        "lon": 18.5103,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 19496,
+          "id": "19496",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Strażacka 10",
+          "lat": 54.500606,
+          "lon": 18.5103,
+          "note": "parking - koło pojemników kolorowych"
+        }
+      ],
+      "search_terms": "ul. Strażacka 10"
+    },
+    {
+      "id": 20007,
+      "ids": [
+        "20007"
+      ],
+      "city": "MALBORK",
+      "county": "Malborski",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Chopina",
+      "query": "Chopina, MALBORK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.036867,
+        "lon": 19.045661,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 20007,
+          "id": "20007",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Chopina",
+          "lat": 54.036867,
+          "lon": 19.045661,
+          "note": "wolnostojący"
+        }
+      ],
+      "search_terms": "Chopina"
+    },
+    {
+      "id": 20009,
+      "ids": [
+        "20009"
+      ],
+      "city": "MALBORK",
+      "county": "Malborski",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Plac Narutowicza",
+      "query": "Plac Narutowicza, MALBORK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.038394,
+        "lon": 19.032821,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 20009,
+          "id": "20009",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Plac Narutowicza",
+          "lat": 54.038394,
+          "lon": 19.032821,
+          "note": "wolnostojący"
+        }
+      ],
+      "search_terms": "Plac Narutowicza"
+    },
+    {
+      "id": 20008,
+      "ids": [
+        "20008"
+      ],
+      "city": "MALBORK",
+      "county": "Malborski",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Sienkiewicza",
+      "query": "Sienkiewicza, MALBORK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.033922,
+        "lon": 19.034132,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 20008,
+          "id": "20008",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Sienkiewicza",
+          "lat": 54.033922,
+          "lon": 19.034132,
+          "note": "wolnostojący"
+        }
+      ],
+      "search_terms": "Sienkiewicza"
+    },
+    {
+      "id": 15403,
+      "ids": [
+        "15403"
+      ],
+      "city": "MALBORK",
+      "county": "Malborski",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Główna 2",
+      "query": "ul. Główna 2, MALBORK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.04307414480637,
+        "lon": 19.023728737431192,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 15403,
+          "id": "15403",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Główna 2",
+          "lat": 54.04307414480637,
+          "lon": 19.023728737431192,
+          "note": "wolnostojący"
+        }
+      ],
+      "search_terms": "ul. Główna 2"
+    },
+    {
+      "id": 15405,
+      "ids": [
+        "15405"
+      ],
+      "city": "MALBORK",
+      "county": "Malborski",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Józefa Wybickiego 12",
+      "query": "ul. Józefa Wybickiego 12, MALBORK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.02606215298458,
+        "lon": 19.038537128315873,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 15405,
+          "id": "15405",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Józefa Wybickiego 12",
+          "lat": 54.02606215298458,
+          "lon": 19.038537128315873,
+          "note": "wolnostojący"
+        }
+      ],
+      "search_terms": "ul. Józefa Wybickiego 12"
+    },
+    {
+      "id": 12752,
+      "ids": [
+        "12752"
+      ],
+      "city": "MALBORK",
+      "county": "Malborski",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Koszalińska 3",
+      "query": "ul. Koszalińska 3, MALBORK",
+      "note": "obok Biedronki",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.018796,
+        "lon": 19.014897,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12752,
+          "id": "12752",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Koszalińska 3",
+          "lat": 54.018796,
+          "lon": 19.014897,
+          "note": "obok Biedronki"
+        }
+      ],
+      "search_terms": "ul. Koszalińska 3"
+    },
+    {
+      "id": 15402,
+      "ids": [
+        "15402"
+      ],
+      "city": "MALBORK",
+      "county": "Malborski",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Plac Kusocińskiego 3",
+      "query": "ul. Plac Kusocińskiego 3, MALBORK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.02308020666847,
+        "lon": 19.055020279760065,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 15402,
+          "id": "15402",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Plac Kusocińskiego 3",
+          "lat": 54.02308020666847,
+          "lon": 19.055020279760065,
+          "note": "wolnostojący"
+        }
+      ],
+      "search_terms": "ul. Plac Kusocińskiego 3"
+    },
+    {
+      "id": 12753,
+      "ids": [
+        "12753"
+      ],
+      "city": "MALBORK",
+      "county": "Malborski",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Żeromskiego 18",
+      "query": "ul. Żeromskiego 18, MALBORK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.033535,
+        "lon": 19.0296,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 12753,
+          "id": "12753",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Żeromskiego 18",
+          "lat": 54.033535,
+          "lon": 19.0296,
+          "note": "wolnostojący"
+        }
+      ],
+      "search_terms": "ul. Żeromskiego 18"
+    },
+    {
+      "id": 15404,
+      "ids": [
+        "15404"
+      ],
+      "city": "MALBORK",
+      "county": "Malborski",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Żeromskiego 45 C",
+      "query": "ul. Żeromskiego 45 C, MALBORK",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.03388902252088,
+        "lon": 19.025043271163955,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 15404,
+          "id": "15404",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Żeromskiego 45 C",
+          "lat": 54.03388902252088,
+          "lon": 19.025043271163955,
+          "note": "wolnostojący"
+        }
+      ],
+      "search_terms": "ul. Żeromskiego 45 C"
+    },
+    {
+      "id": 13016,
+      "ids": [
+        "13016"
+      ],
+      "city": "PRUSZCZ GDAŃSKI",
+      "county": "Gdański",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "parking przy Parku Kulturowym Faktoria",
+      "query": "parking przy Parku Kulturowym Faktoria, PRUSZCZ GDAŃSKI",
+      "note": "parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.2534716,
+        "lon": 18.6308754,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13016,
+          "id": "13016",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "parking przy Parku Kulturowym Faktoria",
+          "lat": 54.2534716,
+          "lon": 18.6308754,
+          "note": "parking"
+        }
+      ],
+      "search_terms": "parking przy Parku Kulturowym Faktoria"
+    },
+    {
+      "id": 13014,
+      "ids": [
+        "13014"
+      ],
+      "city": "PRUSZCZ GDAŃSKI",
+      "county": "Gdański",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Chopina 38",
+      "query": "ul. Chopina 38, PRUSZCZ GDAŃSKI",
+      "note": "parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.2605734,
+        "lon": 18.6502274,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13014,
+          "id": "13014",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Chopina 38",
+          "lat": 54.2605734,
+          "lon": 18.6502274,
+          "note": "parking"
+        }
+      ],
+      "search_terms": "ul. Chopina 38"
+    },
+    {
+      "id": 13013,
+      "ids": [
+        "13013"
+      ],
+      "city": "PRUSZCZ GDAŃSKI",
+      "county": "Gdański",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Dworcowa Park&Ride",
+      "query": "ul. Dworcowa Park&Ride, PRUSZCZ GDAŃSKI",
+      "note": "parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.2578545,
+        "lon": 18.6456559,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13013,
+          "id": "13013",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Dworcowa Park&Ride",
+          "lat": 54.2578545,
+          "lon": 18.6456559,
+          "note": "parking"
+        }
+      ],
+      "search_terms": "ul. Dworcowa Park&Ride"
+    },
+    {
+      "id": 13011,
+      "ids": [
+        "13011"
+      ],
+      "city": "PRUSZCZ GDAŃSKI",
+      "county": "Gdański",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Grunwaldzka 20",
+      "query": "ul. Grunwaldzka 20, PRUSZCZ GDAŃSKI",
+      "note": "parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.2596372,
+        "lon": 18.6344487,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13011,
+          "id": "13011",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Grunwaldzka 20",
+          "lat": 54.2596372,
+          "lon": 18.6344487,
+          "note": "parking"
+        }
+      ],
+      "search_terms": "ul. Grunwaldzka 20"
+    },
+    {
+      "id": 13015,
+      "ids": [
+        "13015"
+      ],
+      "city": "PRUSZCZ GDAŃSKI",
+      "county": "Gdański",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Jana Kasprowicza 16",
+      "query": "ul. Jana Kasprowicza 16, PRUSZCZ GDAŃSKI",
+      "note": "parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.2641917,
+        "lon": 18.6699,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13015,
+          "id": "13015",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Jana Kasprowicza 16",
+          "lat": 54.2641917,
+          "lon": 18.6699,
+          "note": "parking"
+        }
+      ],
+      "search_terms": "ul. Jana Kasprowicza 16"
+    },
+    {
+      "id": 13012,
+      "ids": [
+        "13012"
+      ],
+      "city": "PRUSZCZ GDAŃSKI",
+      "county": "Gdański",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Obrońców Poczty Polskiej 9",
+      "query": "ul. Obrońców Poczty Polskiej 9, PRUSZCZ GDAŃSKI",
+      "note": "parking",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.2632879,
+        "lon": 18.6383545,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13012,
+          "id": "13012",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Obrońców Poczty Polskiej 9",
+          "lat": 54.2632879,
+          "lon": 18.6383545,
+          "note": "parking"
+        }
+      ],
+      "search_terms": "ul. Obrońców Poczty Polskiej 9"
+    },
+    {
+      "id": 13217,
+      "ids": [
+        "13217"
+      ],
+      "city": "STAROGARD GDAŃSKI",
+      "county": "Starogardzki",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Os. Konstytucji 3 Maja 18",
+      "query": "Os. Konstytucji 3 Maja 18, STAROGARD GDAŃSKI",
+      "note": "obok pojemników na segregowane odpady",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 53.9650387,
+        "lon": 18.5109222,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13217,
+          "id": "13217",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Os. Konstytucji 3 Maja 18",
+          "lat": 53.9650387,
+          "lon": 18.5109222,
+          "note": "obok pojemników na segregowane odpady"
+        }
+      ],
+      "search_terms": "Os. Konstytucji 3 Maja 18"
+    },
+    {
+      "id": 13216,
+      "ids": [
+        "13216"
+      ],
+      "city": "STAROGARD GDAŃSKI",
+      "county": "Starogardzki",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Os. Kopernika 23",
+      "query": "Os. Kopernika 23, STAROGARD GDAŃSKI",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 53.9595395,
+        "lon": 18.5277408,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13216,
+          "id": "13216",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Os. Kopernika 23",
+          "lat": 53.9595395,
+          "lon": 18.5277408,
+          "note": "wolnostojący"
+        }
+      ],
+      "search_terms": "Os. Kopernika 23"
+    },
+    {
+      "id": 13218,
+      "ids": [
+        "13218"
+      ],
+      "city": "STAROGARD GDAŃSKI",
+      "county": "Starogardzki",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Os. Piastów 1",
+      "query": "Os. Piastów 1, STAROGARD GDAŃSKI",
+      "note": "obok pojemników na segregowane odpady",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 53.962683,
+        "lon": 18.5011579,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13218,
+          "id": "13218",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Os. Piastów 1",
+          "lat": 53.962683,
+          "lon": 18.5011579,
+          "note": "obok pojemników na segregowane odpady"
+        }
+      ],
+      "search_terms": "Os. Piastów 1"
+    },
+    {
+      "id": 13221,
+      "ids": [
+        "13221"
+      ],
+      "city": "STAROGARD GDAŃSKI",
+      "county": "Starogardzki",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Kalinowa 11 A",
+      "query": "ul. Kalinowa 11 A, STAROGARD GDAŃSKI",
+      "note": "obok placu zabaw os. Przylesie",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 53.935972,
+        "lon": 18.506361,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13221,
+          "id": "13221",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Kalinowa 11 A",
+          "lat": 53.935972,
+          "lon": 18.506361,
+          "note": "obok placu zabaw os. Przylesie"
+        }
+      ],
+      "search_terms": "ul. Kalinowa 11 A"
+    },
+    {
+      "id": 13220,
+      "ids": [
+        "13220"
+      ],
+      "city": "STAROGARD GDAŃSKI",
+      "county": "Starogardzki",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Kleberga 11",
+      "query": "ul. Kleberga 11, STAROGARD GDAŃSKI",
+      "note": "wolnostojący",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 53.9846538,
+        "lon": 18.4935025,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13220,
+          "id": "13220",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Kleberga 11",
+          "lat": 53.9846538,
+          "lon": 18.4935025,
+          "note": "wolnostojący"
+        }
+      ],
+      "search_terms": "ul. Kleberga 11"
+    },
+    {
+      "id": 13222,
+      "ids": [
+        "13222"
+      ],
+      "city": "STAROGARD GDAŃSKI",
+      "county": "Starogardzki",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Korczaka 21-22",
+      "query": "ul. Korczaka 21-22, STAROGARD GDAŃSKI",
+      "note": "obok pojemnika na tekstylia",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 53.9776208,
+        "lon": 18.537562,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13222,
+          "id": "13222",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Korczaka 21-22",
+          "lat": 53.9776208,
+          "lon": 18.537562,
+          "note": "obok pojemnika na tekstylia"
+        }
+      ],
+      "search_terms": "ul. Korczaka 21-22"
+    },
+    {
+      "id": 13219,
+      "ids": [
+        "13219"
+      ],
+      "city": "STAROGARD GDAŃSKI",
+      "county": "Starogardzki",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Pomorska 4 A",
+      "query": "ul. Pomorska 4 A, STAROGARD GDAŃSKI",
+      "note": "Parking przy kościele św. Wojciecha",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 53.9621658,
+        "lon": 18.5328857,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13219,
+          "id": "13219",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Pomorska 4 A",
+          "lat": 53.9621658,
+          "lon": 18.5328857,
+          "note": "Parking przy kościele św. Wojciecha"
+        }
+      ],
+      "search_terms": "ul. Pomorska 4 A"
+    },
+    {
+      "id": 13215,
+      "ids": [
+        "13215"
+      ],
+      "city": "STAROGARD GDAŃSKI",
+      "county": "Starogardzki",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "ul. Wybickiego 12",
+      "query": "ul. Wybickiego 12, STAROGARD GDAŃSKI",
+      "note": "obok pojemników na segregowane odpady",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 53.9741679,
+        "lon": 18.5292363,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13215,
+          "id": "13215",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "ul. Wybickiego 12",
+          "lat": 53.9741679,
+          "lon": 18.5292363,
+          "note": "obok pojemników na segregowane odpady"
+        }
+      ],
+      "search_terms": "ul. Wybickiego 12"
+    },
+    {
+      "id": 13231,
+      "ids": [
+        "13231"
+      ],
+      "city": "SWAROŻYN",
+      "county": "Tczewski",
+      "municipality": "",
+      "district_pdf": "",
+      "address_pdf": "Swarożyn WYZWOLENIA 21D",
+      "query": "Swarożyn WYZWOLENIA 21D, SWAROŻYN",
+      "note": "na parkingu obok paczkomatu",
+      "source": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+      "source_name": "Elektryczne Śmieci",
+      "pages": [],
+      "geo": {
+        "status": "source",
+        "lat": 54.04245522176594,
+        "lon": 18.676167605058,
+        "detail": "Współrzędne z mapy źródłowej, bez weryfikacji w terenie. Pojemnik może znajdować się w sąsiedztwie adresu."
+      },
+      "sources": [
+        {
+          "record_id": 13231,
+          "id": "13231",
+          "name": "Elektryczne Śmieci",
+          "url": "https://elektrycznesmieci.pl/mapa-pojemnikow/",
+          "address": "Swarożyn WYZWOLENIA 21D",
+          "lat": 54.04245522176594,
+          "lon": 18.676167605058,
+          "note": "na parkingu obok paczkomatu"
+        }
+      ],
+      "search_terms": "Swarożyn WYZWOLENIA 21D"
+    }
+  ],
+  "metadata": {
+    "version": 1,
+    "date": "2026-10-02",
+    "sourceRecords": 227,
+    "locations": 143,
+    "mergedRecords": 84,
+    "reviewed": [
+      {
+        "ids": [
+          21244,
+          109298
+        ],
+        "reason": "Cmentarz Łostowicki: nazwa obiektu i adres Cedrowa 40 mają identyczne współrzędne."
+      },
+      {
+        "ids": [
+          21243,
+          109301
+        ],
+        "reason": "Cmentarz Srebrzysko: nazwa obiektu i adres Srebrniki 12 mają identyczne współrzędne."
+      },
+      {
+        "ids": [
+          19930,
+          107601
+        ],
+        "reason": "Kartuska 459 / 459C: połączono warianty numeru przy przesunięciu ok. 22 m. Pobliskiej Fabrycznej nie scalono."
+      },
+      {
+        "ids": [
+          12387,
+          21084
+        ],
+        "reason": "Karpacka 2: sprzeczne współrzędne w dwóch wpisach operatora. Wybrano pozycję zgodną z mapą miejską; drugą pozycję zachowano w źródłach."
+      }
+    ]
+  }
 }

@@ -1,11 +1,18 @@
 # Gdzie wyrzucić — szmaty i elektronika w Pomorskiem
 
-Nagłówek pozwala wybrać frakcję: szmaty lub elektronika. Link „Źródła i dokładność” w stopce opisuje aktualnie wybraną frakcję. Eksport CSV, GeoJSON i KML obejmuje wybraną frakcję i wykaz; zapis HTML zachowuje wszystkie dane obu frakcji.
+Nagłówek pozwala wybrać frakcję: szmaty lub elektronika. Link „Źródła i dokładność” w stopce opisuje aktualnie wybraną frakcję. Eksport CSV, GeoJSON i KML obejmuje wybraną frakcję; zapis HTML zachowuje wszystkie dane obu frakcji.
 
-Przy otwarciu mapa jednorazowo prosi przeglądarkę o lokalizację. Po uzyskaniu zgody i pozycji przybliża okolicę użytkownika (zoom 15). Przełączenie frakcji lub wykazu wraca do tej pozycji i przybliżenia bez ponownego pobierania lokalizacji. Gdy pozycja nie jest znana, pokazuje cały wybrany wykaz. Odmowa, błąd, przekroczenie limitu 15 sekund lub brak obsługi lokalizacji powodują pokazanie całego wybranego wykazu. Podczas oczekiwania mapa pozostaje dostępna. Przycisk lokalizacji pozwala ponowić próbę.
+Przy otwarciu mapa jednorazowo prosi przeglądarkę o lokalizację. Po uzyskaniu zgody i pozycji przybliża okolicę użytkownika (zoom 15). Przełączenie frakcji wraca do tej pozycji i przybliżenia bez ponownego pobierania lokalizacji. Gdy pozycja nie jest znana, pokazuje cały wybrany wykaz. Odmowa, błąd, przekroczenie limitu 15 sekund lub brak obsługi lokalizacji powodują pokazanie całego wybranego wykazu. Podczas oczekiwania mapa pozostaje dostępna. Przycisk lokalizacji pozwala ponowić próbę.
 
-Elektronika: 137 wpisów operatora Elektryczne Śmieci z Pomorskiego oraz osobno 90 wpisów miejskiej mapy Gdańska, pobranych 2 października 2026. Wybór wykazu znajduje się pod wyborem frakcji. Listy częściowo się pokrywają, więc nie są sumowane jako unikalne pojemniki. Współrzędne pochodzą bezpośrednio z map źródłowych, bez weryfikacji w terenie. Uwagi zachowują wykryte powtórzenia współrzędnych oraz rozbieżności między wykazami. Dane są osadzone w HTML; kopia znajduje się w `elektroodpady_punkty.json`.
+Elektronika: jedna lista **143 miejsc z 227 wpisów źródłowych** (137 wpisów operatora Elektryczne Śmieci z Pomorskiego i 90 wpisów miejskiej mapy Gdańska), pobranych 2 października 2026. Usunięto 84 powtórzenia w 82 scalonych grupach. Liczba miejsc po scaleniu nie jest zweryfikowaną liczbą fizycznych pojemników ani pełnym spisem województwa.
 
+Deduplicacja porównuje miejscowość, znormalizowany adres i odległość. Ten sam adres może być scalony przy przesunięciu do 50 m; opisy tej samej ulicy z różnymi numerami — przy pozycjach do 5 m od siebie, z zachowaniem obu opisów i uwagą. Normalizacja pomija prefiksy ulic, odstępy, interpunkcję, polskie znaki i rozpoznane warianty Kaczyńskiego / Lecha Kaczyńskiego oraz Jagielońska / Jagiellońska. Automatyczne scalenie nie tworzy grup o rozpiętości większej niż 50 m. Sama bliskość różnych ulic nie wystarcza.
+
+Cztery decyzje opisane w `metadata.reviewed`: dwa cmentarze (zgodne współrzędne, nazwa obiektu zamiast adresu), Kartuska 459 / 459C (wariant numeru, ok. 22 m) oraz Karpacka 2 (sprzeczne pozycje operatora, wybrano współrzędne zgodne z mapą miejską). Jeleniogórska / Flisykowskiego pozostają osobno mimo identycznych pozycji; Fabryczna / Kartuska pozostają osobno mimo niewielkiej odległości. Te przypadki wymagają potwierdzenia w terenie.
+
+Współrzędne zachowano z jednego z oryginalnych wpisów, bez uśredniania. W szczegółach każdego miejsca dostępne są wszystkie źródła, identyfikatory, adresy i współrzędne. Wyszukiwanie obejmuje warianty adresu, a eksport zachowuje pochodzenie danych. JSON zawiera oryginalne tablice `operator` i `city`, połączoną `points` oraz `metadata`. HTML zawiera gotową listę i nie pobiera ani nie scala danych podczas uruchamiania.
+
+Odtworzenie listy: `node scripts/build-electronics.cjs`. Kontrola danych: `node tests/electronics.cjs`. Testy przeglądarkowe `tests/fractions.cjs` i `tests/startup-location.cjs` wymagają Playwright oraz Chrome.
 Źródła elektroniki:
 - https://elektrycznesmieci.pl/mapa-pojemnikow/
 - https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/

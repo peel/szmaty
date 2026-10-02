@@ -36,7 +36,7 @@ const path=require('node:path');
      assert.equal(switched.zoom,15);
     }else assert(switched.zoom<12,'Without location, switching should show the whole selected fraction');
     assert.equal(switched.requests,outcome==='unavailable'?0:1,'Switching reuses the known location');
-    assert.equal(await page.locator('#visible-count').innerText(),fraction==='electronics'?'137':'856');
+    assert.equal(await page.locator('#visible-count').innerText(),fraction==='electronics'?'143':'856');
    }
    assert.deepEqual(errors,[]);
    await page.close();

@@ -1,0 +1,36 @@
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const path=require('node:path');
+const data=JSON.parse(fs.readFileSync(path.join(__dirname,'../elektroodpady_punkty.json')));
+assert(Array.isArray(data.points),'Electronics must have one deduplicated list');
+const {mergeElectronics}=require('../scripts/build-electronics.cjs');
+const points=data.points;
+assert.equal(points.length,143);
+const provenance=points.flatMap(p=>p.sources.map(s=>s.record_id));
+assert.equal(provenance.length,227);
+assert.equal(new Set(provenance).size,227,'Every source record must be retained exactly once');
+const find=id=>points.find(p=>p.sources.some(s=>s.record_id===id));
+assert.equal(find(12386),find(107588),'Street prefix differences merge');
+assert.equal(find(20186),find(107572),'Same address with small coordinate offset merges');
+assert.equal(find(12295),find(21087),'Duplicate operator records merge');
+assert.equal(find(21244),find(109298),'Cemetery name and address merge');
+assert.equal(find(19930),find(107601),'Reviewed Kartuska address variants merge');
+assert.notEqual(find(19931),find(107601),'Nearby Fabryczna remains distinct');
+assert.notEqual(find(12291),find(12302),'Conflicting streets at identical coordinates stay distinct');
+assert.equal(find(21084),find(12387),'Karpacka keeps one entry with a coordinate conflict');
+assert.equal(find(21084).geo.lat,54.415683,'Karpacka uses operator/city consensus, not the Ciołkowskiego coordinate');
+assert.match(find(21084).note,/sprzeczne współrzędne/);
+assert.notEqual(find(12355),find(107560),'Different Myśliwska buildings remain distinct');
+for(const p of points){
+ assert(Number.isFinite(p.geo.lat)&&Number.isFinite(p.geo.lon));assert(p.sources.length);
+ assert(p.sources.some(s=>s.lat===p.geo.lat&&s.lon===p.geo.lon),'Every marker uses an original source coordinate');
+}
+const html=fs.readFileSync(path.join(__dirname,'../index.html'),'utf8');
+const embedded=JSON.parse(html.match(/<script id="electronics-data" type="application\/json">([\s\S]*?)<\/script>/)[1]);
+assert.deepEqual(embedded.points,points,'Offline HTML and data file agree');
+assert.deepEqual(mergeElectronics(data).points,points,'Rebuilding is deterministic');
+const fixture=(id,address,lat,city='GDAŃSK')=>({...data.operator[0],id,ids:[String(id)],address_pdf:address,city,geo:{status:'source',lat,lon:18.6},note:''});
+assert.equal(mergeElectronics({operator:[fixture(1,'Testowa 1',54.4),fixture(2,'Testowa 1',54.5)],city:[]}).points.length,2,'Same address at distant coordinates is not an automatic merge');
+assert.equal(mergeElectronics({operator:[fixture(1,'Testowa 1',54.4),fixture(2,'Inna 1',54.4)],city:[]}).points.length,2,'Coordinates alone are insufficient');
+assert.equal(mergeElectronics({operator:[fixture(1,'Testowa 1',54.4),fixture(2,'Testowa 1',54.4,'GDYNIA')],city:[]}).points.length,2,'City boundaries are respected');
+console.log('PASS: 227 records -> 143 entries, complete provenance, matching rules and conflict safeguards');

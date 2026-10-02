@@ -21,7 +21,7 @@ Poniższy opis dotyczy frakcji szmaty.
 
 Mapa obejmuje wszystkie 1217 wierszy z wykazu PDF. Po połączeniu powtórzeń w tej samej miejscowości, gminie i powiecie zawiera 1090 opisów lokalizacji: 548 dopasowanych adresów, 308 pozycji orientacyjnych i 234 opisy bez współrzędnych. Nie potwierdza aktualnej obecności pojemników.
 
-Współrzędne zapisano bezpośrednio w `index.html`; kopia znajduje się w `pomorskie_punkty.json`, a opisy i numery wierszy źródłowych w `pomorskie_lokalizacje.json`. Mapa nie pobiera współrzędnych przy uruchomieniu. Internet jest potrzebny do podkładu OpenStreetMap. Filtry obejmują powiat, miejscowość i dokładność dopasowania. Archiwalny CSV z wykazem tekstyliów znajduje się w `pomorskie_pojemniki.csv`.
+Współrzędne zapisano bezpośrednio w `index.html`; kopia znajduje się w `pomorskie_punkty.json`, a opisy i numery wierszy źródłowych w `pomorskie_lokalizacje.json`. Mapa nie pobiera współrzędnych przy uruchomieniu. Internet jest potrzebny do podkładu OpenStreetMap. Wyszukiwarka filtruje listę i punkty po adresie, miejscowości, powiecie oraz wariantach opisu. Wybór frakcji pozostaje osobno. Archiwalny CSV z wykazem tekstyliów znajduje się w `pomorskie_pojemniki.csv`.
 
 Źródło wykazu: https://s-trojmiasto.pl/download/pojemniki-pomorskie.pdf (wiersze 1–1217, strony 1–18 oraz kontynuacja adresu wiersza 709 na stronie 29). Wiersze 958–961 nie mają adresu; każdy pozostaje osobnym wpisem. Oryginalne nazwy i literówki zachowano, a rozpoznane korekty do dopasowania opisano w uwagach. Niejednoznacznych opisów nie zastępowano środkiem miejscowości.
 

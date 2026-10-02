@@ -1,4 +1,14 @@
-# Szmaty — mapa pojemników w województwie pomorskim
+# Gdzie wyrzucić — szmaty i elektronika w Pomorskiem
+
+Nagłówek pozwala wybrać frakcję: szmaty lub elektronika. Link „Źródła i dokładność” opisuje aktualnie wybraną frakcję. Eksport CSV, GeoJSON i KML obejmuje wybraną frakcję i wykaz; zapis HTML zachowuje wszystkie dane obu frakcji.
+
+Elektronika: 137 wpisów operatora Elektryczne Śmieci z Pomorskiego oraz osobno 90 wpisów miejskiej mapy Gdańska, pobranych 2 października 2026. Wybór wykazu znajduje się pod wyborem frakcji. Listy częściowo się pokrywają, więc nie są sumowane jako unikalne pojemniki. Współrzędne pochodzą bezpośrednio z map źródłowych, bez weryfikacji w terenie. Uwagi zachowują wykryte powtórzenia współrzędnych oraz rozbieżności między wykazami. Dane są osadzone w HTML; kopia znajduje się w `elektroodpady_punkty.json`.
+
+Źródła elektroniki:
+- https://elektrycznesmieci.pl/mapa-pojemnikow/
+- https://czystemiasto.gdansk.pl/dla-mieszkancow/mapa-pojemnikow-na-elektroodpady/
+
+Poniższy opis dotyczy frakcji szmaty.
 
 Mapa obejmuje wszystkie 1217 wierszy z wykazu PDF. Po połączeniu powtórzeń w tej samej miejscowości, gminie i powiecie zawiera 1090 opisów lokalizacji: 548 dopasowanych adresów, 308 pozycji orientacyjnych i 234 opisy bez współrzędnych. Nie potwierdza aktualnej obecności pojemników.
 

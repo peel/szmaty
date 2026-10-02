@@ -1,0 +1,67 @@
+const {chromium}=require('playwright');
+const assert=require('node:assert/strict');
+const path=require('node:path');
+const artifactDir=process.env.MAP_TEST_OUTPUT||require('node:fs').mkdtempSync(path.join(require('node:os').tmpdir(),'szmaty-test-'));
+require('node:fs').mkdirSync(artifactDir,{recursive:true});
+(async()=>{
+ const browser=await chromium.launch({headless:true,channel:'chrome'});
+ const page=await browser.newPage({viewport:{width:1280,height:800}});
+ const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.route('https://tile.openstreetmap.org/**',r=>r.abort());
+ await page.goto(process.env.MAP_URL||'file://'+path.resolve(__dirname,'../index.html'));
+ assert.equal(await page.locator('#fraction').count(),1,'The header must offer fraction selection');
+ assert.equal(await page.locator('.eyebrow').innerText(),'GDZIE WYRZUCIĆ');
+ assert.equal(await page.locator('#results .result').count(),1090);
+ await page.selectOption('#fraction','electronics');
+ assert.equal(await page.locator('#results .result').count(),137);
+ await page.selectOption('#city','GDYNIA');
+ assert.equal(await page.locator('#results .result').count(),10);
+ await page.selectOption('#electronics-source','city');
+ assert.equal(await page.locator('#results .result').count(),90,'Source change resets incompatible city');
+ await page.locator('#results .result').first().click();
+ assert.match(await page.locator('#popup').innerText(),/Gdańsk|GDAŃSK/);
+ assert.doesNotMatch(await page.locator('#popup').innerText(),/PDF|wg PDF/);
+ const exported=await page.evaluate(()=>JSON.parse(geoJSON()));
+ assert.equal(exported.features.length,90);
+ assert(exported.features.every(f=>f.properties.source.includes('czystemiasto.gdansk.pl')));
+ const kml=await page.evaluate(()=>kmlText());
+ assert.equal((kml.match(/<Placemark>/g)||[]).length,90);
+ assert(!kml.includes('#page=undefined'));
+ const saved=page.waitForEvent('download');
+ await page.locator('#save').click();
+ const savedPath=path.join(artifactDir,'fractions-saved.html');
+ await (await saved).saveAs(savedPath);
+ const copy=await browser.newPage();
+ await copy.route('https://tile.openstreetmap.org/**',r=>r.abort());
+ await copy.goto('file://'+savedPath);
+ assert.equal(await copy.locator('#visible-count').innerText(),'856','Saving electronics must preserve textile coordinates');
+ await copy.selectOption('#fraction','electronics');
+ assert.equal(await copy.locator('#results .result').count(),137);
+ await copy.close();
+ await page.selectOption('#fraction','textiles');
+ assert.equal(await page.locator('#results .result').count(),1090);
+ assert.equal((await page.evaluate(()=>JSON.parse(geoJSON()))).features.length,1090);
+ assert.equal(await page.locator('#map-tip').count(),0,'Remove the map warning overlay');
+ assert.equal(await page.locator('.sidebar-footer a').count(),0);
+ await page.locator('#about').click();
+ assert.match(await page.locator('#modal').innerText(),/PDF|wykazu/);
+ await page.locator('#modal-close').click();
+ for(const size of [{width:1280,height:800},{width:390,height:844},{width:320,height:568}]){
+  await page.setViewportSize(size);
+  if(size.width<761){
+   await page.locator('#menu').click();
+   await page.waitForFunction(()=>Math.abs(document.querySelector('.sidebar').getBoundingClientRect().x)<1);
+  }
+  assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'No horizontal page overflow');
+  assert(await page.locator('.sidebar').evaluate(e=>e.scrollWidth<=e.clientWidth),'No sidebar overflow');
+  await page.screenshot({path:path.join(artifactDir,`fractions-${size.width}.png`)});
+  await page.selectOption('#fraction','electronics');
+  assert(await page.locator('.sidebar').evaluate(e=>e.scrollWidth<=e.clientWidth),'No electronics sidebar overflow');
+  await page.screenshot({path:path.join(artifactDir,`electronics-${size.width}.png`)});
+  await page.selectOption('#fraction','textiles');
+  if(size.width<761)await page.locator('#close-menu').click();
+ }
+ assert.deepEqual(errors,[]);
+ await browser.close();
+ console.log('PASS: fraction and source selection, filters, popup, exports, restored textiles, removed overlay, desktop/mobile layout');
+})().catch(e=>{console.error(e);process.exit(1)});
